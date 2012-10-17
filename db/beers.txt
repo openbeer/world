@@ -1,2 +1,98 @@
 ## add some beers here
 
+== Fassbier
+
+Ottakringer Goldfassl
+Ottakringer Pils
+Ottakringer Zwickl
+Ottakringer Zwickl Rot
+Ottakringer Schnitt
+Ottakringer Dunkles
+Ottakringer Helles
+
+
+Schneider Weisse
+
+Zwettler Pils
+Zwettler Zwickl
+Goesser Gold
+Goesser Zwickl
+Goesser Maerzen
+Edelweiss Hofbraeu
+Schwechater Zwickl
+Schwechater Hopfenperle
+Puntigamer Panther
+Wieselburger Spezial
+Schladminger
+Trumer Pils
+Schremser | Schremser Pils
+Egger Permium Pils
+Mohren Pils
+Mohren Laendle
+Mohren Zwickl
+
+
+Pilsner Urquell
+Budweiser Budvar
+Starobrno | Altbruenner Gold
+
+
+Foster's
+Guinness
+Murphys Red
+Kilkenny
+Newcastle Brown Ale
+John Smith Bitter
+Heineken
+Stiegl
+Stiegl Goldbraeu
+Fullers London Pride
+
+== Flaschenbier
+
+Pilsner Urquell
+Amstel
+Stella Artois
+Paulaner Hefeweizen
+Paulaner Weisse
+Warsteiner
+Grieskirchner Dunkel
+Grieskirchner Radler
+Clausthaler
+Murauer
+Hirter Pils
+Murauer Maerzen
+Villacher Maerzen
+
+
+Wieselburger Gold
+Wieselburger Stammbraeu
+Zipfer Maerzen
+Ziper Urtyp
+Kaiser Doppelmalz
+Schlossgold
+Edelweiss Dunkel
+Edelweiss Hefetrueb
+Zwettler Original
+Kapsreiter Landbier
+Koenig Ludwig Dunkel
+
+Stiegel Weizengold
+Ottakringer Helles
+
+
+Weihenstephaner Weizen
+Weihenstephaner Trueb
+Weihenstephaner Dunkel
+Heineken
+
+Corona | Corona Extra
+
+Guinness
+Murphys Red
+
+Miller Genuine Draft
+Beck's
+Foster's
+
+
