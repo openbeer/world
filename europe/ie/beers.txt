@@ -1,0 +1,6 @@
+
+Guinness      # city:dublin
+
+Murphys Red   # city:cork
+
+Kilkenny,   irish_red_ale

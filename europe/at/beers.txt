@@ -1,0 +1,92 @@
+##############################
+# Wien
+
+Ottakringer Goldfassl
+Ottakringer Pils
+Ottakringer Zwickl
+Ottakringer Zwickl Rot
+Ottakringer Schnitt
+Ottakringer Dunkles
+Ottakringer Helles
+
+
+###########################
+# Niederösterreich
+
+Zwettler Pils
+Zwettler Zwickl
+Zwettler Original
+
+
+Schwechater Zwickl
+Schwechater Hopfenperle
+
+Wieselburger Spezial
+Wieselburger Gold
+Wieselburger Stammbräu
+
+Kaiser Doppelmalz
+
+Schremser|Schremser Pils
+
+Egger Permium Pils
+
+
+##############################
+# Oberösterreich
+
+Grieskirchner
+Grieskirchner Dunkel
+Grieskirchner Radler
+
+Zipfer Märzen
+Zipfer Urtyp
+
+Schlossgold
+
+Kapsreiter Landbier
+
+
+##############################
+# Steiermark
+
+Gösser Gold
+Gösser Zwickl
+Gösser Märzen
+
+Puntigamer Panther
+
+Schladminger
+
+Murauer
+Murauer Märzen
+
+
+############################
+# Kärnten
+
+Hirter Pils
+
+Villacher Märzen
+
+
+#############
+# Salzburg
+
+Stiegl
+Stiegl Goldbräu
+Stiegl Weizengold
+
+
+Edelweiss Dunkel
+Edelweiss Hefetrüb
+
+Trumer Pils
+
+
+#####################
+# Vorarlberg
+
+Mohren Pils
+Mohren Ländle
+Mohren Zwickl
