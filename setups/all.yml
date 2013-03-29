@@ -1,0 +1,16 @@
+
+europe:
+- europe/at/beers
+- europe/be/beers
+- europe/cz/beers
+- europe/de/beers
+- europe/en/beers
+- europe/ie/beers
+- europe/nl/beers
+
+north-america:
+- north-america/us/beers
+- north-america/mx/beers
+
+pacific:
+- pacific/au/beers
