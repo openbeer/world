@@ -1,3 +1,7 @@
+#########################
+#
+#  see de.wikipedia.org/wiki/Kategorie:Brauerei_(Österreich)
+
 ##############################
 # Wien
 
@@ -10,5 +14,28 @@ ottakringer, Ottakringer Brauerei, 1838, WI, city:wien, 1160 Wien // Ottakringer
 zwettler, Zwettler Brauerei, 1709, NO, city:zwettl, 3910 Zwettl // Syrnauer Straße 22-25
 weitra,   Weitra Bräu Bierwerkstatt, 1321, NO, city:weitra, 3970 Weitra // Sparkasseplatz 160, zwettler  # Part of Zwettler
 
+schrems,  Brauerei Schrems, 1410, NO, city:schrems, 3943 Schrems // Niederschremser Straße 1
 
 
+schwechat, Brauerei Schwechat, 1796, NO, city:schwechat, 2320 Schwechat // Mautner Markhof-Straße 11,   brau_union  # Part of Brau Union
+
+wieselburg, Brauerei Wieselburg, 1770, NO, city:wieselburg, 3250 Wieselburg // Dr.-Beuerle-Straße 1, brau_union  # Part of Brau Union
+
+
+egger, Privatbrauerei Fritz Egger, 1978, NO, city:unterradlberg, 3105 Unterradlberg // Tiroler Straße 18
+
+
+hubertus, Hubertus Bräu, 1454, NO, city:laa, 2136 Laa/Thaya // Hubertusgasse 1
+
+
+
+##############################
+# Oberösterreich
+
+grieskirchen, Brauerei Grieskirchen, 1708, OO, city:grieskirchen, 4710 Grieskirchen // Stadtplatz 14
+
+zipf, Brauerei Zipf, OO, city:zipf, 4871 Zipf // Zipf 22, brau_union  # Part of Brau Union
+
+eggenberg, Brauerei Schloss Eggenberg, OO, city:vorchdorf, 4655 Vorchdorf // Eggenberg 1
+
+kapsreiter, Kapsreiter Brauerei, OO, city:schaerding, 4780 Schärding // Linzer Straße 1,  ottakringer   # Part of Ottakringer

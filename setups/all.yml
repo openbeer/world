@@ -1,6 +1,11 @@
 
+breweries:
+- europe/at/breweries
+
+
 europe:
 - europe/at/beers
+- europe/at/beers.non
 - europe/be/beers
 - europe/cz/beers
 - europe/de/beers

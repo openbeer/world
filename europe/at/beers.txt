@@ -1,10 +1,11 @@
 ##############################
 # Wien
 
+
 Ottakringer Helles,                  5.2 %, 11.8°, by:ottakringer
 Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°, by:ottakringer
 Ottakringer (Gold Fassl) Pils,       4.6 %, 11.2°, by:ottakringer
-Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, by:ottakringer, bio
+ottakringerpur, Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, by:ottakringer, bio
 Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°, by:ottakringer
 Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°, by:ottakringer
 Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°, by:ottakringer
@@ -22,36 +23,53 @@ Zwettler Dunkles,      3.4 %,  11.5°, by:zwettler
 Zwettler Kuenringer Festbock,  6.8 %, 16.2°,  by:zwettler
 
 Weitra Helles,  5.0 %,   11.8°,  by:weitra
-Hadmar {Bio},   5.2 %,   12.5°,  by:weitra, bio
+hadmar, Hadmar {Bio},   5.2 %,   12.5°,  by:weitra, bio
 
 
-Schwechater Zwickl
-Schwechater Hopfenperle
+Schwechater,         5.0%, 11.5°, 41.0 kcal/100ml, by:schwechat
+Schwechater Zwickl,  5.4%, 12.5°, 45.0 kcal/100ml, by:schwechat
+# Schwechater Hopfenperle ??
 
-Wieselburger Spezial
-Wieselburger Gold
-Wieselburger Stammbräu
+Wieselburger Stammbräu, 5.4%, 12.6°,  by:wieselburg
+Wieselburger Gold,      5.2%, 12.1°,  by:wieselburg
+Wieselburger Spezial,    by:wieselburg
 
-Kaiser Doppelmalz
+Kaiser Fasstyp,      5%, 11.6°,  by:wieselburg
+Kaiser Premium,    5.4%, 12.2°, by:wieselburg
+Kaiser Doppelmalz,  4.7% ,  by:wieselburg
 
-Schremser|Schremser Pils
+Schremser Premium,     5.1%, 11.9°, by:schremser
+Schremser Edelmärzen,  5.0%, 11.9°, by:schremser
+Schremser Pils,        4.5%, 11,2°, by:schremser
+Schremser Doppelmalz,  4.6%, 11.9°, by:schremser
 
-Egger Permium Pils
+Egger Märzen,       5.2 %, 11.8°, by:egger
+Egger Zwickl 1868,  5.1 %, 11.6°, by:egger
+Egger Permium,      5.2 %, 11.8°, by:egger   # check is Premium (Pils)??
+Egger Leicht,       3.5 %,  8.8°, by:egger   # will change to Egger Sprizz ??
+
+Hubertus Märzen,    5.1 %,  11.9°, by:hubertus
+Hubertus Pils,      5.4 %,  12.5°, by:hubertus
+Hubertus Dunkel,    3.9 %,  12.4°, by:hubertus
 
 
 ##############################
 # Oberösterreich
 
-Grieskirchner
-Grieskirchner Dunkel
-Grieskirchner Radler
+Grieskirchner Pils,          4.8%, 11.2°, by:grieskirchen
+Grieskirchner Märzen,        5.0%, 11.8°, by:grieskirchen
+Grieskirchner Export Dunkel, 5.0%, 12.4°, by:grieskirchen
+Grieskirchner Weisse Hell,   5.1%, 12.2°, by:grieskirchen
 
-Zipfer Märzen
-Zipfer Urtyp
 
-Schlossgold
+Zipfer Märzen,  5.0%, 11.8°,  by:zipf
+Zipfer Urtyp,   5.4%, 12.2°,  by:zipf
 
-Kapsreiter Landbier
+
+Kapsreiter (Landbier) Hell,  5.3%, 12.8°, by:kapsreiter
+
+Schloss Eggenberg (Classic) Märzen, 4.9%, 11.7°,  by:eggenberg
+Schloss Eggenberg Gold Spezial,     5.3%, 12.6°,  by:eggenberg
 
 
 ##############################
