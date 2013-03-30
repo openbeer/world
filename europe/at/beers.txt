@@ -1,21 +1,28 @@
 ##############################
 # Wien
 
-Ottakringer Goldfassl
-Ottakringer Pils
-Ottakringer Zwickl
-Ottakringer Zwickl Rot
-Ottakringer Schnitt
-Ottakringer Dunkles
-Ottakringer Helles
+Ottakringer Helles,                  5.2 %, 11.8°, by:ottakringer
+Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°, by:ottakringer
+Ottakringer (Gold Fassl) Pils,       4.6 %, 11.2°, by:ottakringer
+Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, by:ottakringer, bio
+Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°, by:ottakringer
+Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°, by:ottakringer
+Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°, by:ottakringer
+Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°, by:ottakringer
 
 
 ###########################
 # Niederösterreich
 
-Zwettler Pils
-Zwettler Zwickl
-Zwettler Original
+Zwettler Original,     5.1 %,  11.9°, by:zwettler
+Zwettler Export Lager, 5.0 %,  11.8°, by:zwettler
+Zwettler Pils,         4.9 %,  11.5°, by:zwettler
+Zwettler Zwickl,       5.5 %,  12.5°, by:zwettler
+Zwettler Dunkles,      3.4 %,  11.5°, by:zwettler
+Zwettler Kuenringer Festbock,  6.8 %, 16.2°,  by:zwettler
+
+Weitra Helles,  5.0 %,   11.8°,  by:weitra
+Hadmar {Bio},   5.2 %,   12.5°,  by:weitra, bio
 
 
 Schwechater Zwickl

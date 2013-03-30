@@ -1,0 +1,14 @@
+##############################
+# Wien
+
+ottakringer, Ottakringer Brauerei, 1838, WI, city:wien, 1160 Wien // Ottakringer Straße 91
+
+
+###########################
+# Niederösterreich
+
+zwettler, Zwettler Brauerei, 1709, NO, city:zwettl, 3910 Zwettl // Syrnauer Straße 22-25
+weitra,   Weitra Bräu Bierwerkstatt, 1321, NO, city:weitra, 3970 Weitra // Sparkasseplatz 160, zwettler  # Part of Zwettler
+
+
+
