@@ -1,0 +1,11 @@
+
+
+alaskan, Alaskan Brewing Co.|Alaskan Brewery Company, 1986, AK, city:juneau, Juneau | AK 99801-9540 // 5429 Shaune Dr.
+
+brooklyn, Brooklyn Brewery, 1987, NY, city:newyork, Brooklyn | NY 11249 // #1 Brewers Row // 79 N 11th St.
+
+dixie, Dixie Brewing Co.|Dixie Brewing Company, 1907, LA, city:neworleans, New Orleans | LA 70119 // 2401 Tulane Ave.
+
+gooseisland, Goose Island Beer Co.|Goose Island Beer Company, IL, city:chicago, Chicago | IL 60612 // 1800 West Fulton St.
+
+boston, Boston Beer Co.|Boston Beer Company, MA, city:boston, Boston | MA 02130 // 30 Germania St.
