@@ -38,10 +38,10 @@ Kaiser Fasstyp,      5%, 11.6°,  by:wieselburg
 Kaiser Premium,    5.4%, 12.2°, by:wieselburg
 Kaiser Doppelmalz,  4.7% ,  by:wieselburg
 
-Schremser Premium,     5.1%, 11.9°, by:schremser
-Schremser Edelmärzen,  5.0%, 11.9°, by:schremser
-Schremser Pils,        4.5%, 11,2°, by:schremser
-Schremser Doppelmalz,  4.6%, 11.9°, by:schremser
+Schremser Premium,     5.1%, 11.9°, by:schrems
+Schremser Edelmärzen,  5.0%, 11.9°, by:schrems
+Schremser Pils,        4.5%, 11.2°, by:schrems
+Schremser Doppelmalz,  4.6%, 11.9°, by:schrems
 
 Egger Märzen,       5.2 %, 11.8°, by:egger
 Egger Zwickl 1868,  5.1 %, 11.6°, by:egger
