@@ -2,6 +2,7 @@
 breweries:
 - europe/at/breweries
 - north-america/us/breweries
+- north-america/mx/breweries
 
 europe:
 - europe/at/beers

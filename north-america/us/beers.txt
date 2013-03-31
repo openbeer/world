@@ -3,7 +3,7 @@ Miller Genuine Draft
 
 
 Alaskan Pale, 5.2%, by:alaskan, golden_ale   #  color: 7 srm, og: 1.047, bitterness: 24 IBU  -- style: check is golde ale just a pale ale?
-Alaskan Amber, 5.3%, by:alaskan,  alt     #  color: 22 srm, og: 1.054, bitterness: 18 IBU  -- style: what to do with alt ??
+Alaskan Amber, 5.3%, by:alaskan,  alt     #  color: 22 srm, og: 1.054, bitterness: 18 IBU  -- style: what to do with alt ?? same as old ale  ??
 Alaskan IPA|Alaskan India Pale Ale, 6.2%, by:alaskan, ipa|india_pale_ale    # color: 9 srm, og: 1.057, bitterness:  55 IBU
 
 # nb: alaskan is a limited edition (add a flag? different from seasonal?)

@@ -6,6 +6,6 @@ brooklyn, Brooklyn Brewery, 1987, NY, city:newyork, Brooklyn | NY 11249 // #1 Br
 
 dixie, Dixie Brewing Co.|Dixie Brewing Company, 1907, LA, city:neworleans, New Orleans | LA 70119 // 2401 Tulane Ave.
 
-gooseisland, Goose Island Beer Co.|Goose Island Beer Company, IL, city:chicago, Chicago | IL 60612 // 1800 West Fulton St.
+gooseisland, Goose Island Beer Co.|Goose Island Beer Company, 1988, IL, city:chicago, Chicago | IL 60612 // 1800 West Fulton St.
 
-boston, Boston Beer Co.|Boston Beer Company, MA, city:boston, Boston | MA 02130 // 30 Germania St.
+boston, Boston Beer Co.|Boston Beer Company, 1984, MA, city:boston, Boston | MA 02130 // 30 Germania St.

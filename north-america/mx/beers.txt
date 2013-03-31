@@ -1,5 +1,14 @@
 
 
-Corona|Corona Extra, city:mexico, lager
+Corona|Corona Extra, 4.6%, by:modelo,  lager|pale_lager
+Barrilito, 3.6%, by:modelo, pale_lager
+Victoria, 4%, by:modelo, vienna_lager
 
+
+Dos Equis XX Special Lager|Dos Equis Special Lager, 4.3%,  by:cuamoc, pale_lager
+Dos Equis XX Amber|Dos Equis Amber,          4.7%,  by:cuamoc, vienna_lager   # use dark lager as synonym ??
+
+Indio, 4.5%, by:cuamoc,   maerzen|oktoberfest     # use dark lager as synonym ??
+
+Sol, 4.5%, by:cuamoc, lager|pale_lager  # -- style: American Adjunct Lager ?? use pale_lager ??
 
