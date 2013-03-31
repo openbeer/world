@@ -3,10 +3,12 @@ breweries:
 - europe/at/breweries
 - north-america/us/breweries
 - north-america/mx/breweries
+- south-america/ar/breweries
+- south-america/br/breweries
 
 europe:
 - europe/at/beers
-- europe/at/beers.non
+- europe/at/beers.non            # non-alcoholic (n/a) / alcohol-free
 - europe/be/beers
 - europe/cz/beers
 - europe/de/beers
@@ -17,6 +19,10 @@ europe:
 north-america:
 - north-america/us/beers
 - north-america/mx/beers
+
+south-america:
+- south-america/ar/beers
+- south-america/br/beers
 
 pacific:
 - pacific/au/beers

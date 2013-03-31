@@ -1,8 +1,8 @@
 
 
-Corona|Corona Extra, 4.6%, by:modelo,  lager|pale_lager
-Barrilito, 3.6%, by:modelo, pale_lager
-Victoria, 4%, by:modelo, vienna_lager
+Corona|Corona Extra, 4.6%, by:gmodelo,  lager|pale_lager
+Barrilito, 3.6%, by:gmodelo, pale_lager
+Victoria, 4%, by:gmodelo, vienna_lager
 
 
 Dos Equis XX Special Lager|Dos Equis Special Lager, 4.3%,  by:cuamoc, pale_lager

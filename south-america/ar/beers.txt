@@ -1,0 +1,10 @@
+
+Quilmes Cristal,    4.9%,  by:quilmes, lager
+Quilmes Bock,       6.3%,  by:quilmes,   bock
+Quilmes Stout,      4.8%,  by:quilmes,   stout
+Quilmes Red Lager,  4.7%,  by:quilmes,  red lager   # american amber - check? is the same?
+Quilmes 1890,       5.4%,  by:quilmes,   pilsner
+
+Patagonia Amber Lager, 4.5%, by:quilmes,  amber_lager   # vienna lager or pale lager- check?
+Patagonia Bohemia Pilsener, 5.2%,  by:quilmes, pilsner
+Patagonia Weisse,  5%, by:quilmes,  weisse
