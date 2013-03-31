@@ -13,7 +13,7 @@ Step 1:  Get a copy of the `world.db` fixtures
 
     $ git clone git://github.com/geraldb/world.db.git
 
-Step 2:  Get a copy the `beer.db` fixtures
+Step 2:  Get a copy of the `beer.db` fixtures
 
     $ git clone git://github.com/geraldb/beer.db.git
 
@@ -52,14 +52,15 @@ for more.
 The `beerdb` command line tool
 lets you import beer and brewery data in plain text. Example:
 
+### Breweries
+
 ```
 alaskan, Alaskan Brewing Co., 1986, AK, city:juneau, Juneau | AK 99801-9540 // 5429 Shaune Dr.
-
 brooklyn, Brooklyn Brewery, 1987, NY, city:newyork, Brooklyn | NY 11249 // #1 Brewers Row // 79 N 11th St.
-
 dixie, Dixie Brewing Co., 1907, LA, city:neworleans, New Orleans | LA 70119 // 2401 Tulane Ave.
 ```
 
+### Beers
 
 ```
 Alaskan Pale, 5.2%, by:alaskan, golden_ale
@@ -81,13 +82,13 @@ Dixie Blackened Voodoo|Dixie Blackened Voodoo Lager,  5.0%, by:dixie,  munich_du
 
 ## Real World Usage
 
-[prost](https://github.com/geraldb/prost) - `beer.db` Web Admin Tool in Ruby on Rails (version 3.2 and up).
+- [prost](https://github.com/geraldb/prost) - `beer.db` Web Admin Tool in Ruby on Rails (version 3.2 and up).
 
 
 ## Alternatives
 
-[BreweryDB.com](http://www.brewerydb.com) -  beer and brewery data and api by PintLabs Inc.
-[Open Beer Database](http://openbeerdatabase.com/)  - free, public beer and brewery database and API
+- [BreweryDB.com](http://www.brewerydb.com) -  beer and brewery data and api by PintLabs Inc.
+- [Open Beer Database](http://openbeerdatabase.com/)  - free, public beer and brewery database and API
 
 
 ## License
