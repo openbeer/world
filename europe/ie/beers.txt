@@ -1,6 +1,6 @@
-
 Guinness      # city:dublin
 
-Murphys Red   # city:cork
+Murphys Red, by:murphys, irish_red_ale|red_ale|ale
+Murphys Irish Stout, by:murphys, irish_stout|stout
 
 Kilkenny,   irish_red_ale
