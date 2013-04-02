@@ -1,6 +1,6 @@
 
+Fullers London Pride, by:fullers
 
-Fullers London Pride,   city:london
 
 Newcastle Brown Ale|Newkie Brown|Newcastle,  city:newcastle, brown_ale
 
