@@ -1,0 +1,22 @@
+#########################
+#
+#  see en.wikipedia.org/wiki/List_of_breweries_in_Australia
+
+##############################
+
+# Major Breweries
+carlton, Carlton and United Breweries, 1907, VIC, city: Melbourne, Abbotsford
+cascade, Cascade Brewery, 1824, TAS, city: Hobart
+castlemaine, Castlemaine Perkins, 1878, QLD, city: Brisbane
+coopers, Coopers Brewery,1862, SA, city: Adelaide, Regency Park
+hahn, Hahn Brewery, 1986, NSW, city: Sydney, Camperdown
+boags, J. Boag & Sons, 1883, TAS, city: Launceston
+sa, South Australian Brewing Company, 1859, SA, city: Adelaide, Thebarton
+swan, Swan Brewery, 1837, WA, city: Canning Vale
+tooheys, Tooheys, 1869, NSW, city: Lidcombe
+
+# Micro breweries
+bluetongue, Bluetongue Brewery, 2003, WA, city: Wanervale
+bootleg, Bootleg Brewery, 1994, WA, city: Margaret River
+burleigh, Burleigh Brewing Company, 2006, QLD, city: Burleigh Heads
+creatures, Little Creatures Brewery, 2000, WA, city: Fremantle
