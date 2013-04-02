@@ -6,6 +6,7 @@ breweries:
 - south-america/ar/breweries
 - south-america/br/breweries
 - asia/jp/breweries
+- pacific/au/breweries
 
 europe:
 - europe/at/beers

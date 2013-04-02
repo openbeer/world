@@ -1,2 +1,28 @@
 
-Foster's
+Foster's, 5.2%, pale lager
+
+
+Victoria Bitter, 4.9%, by: carlton, lager
+Crown Lager, 4.9%, by: carlton, lager
+Carlton Draught, 4.6%, by: carlton, pale lager
+Pure Blonde, 4.6%, by: carlton, Low-Carbohydrate lager
+
+# Cascade
+Cascade Premium Lager, by: cascade, lager
+Cascade Pale Ale, by: cascade, lager
+Cascade Blonde, by: cascade, lager
+Cascade Amber, by: cascade, ale
+Cascade Draught, by: cascade, lager
+Cascade Pure, by: cascade, lager
+
+# Coopers
+Coopers Sparkling Ale, 5.8%, by: coopers, golden ale
+Coopers Pale Ale, 4.5%, by: coopers, pale ale
+Coopers Best Extra Stout, 6.3%, by: coopers, stout
+Coopers Dark Ale, 4.5%, by: coopers, brown ale
+Coopers Mild Ale, 3.5%, by: coopers, ale
+Coopers Premium Lager, 5.0%, by: coopers, lager
+Coopers 62 Pilsner, 5.0%, by: coopers, pilsner
+Coopers Premium Light, 2.9%, by: coopers
+Coopers Clear, 4.5%, by: coopers
+Coopers Extra Strong Vintage Ale, 7.5%, by: coopers, strong ale
