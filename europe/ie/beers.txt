@@ -1,6 +1,9 @@
-Guinness      # city:dublin
+Guinness|Guinness Draught, 4.2%, by:guinness, irish_dry_stout|dry_stout|stout
 
-Murphys Red, by:murphys, irish_red_ale|red_ale|ale
-Murphys Irish Stout, by:murphys, irish_stout|stout
+Murphy's Red, by:murphys, 5%, irish_red_ale|red_ale|ale
+Murphy's Irish Stout, 4%, by:murphys, irish_dry_stout|dry_stout|stout
 
-Kilkenny,   irish_red_ale
+
+Kilkenny, 4.3%, by:kilkenny, irish_red_ale|red_ale|ale
+
+Smithwick's, 4.5%, by:kilkenny, irish_red_ale|red_ale|ale

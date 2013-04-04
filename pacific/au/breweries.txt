@@ -1,28 +1,25 @@
 #########################
-#
-#  see en.wikipedia.org/wiki/List_of_breweries_in_Australia
-#
-##############################
+# see en.wikipedia.org/wiki/List_of_breweries_in_Australia
 
 
 ##############################
 # Major Breweries
 
-carlton, Carlton and United Breweries, 1907, city:melbourne, Abbotsford //   # fix: add region to world.db - VIC
-cascade, Cascade Brewery, 1824, city:hobart        # fix: add region to world.db - TAS 
-castlemaine, Castlemaine Perkins, 1878, city:brisbane    # fix: add region to world.db - QLD
-coopers, Coopers Brewery, 1862, city:adelaide, Regency Park //    # fix: add region to world.db - SA
-hahn, Hahn Brewery, 1986, city:sydney, Camperdown //     # fix: add region to world.db - NSW
-boags, J. Boag & Sons, 1883, city:launceston             # fix: add region to world.db - TAS
-sa, South Australian Brewing Co.|South Australian Brewing Company, 1859, city:adelaide, Thebarton //  # fix: add region to world.db - SA
-swan, Swan Brewery, 1837, city:canningvale    # fix: add region to world.db - WA
-tooheys, Tooheys, 1869, city:lidcombe         # fix: add region to world.db - NSW
+carlton, Carlton and United Breweries, 1907, VI, city:melbourne, Abbotsford // 
+cascade, Cascade Brewery, 1824, TS, city:hobart
+castlemaine, Castlemaine Perkins, 1878, QL, city:brisbane
+coopers, Coopers Brewery, 1862, SA, city:adelaide, Regency Park // 
+hahn, Hahn Brewery, 1986, NS, city:sydney, Camperdown // 
+boags, J. Boag & Sons, 1883, TS, city:launceston
+sa, South Australian Brewing Co.|South Australian Brewing Company, 1859, SA, city:adelaide, Thebarton // 
+swan, Swan Brewery, 1837, WA, city:canningvale
+tooheys, Tooheys, 1869, NS, city:lidcombe
 
 
 ########################
 # Micro breweries
 
-bluetongue, Bluetongue Brewery, 2003, city:wanervale   # fix: add region to world.db - WA
-bootleg, Bootleg Brewery, 1994, city:margaretriver     # fix: add region to world.db - WA
-burleigh, Burleigh Brewing Company, 2006, city:burleighheads    # fix: add region to world.db - QLD
-creatures, Little Creatures Brewery, 2000, city:fremantle       # fix: add region to world.db - WA
+bluetongue, Bluetongue Brewery, 2003, WA, city:wanervale
+bootleg, Bootleg Brewery, 1994, WA, city:margaretriver
+burleigh, Burleigh Brewing Company, 2006, QL, city:burleighheads
+creatures, Little Creatures Brewery, 2000, WA, city:fremantle

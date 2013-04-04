@@ -1,2 +1,6 @@
 
-murphys, Murphy's Brewery, 1856, city:cork, heineken
+murphys, Murphy's Brewery, 1856, CO, city:cork, heineken
+
+kilkenny, St. Francis Abbey Brewery, 1710, KK, city:kilkenny, diageo|guinness     # Part of  Guinness (Diageo)
+
+guinness, St. James's Gate Brewery / Guinness Brewery, 1759, DB, city:dublin, diageo     # Part of Diageo
