@@ -71,6 +71,9 @@ Kapsreiter (Landbier) Hell,  5.3%, 12.8°, by:kapsreiter
 Schloss Eggenberg (Classic) Märzen, 4.9%, 11.7°,  by:eggenberg
 Schloss Eggenberg Gold Spezial,     5.3%, 12.6°,  by:eggenberg
 
+Edelweiss Dunkel, by:brauunion
+Edelweiss Hefetrüb, by:brauunion
+
 
 ##############################
 # Steiermark
@@ -90,28 +93,25 @@ Murauer Märzen
 ############################
 # Kärnten
 
-Hirter Pils
+Hirter Pils, by:hirter
 
-Villacher Märzen
+Villacher Märzen, by:villacher
 
 
 #############
 # Salzburg
 
-Stiegl
-Stiegl Goldbräu
-Stiegl Weizengold
+Stiegl, by:stiegl
+Stiegl Goldbräu, by:stiegl
+Stiegl Weizengold, by:stiegl
 
 
-Edelweiss Dunkel
-Edelweiss Hefetrüb
-
-Trumer Pils
+Trumer Pils, by:trumer
 
 
 #####################
 # Vorarlberg
 
-Mohren Pils
-Mohren Ländle
-Mohren Zwickl
+Mohren Pils, by:mohren
+Mohren Ländle, by:mohren
+Mohren Zwickl, by:mohren
