@@ -1,10 +1,9 @@
-
 #### Fuller's
 
 Fuller's London Pride|London Pride, 4.7%, by:fullers, english_pale_ale|pale_ale
 Fuller's London Porter|London Porter, 5.4%, by:fullers, english_porter|porter
 Fuller's Honey Dew, 5.0%, by:fullers, english_pale_ale|pale_ale|organic
-Fuller's ESP, 5.9%, by:fullers,  extra_special|strong_bitter|esb
+Fuller's ESB, 5.9%, by:fullers,  extra_special|strong_bitter|esb
 Fuller's Discovery, 3.9%, by:fullers,  english_pale_ale|pale_ale
 Fuller's Chiswick|Fuller's Chiswick Bitter, 3.5%,  by:fullers, english_bitter
 Fuller's 1845, 6.3%, by:fullers, english_strong_ale|strong_ale
