@@ -1,14 +1,86 @@
 
+###################
+# Grupo Modelo
 
-Corona|Corona Extra, 4.6%, by:gmodelo,  lager|pale_lager
-Barrilito, 3.6%, by:gmodelo, pale_lager
-Victoria, 4%, by:gmodelo, vienna_lager
+Barrilito, 3.6%, by:gmodelo, pale_lager  # tipo pilsner
+
+Corona|Corona Extra, 4.5%, by:gmodelo,  lager|pale_lager
+
+Corona Light, by:gmodelo, lite
+
+Modelo Especial, 4.5%, by:gmodelo   # desde 1925
+
+Modelo Light, by:gmodelo, lite
+
+Negra Modelo, 5.3%, by:gmodelo   # tipo munich    # 1925
+
+Tropical Light, by:gmodelo, lite      # nació en 2007
+
+Victoria, 4%, by:gmodelo, ME, city:toluca, vienna_lager   #  Compañía Cervecera Toluca y México, que fue adquirida por Grupo Modelo en 1935.
+
+Estrella, by:gmodelo, JA, city:guadalajara      # tipo pilsner - Cervecería Estrella (hoy Cervecería Modelo de Guadalajara
+
+León, 4.5%,  by:gmodelo, munich_dunkel_lager    # tipo munich  - desde 1900
+
+Montejo, 4.5%, by:tropico   # desde 1900
+
+Pacifico, 4.5%, by:pacifico  # Cervecería del Pacífico en Mazatlán, Sinaloa.
+
+Pacifico Light, by:pacifico, lite
 
 
-Dos Equis XX Special Lager|Dos Equis Special Lager, 4.3%,  by:cuamoc, pale_lager
-Dos Equis XX Amber|Dos Equis Amber,          4.7%,  by:cuamoc, vienna_lager   # use dark lager as synonym ??
 
-Indio, 4.5%, by:cuamoc,   maerzen|oktoberfest     # use dark lager as synonym ??
 
-Sol, 4.5%, by:cuamoc, lager|pale_lager  # -- style: American Adjunct Lager ?? use pale_lager ??
 
+########################
+# Cuauhtemoc Moctezuma
+
+Dos Equis|Dos XX|Dos XX Lager|Dos Equis Lager Especial, 4.3%,  by:cuamoc, pale_lager  # estilo pilsen; Color: Clara
+# see www.cuamoc.com/es/cerveza/dos-equis
+
+Dos Equis Ambar|Dos XX Ambar,          4.7%,  by:cuamoc, vienna_lager   # use dark lager as synonym ??; Color: Ambar
+# see www.cuamoc.com/es/cerveza/dos-equis-ambar
+
+Bohemia, 5.3%, by:cuamoc         #  Origen: Monterrey, Nuevo León; Color: Clara
+# see www.cuamoc.com/es/cerveza/bohemia
+
+Bohemia Oscura, 5.5%, by:cuamoc, vienna_lager     # Origen: Monterrey N.L; Color: oscuro
+# see www.cuamoc.com/es/cerveza/bohemia-oscura
+
+Bohemia Weizen, 5.7%, by:cuamoc, weizen     # Origen: Monterrey N.L.; Color: Dorado
+# see www.cuamoc.com/es/cerveza/bohemia-weizen
+
+Tecate, 4.5%, by:cuamoc    # tipo pilsen; Origen: Tecate, Baja California Norte. 1944; Color: Clara
+# see www.cuamoc.com/es/cerveza/tecate
+
+Tecate Light, 4%, by:cuamoc, lager|lite   # Origen: Monterrey N.L., 1992 Color: Dorado
+# see www.cuamoc.com/es/cerveza/tecate-light
+
+Indio, 4.1%, by:cuamoc,   maerzen|oktoberfest     # use dark lager as synonym ??
+# Origen: Monterrey, N.L.,1893. Color: Obscura
+# see www.cuamoc.com/es/cerveza/indio
+
+Carta Blanca, 4.5%, by:cuamoc # Origen: Monterrey, Nuevo León 1890
+# see www.cuamoc.com/es/cerveza/carta-blanca
+
+Superior|Superior Rubia, 4.5%, by:cuamoc, lager  # Origen: Orizaba, Veracruz; Color: Clara
+# see www.cuamoc.com/es/cerveza/superior
+
+Superior Morena, by:cuamoc
+# see www.cuamoc.com/es/cerveza/superior-morena
+
+Sol, 4.5%, by:cuamoc, lager|pale_lager  #  - 1899 -- style: American Adjunct Lager ?? use pale_lager ??
+# Origen: Distrito Federal,  1899; Color: Clara
+# see www.cuamoc.com/es/cerveza/sol
+
+
+#### seasonal
+
+Noche Buena, 5.9%, by:cuamoc, bock   # Origen: Orizaba, Veracruz, Color: Obscura
+# see www.nochebuena.com.mx/es/cerveza/noche-buena
+#     www.cuamoc.com/es/cerveza/noche-buena
+
+# Disponible de octubre a marzo
+
+Bohemia Chocolate Stout, 5.7%, by:cuamoc, stout   # Origen: Monterrey N.L, México; Color: Obscuro
+# see www.cuamoc.com/es/cerveza/bohemia-chocolate-stout
