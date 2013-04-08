@@ -40,9 +40,31 @@ eggenberg, Brauerei Schloss Eggenberg, OO, city:vorchdorf, 4655 Vorchdorf // Egg
 
 kapsreiter, Kapsreiter Brauerei, OO, city:schaerding, 4780 Schärding // Linzer Straße 1,  ottakringer   # Part of Ottakringer
 
+brauunion, Brau Union Österreich, OO, city:linz, 4020 Linz // Poschacherstrasse 35
+
+
 
 ##############################
 # Kärnten
 
-hirter, Brauerei Hirt, 9322 Micheldorf // Hirt 9, city:micheldorf
-villacher, Vereinigte Kärntner Brauereien,  9500 Villach // Brauhausgasse 6, city:villach
+hirter, Brauerei Hirt, KT, 9322 Micheldorf // Hirt 9, city:micheldorf
+
+villacher, Vereinigte Kärntner Brauereien,  KT, 9500 Villach // Brauhausgasse 6, city:villach
+
+
+
+
+##############################
+# Salzburg
+
+trumer, Trumer Privatbrauerei, SB, 5162 Obertrum // Brauhausgasse 2, city:obertrum
+
+stiegl, Stieglbrauerei|Stieglbrauerei zu Salzburg, SB, 5017 Salzburg // Kendlerstraße 1, city:salzburg
+
+
+##############################
+# Vorarlberg
+
+mohren, Mohrenbrauerei, VB, 6850 Dornbirn // Dr.-Waibel-Straße 2, city:dornbirn
+
+
