@@ -39,3 +39,10 @@ zipf, Brauerei Zipf, OO, city:zipf, 4871 Zipf // Zipf 22, brau_union  # Part of 
 eggenberg, Brauerei Schloss Eggenberg, OO, city:vorchdorf, 4655 Vorchdorf // Eggenberg 1
 
 kapsreiter, Kapsreiter Brauerei, OO, city:schaerding, 4780 Schärding // Linzer Straße 1,  ottakringer   # Part of Ottakringer
+
+
+##############################
+# Kärnten
+
+hirter, Brauerei Hirt, 9322 Micheldorf // Hirt 9, city:micheldorf
+villacher, Vereinigte Kärntner Brauereien,  9500 Villach // Brauhausgasse 6, city:villach
