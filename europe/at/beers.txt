@@ -75,6 +75,18 @@ Edelweiss Dunkel, by:brauunion
 Edelweiss Hefetrüb, by:brauunion
 
 
+Schnaitl Naturtrüb, 5.1%, 11.8°, by:schnaitl               # Bittereinheiten: 20 IBU
+Schnaitl Bock|Schnaitl Festbock, 7.5%, 16.8°, by:schnaitl  # Bittereinheiten: 28 IBU
+
+Uttendorfer Pils, by:vitzthum
+Uttendorfer Märzen, by:vitzthum   # ist Halb Dunkel??
+
+Freistädter Rattsherrn, 5.2%, 12.2°, by:freistaedter
+
+Schlägl Abtei Pils, 5.2%, 12.5°,  by:schlaegl
+
+
+
 ##############################
 # Steiermark
 

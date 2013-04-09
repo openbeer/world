@@ -43,6 +43,15 @@ kapsreiter, Kapsreiter Brauerei, OO, city:schaerding, 4780 Schärding // Linzer 
 brauunion, Brau Union Österreich, OO, city:linz, 4020 Linz // Poschacherstrasse 35
 
 
+schlaegl, Stiftsbrauerei Schlägl, OO, city:schlaegl, 4160 Schlägl // Schlägl 1 (Mühlviertel)  #  www.stift-schlaegl.at
+
+schnaitl, Brauerei Schnaitl|Privatbrauerei Schnaitl, 1842, OO, city:eggelsberg, 5142 Eggelsberg // Gundertshausen 9 (Innviertel)   # www.schnaitl.at
+
+vitzthum, Brauerei Vitzthum, 1600, OO, city:uttendorf, 5261 Uttendorf // Uttendorf 25 (Innviertel)  # www.uttendorf-bier.com
+
+freistaedter, Freistädter Brauhaus|Braucommune in Freistadt, 1770, OO, city:freistadt, 4240 Freistadt|Brauhausstraße 2 (Mühlviertel)  # www.freistaedter-bier.at
+
+
 
 ##############################
 # Kärnten

@@ -1,1 +1,10 @@
-jever, Friesisches Brauhaus zu Jever, 26441 Jever // Elisabethufer 18, radeberger
+########################
+# Niedersachsen (NI)
+
+jever, Friesisches Brauhaus zu Jever, NI, city:jever, Elisabethufer 18 // 26441 Jever, radeberger
+
+
+###############
+# Bayern (BY)
+
+hopf, Weißbierbrauerei Hopf, 1892, BY, city:miesbach, Schützenstraße 8+10 // 83714 Miesbach    # www.hopfweisse.de

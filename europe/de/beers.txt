@@ -22,4 +22,17 @@ Weihenstephaner Weizen
 Weihenstephaner Trüb
 Weihenstephaner Dunkel
 
+
+########################
+# Niedersachsen (NI)
+
 Jever Pilsener, 4.9%, by:jever
+
+
+###############
+# Bayern (BY)
+
+Hopf Helle Weiße, 5.3%, 12.7°, by:hopf
+Hopf Dunkle Weiße, 5.0%, 12.8°, by:hopf
+
+
