@@ -82,7 +82,7 @@ Gösser Gold, by:goesser
 Gösser Zwickl, by:goesser
 Gösser Märzen, by:goesser
 
-Puntigamer Panther, ST, ciry:graz, by:brauunion
+Puntigamer Panther, ST, city:graz, by:brauunion
 
 Schladminger, by:schladminger
 
