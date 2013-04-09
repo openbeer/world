@@ -68,3 +68,13 @@ stiegl, Stieglbrauerei|Stieglbrauerei zu Salzburg, SB, 5017 Salzburg // Kendlers
 mohren, Mohrenbrauerei, VB, 6850 Dornbirn // Dr.-Waibel-Straße 2, city:dornbirn
 
 
+##############################
+# Steiermark
+
+goesser, Gösser Brauerei, ST, 8700 Göss/Leoben // Brauhausgasse 1, city:goess
+
+schladminger, Schladminger Brau, ST, 8970 Schladming // Hammerfeldweg 163, city:schladming
+
+murauer, Brauerei Murau, ST, 8850 Murau // Raffaltplatz 19-23, ciry:murau
+
+
