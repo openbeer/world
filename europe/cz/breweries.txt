@@ -1,0 +1,13 @@
+
+starobrno, Pivovar Starobrno [Starobrno Brewery], city:brno
+
+radegast, Pivovar Radegast
+
+krusovice, Královský Pivovar Krušovice
+
+staropramen, Pivovary Staropramen [Staropramen Brewery], 1869, city:praha
+
+pilsner, Plzeňský Prazdroj [Pilsner Urquell Brewery], 1839, city:plzen, sabmiller
+budweiser, Budějovický Budvar [Budweiser Budvar Brewery], 1895, city:budejovice
+
+kozel, Velkopopovický Kozel Brewery, 1874, Velké Popovice //, sabmiller

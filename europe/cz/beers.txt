@@ -1,8 +1,27 @@
 
-Pilsner Urquell
+Pilsner Urquell,  pilsner|pale_lager, by:pilsner
 
-Budweiser Budvar,   5.0 %,  11.9°
+Gambrinus, by:pilsner
 
-Starobrno|Altbrünner Gold,  city:brno
+Budweiser Budvar,   5.0 %,  11.9°, by:budweiser
 
 
+Starobrno|Starobrno Ležák|Altbrünner Gold, 5%, by:starobrno, czech_pilsener
+Starobrno Tradiční, 4%, by:starobrno
+Starobrno Medium, 4.7%, by:starobrno
+Starobrno Černé [Dark Lager], 3.8%, by:starobrno, dark_lager
+Starobrno Řezák, 4%, by:starobrno
+
+Kozel|Kozel Světlý|Velkopopovický Kozel, 4%, by:kozel, pale_lager
+Kozel Černý, 3.8%, by:kozel, dark|munich_dunkel_lager
+
+Radegast Original, 4%, by:radegast, czech_pilsener
+Radegast Premium, 5%, by:radegast, czech_pilsener
+
+Staropramen Ležák [Premium Lager], 5%, by:staropramen
+Staropramen Černý [Dark], 4.4%, by:staropramen, dark_lager
+Staropramen Granát, 4.8%, by:staropramen, red_lager
+Staropramen Svĕtlý [Light], 4.0%, by:staropramen, pale_lager
+
+
+Krušovice, by:krusovice
