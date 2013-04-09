@@ -78,16 +78,16 @@ Edelweiss Hefetrüb, by:brauunion
 ##############################
 # Steiermark
 
-Gösser Gold
-Gösser Zwickl
-Gösser Märzen
+Gösser Gold, by:goesser
+Gösser Zwickl, by:goesser
+Gösser Märzen, by:goesser
 
-Puntigamer Panther
+Puntigamer Panther, ST, ciry:graz, by:brauunion
 
-Schladminger
+Schladminger, by:schladminger
 
-Murauer
-Murauer Märzen
+Murauer, by:murauer
+Murauer Märzen, by:murauer
 
 
 ############################
