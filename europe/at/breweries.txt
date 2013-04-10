@@ -49,7 +49,7 @@ schnaitl, Brauerei Schnaitl|Privatbrauerei Schnaitl, 1842, OO, city:eggelsberg, 
 
 vitzthum, Brauerei Vitzthum, 1600, OO, city:uttendorf, 5261 Uttendorf // Uttendorf 25 (Innviertel)  # www.uttendorf-bier.com
 
-freistaedter, Freistädter Brauhaus|Braucommune in Freistadt, 1770, OO, city:freistadt, 4240 Freistadt|Brauhausstraße 2 (Mühlviertel)  # www.freistaedter-bier.at
+freistaedter, Freistädter Brauhaus|Braucommune in Freistadt, 1770, OO, city:freistadt, 4240 Freistadt // Brauhausstraße 2 (Mühlviertel)  # www.freistaedter-bier.at
 
 
 

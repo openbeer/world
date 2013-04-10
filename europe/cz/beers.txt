@@ -1,5 +1,5 @@
 
-Pilsner Urquell,  pilsner|pale_lager, by:pilsner
+Pilsner Urquell, by:pilsner, pilsner|pale_lager
 
 Gambrinus, by:pilsner
 
