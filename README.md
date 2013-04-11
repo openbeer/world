@@ -23,11 +23,15 @@ Step 3:  Let's build the `beer.db`
 
 That's it.
 
-## Demo
+## Web Admin Demo
 
 Try the `beer.db` Web Admin demo running
 on Heroku [`prost.herokuapp.com`](http://prost.herokuapp.com).
 
+## Web Service / HTTP JSON API - `GET /beer/guinness`
+
+Try the `beer.db` HTTP JSON API demo running
+on Heroku [`prost.herokuapp.com/api`](http://prost.herokuapp.com/api).
 
 ## Tables, Schema
 
@@ -82,13 +86,13 @@ Dixie Blackened Voodoo|Dixie Blackened Voodoo Lager,  5.0%, by:dixie,  munich_du
 
 ## Real World Usage
 
-- [prost](https://github.com/geraldb/prost) - `beer.db` Web Admin Tool in Ruby on Rails (version 3.2 and up).
+- [beer.db.admin](https://github.com/geraldb/beer.db.admin) - `beer.db` Web Admin Tool in Ruby on Rails (version 3.2 and up).
 
 
 ## Alternatives
 
-- [BreweryDB.com](http://www.brewerydb.com) -  beer and brewery data and api by PintLabs Inc.
-- [Open Beer Database](http://openbeerdatabase.com/)  - free, public beer and brewery database and API
+- [BreweryDB.com](http://www.brewerydb.com) -  beer and brewery data and api by PintLabs Inc (free demo; $ for use)
+- [Open Beer Database](http://openbeerdatabase.com)  - free, public beer and brewery database and API
 
 
 ## License
