@@ -19,3 +19,7 @@ doc/
 
 # Komodo project files
 *.kpf
+
+### ignore prezo output folder (use talks/o)
+
+talks/o

@@ -22,11 +22,10 @@ pre {
 - What's `world.db `?
 - How to use `beer.db` & `world.db` in Ruby
 - How to use HTTP JSON API - `GET /beer/guinness`
-- Design - Plain Text Format Options
-- Design - Better Comma Separated Values (CSV) Format
-- "Magic" - Use folder and file names for values and structure
-- "Magic" - Use text patterns (regex) for fields
-
+- Design - Plain text format options
+- Design - Better comma separated values (CSV) format
+- Design - "Magic" - Use folder and file names for values and structure
+- Design - "Magic" - Use text patterns (regex) for fields
 
 
 
@@ -156,7 +155,7 @@ for use in any (programming) language
 ```
 ###  Countries
 
-at, Austria, AUT, 83_871, 8_414_638, un|fifa|uefa|eu|euro|schengen|central_europe|western_europe
+at, Austria, AUT, 83_871 km², 8_414_638, un|eu|euro|schengen|central_europe|western_europe
 ```
 
 ```
@@ -235,8 +234,7 @@ GET /beer/guinness
     "brewery":
     {
       "key": "guinness",
-      "title": "St. James's Gate Brewery / Guinness Brewery",
-      "href": "/brewery/guinness",
+      "title": "St. James's Gate Brewery / Guinness Brewery"
     },
     "country":
     {
@@ -268,8 +266,7 @@ GET /brewery/guinness
     [
       {
         "key": "guinness",
-        "title": "Guinness",
-        "href": "/beer/guinness"
+        "title": "Guinness"
       }
     ],
     "country":
@@ -282,7 +279,7 @@ GET /brewery/guinness
 ```
 
 
-# Design - Plain Text Format Options
+# Design - Plain text format options
 
 - CSV (Comma Separated Values)
 - TSV (Tab Separated Values)
@@ -292,7 +289,7 @@ GET /brewery/guinness
 - SQL (Structured Query Language)
 
 
-# Design - Better Comma Separated Values (CSV) Format
+# Design - Better comma separated values (CSV) format
 
 What's great with CSV?
 
@@ -312,7 +309,7 @@ What's wrong with CSV?
         - e.g. `beers.2.txt` sets type/class to `beer` and grade to `2`
 
 
-# "Magic" - Use folder and file names for values and structure
+# Design -"Magic" - Use folder and file names for values and structure
 
 Do __NOT__ put everything into a single file e.g. `beers.csv`. Better use folders
  and use folder and file names for adding some "magic" e.g. to autofill values
@@ -356,33 +353,34 @@ or
 ```
 
 
-# "Magic" - Use text patterns (regex) for fields
+# Design - "Magic" - Use text patterns (regex) for fields
 
-### Year Brewery Established
+### Year brewery established
 
 e.g. 1759 or 1321
 
 Always four digits => `/[0-9]{4}/`
 
 
-### Region (e.g. State/Bundesland/etc.)
+### Region (e.g. state/bundesland/etc.)
 
 e.g. TX => Texas, or  N => Niederösterreich
 
 Always one or two uppercase letters  => `/[A-Z]{1,2}/`
 
 
-### Alcohol by Volume (ABV)
+### Alcohol by volume (ABV)
 
 e.g. 5.4% => 5.4
 
-Numbers ending with precent (%) => `/[0-9]+%/`
-
-and many more text patterns in use.
+Numbers ending with precent (%) => `/[0-9]+(\.[0-9]+)?%/`
 
 
+And many more text patterns in use.
 
-# That's it. Thank You.
+
+
+# That's it. Thank you.
 
 ### Links 
 
@@ -394,7 +392,7 @@ and many more text patterns in use.
 
 
 
-# Bonus: Using CSV, JSON, YML 'n' Friends
+# Bonus: Using CSV, JSON, YML 'n' friends
 
 Use the HTTP API service and export your data in your format of choice.
 
