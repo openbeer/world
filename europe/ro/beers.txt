@@ -6,8 +6,8 @@ Silva Dark,              7%,    16°, by:heinekenro,  1996, dunkler_bock|dark_la
 
 Ciuc Premium (Pils Original), 4.8%,   11.5°, by:heinekenro, 1974,  www.ciucpremium.ro,  czech_pilsener|pilsener|pale_lager
 
-Golden Brau,              5%,   11.2°, by:heinekenro, www.goldenbrau.ro, 1998  # bere blondă
-Neumarkt (Original Pils), 5.2%,  11°,  by:heinekenro,  1998  # bere blondă
+Golden Brau,              5%,   11.2°, by:heinekenro, www.goldenbrau.ro, 1998, pale_lager  # bere blondă
+Neumarkt (Original Pils), 5.2%,  11°,  by:heinekenro,  1998, pale_lager  # bere blondă
 
 Bucegi,                   4.5%, 10.3°, by:heinekenro, 1980,  pale_lager
 
@@ -15,7 +15,7 @@ Bucegi,                   4.5%, 10.3°, by:heinekenro, 1980,  pale_lager
 
 Gambrinus, 4.5%,            by:heinekenro,  1869, pale_lager
 Harghita,  4.5%,  10.3°,    by:heinekenro,  1972, pale_lager
-Hategana,  4.5%,            by:heinekenro   1984, pale_lager
+Hategana,  4.5%,            by:heinekenro,  1984, pale_lager
 
 
 ###########
