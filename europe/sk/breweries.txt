@@ -9,3 +9,11 @@ heinekensk, Heineken Slovensko, www.heinekenslovensko.sk, heineken
 
 
 kaltenecker, Pivovar Kaltenecker, city:roznava    # Rožnava
+
+topvar, Pivovary Topvar [Topvar Breweries], sabmiller
+
+
+stein, Pivovar Stein [Stein Brewery]
+# NB: located in Bratislava; closed in 2007; now brewed by steiger
+
+steiger, Pivovar Steiger [Steiger Brewery]

@@ -1,14 +1,16 @@
 
-Zlatý Bažant 12%, 5%, 12°, by:heinekensk, www.zlatybazant.sk, pale_lager  # Golden Pheasant
-Zlatý Bažant 10%,  by:heinekensk
 
-##########
-# use/add ??
-#  - SVETLÝ LEŽIAK 12 °
-#  - TMAVÝ LEŽIAK 12°
+## add origin city: en.wikipedia.org/wiki/Hurbanovo
+
+Zlatý Bažant 12% (Svetlé),   5%,   12°, 1860kj/l, by:heinekensk, www.zlatybazant.sk, pale_lager  # Golden Pheasant
+Zlatý Bažant 10% (Svetlé),   4.3%, 10°, 1600kj/l, by:heinekensk
+Zlatý Bažant Tmavé [Dark],   3.8%, 10°,           by:heinekensk, dark
+
 
 Corgoň 12%, by:heinekensk
 Corgoň 10%, by:heinekensk
+
+## todo: check if martiner is still available/brewed
 
 Martiner 12%, by:heinekensk
 Martiner 10%, by:heinekensk
@@ -27,8 +29,31 @@ Kaltenecker Märzen, by:kaltenecker
 
 Sandorf, by:prievaly
 
+Stein, by:stein
+
+
+#  first Topvar beer wes brewed in Topoľčany  - add for origin city??
+#  see en.wikipedia.org/wiki/Topoľčany
+
+Topvar 12% (Svetlý Ležiak), by:topvar    # add translation for Svetlý Ležiak
+Topvar 10% (Svetlé Výčapné), by:topvar   # add translation for Svetlé Výčapné
+Topvar 11% (Tmavý Výčapný Ležiak), by:topvar # add translation for Tmavý Výčapný Ležiak
+
+
+
+# Šariš Brewery located in Veľký Šariš near Prešov. - add for origin city?
+#  see en.wikipedia.org/wiki/Veľký_Šariš
+
+Šariš 12%, by:topvar             
+Šariš 10%, by:topvar
+Šariš 11% Tmavý, by:topvar
+
+
 ##########
 # add some varities
-#  - SVETLÝ LEŽIAK 11 °
-#  - SVETLÝ LEŽIAK 12 °
-#  - TMAVÝ LEŽIAK 12°
+#  - Svetlý Ležiak /  Svetlé Pivo (Light coloured beer)
+#  -    Svetlé Výčapné
+#  - Tmavý Ležiak  /  Tmavé Pivo (Dark coloured beer)
+
+# Lagerbier =>  ležiak
+# Schankbier => výčapné 
