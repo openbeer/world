@@ -1,7 +1,34 @@
-Zlatý Bažant, by:heineken, pale_lager
 
-Urpiner, by: banskobystricky, pale_lager
+Zlatý Bažant 12%, 5%, 12°, by:heinekensk, www.zlatybazant.sk, pale_lager  # Golden Pheasant
+Zlatý Bažant 10%,  by:heinekensk
 
-Märzen, by: kaltenecker
+##########
+# use/add ??
+#  - SVETLÝ LEŽIAK 12 °
+#  - TMAVÝ LEŽIAK 12°
 
-Sandorf, by: prievaly
+Corgoň 12%, by:heinekensk
+Corgoň 10%, by:heinekensk
+
+Martiner 12%, by:heinekensk
+Martiner 10%, by:heinekensk
+
+Gemer Standard, by:heinekensk
+
+### check - ?? add Kelt 10%, 12%  - is it same as Kelt from prag and brewed in Prague, cz ??
+
+
+
+Urpiner, by:banskobystricky, pale_lager
+
+
+Kaltenecker Märzen, by:kaltenecker
+
+
+Sandorf, by:prievaly
+
+##########
+# add some varities
+#  - SVETLÝ LEŽIAK 11 °
+#  - SVETLÝ LEŽIAK 12 °
+#  - TMAVÝ LEŽIAK 12°

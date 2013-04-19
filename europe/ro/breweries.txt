@@ -1,0 +1,33 @@
+
+
+heinekenro, Heineken Romania, 1998, www.heinekenromania.ro, heineken
+
+# Heineken in Romania was initially founded in 1998,
+# under the name of Brau Union Romania.
+# Starting with March 2007, the name was changed
+# into Heineken Romania.
+
+# use for Silvia beers ??
+# - Silva Reghin S.A. (Brau-Union Romania)
+# - Str. Gurghiului Nr. 65,
+# - Reghin, 4225
+
+
+ursus, Ursus Breweries, www.ursus-breweries.ro, sabmiller
+
+# part of SABMiller
+# use this address?
+# - Ursus S.A. (SAB) / Compania de Bere Romania
+# - Str. Manastur Nr. 2-6
+# - Cluj Napoca, 5400
+
+
+bergenbier, Bergenbier|Bergenbier S.A., 1994, molsoncoors
+# Part of StarBev Group (same as Molson Coors?)
+
+romaqua, Romaqua Group Borsec, www.romaqua-group.ro, 1999
+
+berarium, Berarium / Clinica de Bere, 2011, city:timisoara
+
+# first microbrewery in Timisoara
+

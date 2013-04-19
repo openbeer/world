@@ -1,7 +1,11 @@
+
 banskobystricky, Banskobystrický Pivovar
+
 
 prievaly, Prievaly
 
-heineken, Heineken
 
-kaltenecker, Pivovar Kaltenecker, city:Rožnava
+heinekensk, Heineken Slovensko, www.heinekenslovensko.sk, heineken
+
+
+kaltenecker, Pivovar Kaltenecker, city:roznava    # Rožnava
