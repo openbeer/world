@@ -1,7 +1,7 @@
 Guinness|Guinness Draught, 4.2%, by:guinness, irish_dry_stout|dry_stout|stout
 
-Murphy's Red, by:murphys, 5%, irish_red_ale|red_ale|ale
-Murphy's Irish Stout, 4%, by:murphys, irish_dry_stout|dry_stout|stout
+Murphy's Red, by:murphy, 5%, irish_red_ale|red_ale|ale
+Murphy's Irish Stout, 4%, by:murphy, irish_dry_stout|dry_stout|stout
 
 
 Kilkenny, 4.3%, by:kilkenny, irish_red_ale|red_ale|ale
