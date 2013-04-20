@@ -47,13 +47,3 @@ Topvar 11% (Tmavý Výčapný Ležiak), by:topvar # add translation for Tmavý V
 Šariš 12%, by:topvar             
 Šariš 10%, by:topvar
 Šariš 11% Tmavý, by:topvar
-
-
-##########
-# add some varities
-#  - Svetlý Ležiak /  Svetlé Pivo (Light coloured beer)
-#  -    Svetlé Výčapné
-#  - Tmavý Ležiak  /  Tmavé Pivo (Dark coloured beer)
-
-# Lagerbier =>  ležiak
-# Schankbier => výčapné 

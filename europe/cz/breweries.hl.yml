@@ -1,0 +1,32 @@
+########
+# brewery beer production in hl (1hl = 100l)
+#
+#  all in 2002 -  18_178_000 hl
+#
+
+
+pilsner:      5_200_000 hl (2002)
+radegast:     2_155_000 hl (2002)
+budweiser:    1_213_000 hl (2002)
+staropramen:  1_257_000 hl (2002)  # includes gambrinus
+kozel:        1_107_000 hl (2002)
+branik:         829_000 hl (2002)
+krusovice:      678_000 hl (2002)
+starobrno:      572_500 hl (2002)
+ostravar:       543_000 hl (2002)
+holba:          433_000 hl (2002)
+zubr:           306_000 hl (2002)
+velkebrezno:    249_300 hl (2002)
+krasnebrezno:   248_000 hl (2002)
+litovel:        214_015 hl (2002)
+hostan:         200_000 hl (2002)
+cernahora:      146_662 hl (2002)
+havlickuvbrod:  131_000 hl (2002)
+bernard:        109_000 hl (2002)
+louny:          105_036 hl (2002)
+chodovar:        68_915 hl (2002)
+eggenberg:       47_000 hl (2002)
+broumov:         16_000 hl (2002)
+kutnahora:        9_655 hl (2002)
+
+# ufleku:         2_200 hl (2005)   # brewpub in praha
