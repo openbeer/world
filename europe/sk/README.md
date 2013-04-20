@@ -34,3 +34,4 @@
 
 ## Links / Sources
 
+- [Slovakian Breweries](http://www.europeanbeerguide.net/slovbrew.htm)

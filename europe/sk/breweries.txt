@@ -1,19 +1,60 @@
+################
+# SABMiller owns
 
-banskobystricky, Banskobystrický Pivovar
+saris, Pivovar Šariš, 1968, www.saris.sk, Pivovarská 9 // 082 21 Veľký Šariš
+# largest brewery in Slovakia
 
 
-prievaly, Prievaly
+topvar, Pivovary Topvar [Topvar Breweries], 1960, www.topvar.sk, Krušovská 2092 // 955 14 Topoľčany, sabmiller 
 
+
+####################
+# Heineken owns
+#
+#  Gemer and Zlatý Bažant
+#  closed the Martiner brewery in 2003 and Pivovar Corgoň in 2004
 
 heinekensk, Heineken Slovensko, www.heinekenslovensko.sk, heineken
 
+zlatybazant, Zlatý Bažant (Heineken Slovensko), 1967, www.zlatybazant.sk, Novozámocká 2 // 947 12 Hurbanovo
 
-kaltenecker, Pivovar Kaltenecker, city:roznava    # Rožnava
-
-topvar, Pivovary Topvar [Topvar Breweries], sabmiller
+gemer, Gemer Pivovar Rimavská Sobota (Heineken Slovensko), 1966, Cukrovarská 67/1 // 979 01  Rimavská Sobota
 
 
-stein, Pivovar Stein [Stein Brewery]
-# NB: located in Bratislava; closed in 2007; now brewed by steiger
+corgon, Pivovar Corgoň (Heineken Slovensko), 1958-2004, www.corgon.sk, Štefánikova 79 // 949 40  Nitra
+# ** closed in 2004; now brand-only
 
-steiger, Pivovar Steiger [Steiger Brewery]
+martiner, Martiner (Heineken Slovensko), 1893-2003, Hrdinov SNP 7 // 036 42 Martin
+# ** closed in 2003;  brand still exists?
+
+
+
+
+########################
+# More breweries
+
+
+urpin, Pivovar Urpín, 1971, www.urpiner.eu, Sládkovičova 37 // 974 05  Banská Bystrica
+
+banskobystricky, Banskobystrický Pivovar, www.pivovarbb.sk, Sládkovičova 37 // 974 05  Banská Bystrica
+# same as urpin ?? formerly Pivovar Urpín
+
+steiger, Pivovar Steiger [Steiger Brewery], 1473, www.steiger.sk, Vyhne č.24 // 966 02  Vyhne
+
+
+stein, Pivovar Stein [Stein Brewery], 1873, www.stein.sk, Blumentálska 19 // 816 13 Bratislava
+# NB: located in Bratislava; *** closed in 2007 ***; now brewed by steiger; brand-only
+
+
+poper, Pivovar Poper, 1604, Sakalovej 158/39 // 014 24 Bytča, www.popper.sk
+#  closed 2012 ???  check if true
+
+tatran, Pivovar Tatran, 1812,  Murgašova 1 // 058 80 Poprad
+### check: no longer exists? closed?
+
+
+kaltenecker, Pivovar Kaltenecker, 1996, city:roznava, Edelényska 2 // 048 01  Rožňava   # Rožnava
+
+prievaly, Prievalský Pivovar Sandorf, 2011,  www.sandorf.sk, Prievaly 79 // 906 34  Prievaly
+# Brewbup ? microbrewery 
+# Kapazität der Brauerei beträgt 1000 hl jährlich
