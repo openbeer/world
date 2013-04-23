@@ -1,4 +1,12 @@
 
+# Beer Ratings
+
+- [Beer Advocate](http://beeradvocate.com)
+- [Rate Beer](http://ratebeer.com)
+
+## German / Deutsch
+
+- [Bier Index (`bierindex.de`)](http://bierindex.de)
 
 # Links
 

@@ -92,10 +92,14 @@ Dixie Blackened Voodoo|Dixie Blackened Voodoo Lager,  5.0%, by:dixie,  munich_du
 ## Alternatives
 
 - [BreweryDB.com](http://www.brewerydb.com) -  beer and brewery data and api by PintLabs Inc (free demo; $ for use)
-- [Open Beer Database](http://openbeerdatabase.com)  - free, public beer and brewery database and API
-
+- [Open Beer Database (`openbeerdatabase.com`)](http://openbeerdatabase.com)  - free, public beer and brewery database and API
+- [Open Beer Database (`openbeerdb.com`)](http://openbeerdb.com)  - free, public beer and brewery database (archive, no longer active)
 
 ## License
 
 The `beer.db` schema, data and scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
+
+## Questions? Comments?
+
+Send them along to the [Open Beer & Brewery Database Forum/Mailing List](http://groups.google.com/group/beerdb). Thanks!
