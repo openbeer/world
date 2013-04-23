@@ -5,7 +5,7 @@
 Ottakringer Helles,                  5.2 %, 11.8°, by:ottakringer
 Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°, by:ottakringer
 Ottakringer (Gold Fassl) Pils,       4.6 %, 11.2°, by:ottakringer
-ottakringerpur, Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, by:ottakringer, bio
+Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, by:ottakringer, bio
 Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°, by:ottakringer
 Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°, by:ottakringer
 Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°, by:ottakringer
@@ -23,7 +23,7 @@ Zwettler Dunkles,      3.4 %,  11.5°, by:zwettler
 Zwettler Kuenringer Festbock,  6.8 %, 16.2°,  by:zwettler
 
 Weitra Helles,  5.0 %,   11.8°,  by:weitra
-hadmar, Hadmar {Bio},   5.2 %,   12.5°,  by:weitra, bio
+Hadmar {Bio},   5.2 %,   12.5°,  by:weitra, bio
 
 
 Schwechater,         5.0%, 11.5°, 41.0 kcal/100ml, by:schwechat

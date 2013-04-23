@@ -1,9 +1,10 @@
 #####
 # alkoholfrei / non-alcoholic  / alcohol-free
 
-ottakringernullkommajosef, Ottakringer Null Komma Josef {Alkoholfrei},      < 0.5 %,  6.2°, by:ottakringer
+
+Ottakringer Null Komma Josef {Alkoholfrei},      < 0.5 %,  6.2°, by:ottakringer
 
 
 # by:brauunion - yes, but brewed where - check ???
-schlossgold, Schlossgold {Alkoholfrei},  0.04%, 6.5°, OO      # alkoholfrei
 
+Schlossgold {Alkoholfrei},  0.04%, 6.5°, OO      # alkoholfrei

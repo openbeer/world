@@ -4,7 +4,7 @@ Pilsner Urquell, by:pilsner, pilsner|pale_lager
 ## NB: another gambrinus exists in romania
 
 Gambrinus Nefitrovaný Ležák [Unfilted], by:gambrinus,  pale_lager
-Gambrinus Originál 10˚,       4.3%,  10°,  by:gambrinus,  pale_lager    # Světlé Výčepní
+Gambrinus Originál 10°,       4.3%,  10°,  by:gambrinus,  pale_lager    # Světlé Výčepní
 Gambrinus Excelent 11°,       4.7%,        by:gambrinus
 Gambrinus Premium,             5%,  12°,   by:gambrinus,  pale_lager  # Světlý Ležák
 Gambrinus Dry,                 4%,         by:gambrinus
@@ -35,7 +35,7 @@ Hostan Naše Pivko,  4%,   10°, by:hostan,   pale_lager  # Výčepní
 Hostan Hradní,      4.7%, 11°, by:hostan,   pale_lager  # Ležák
 
 
-Staropramen Svĕtlý,   4%, 10°  by:staropramen, pale_lager   # Výčepní
+Staropramen Svĕtlý,   4%, 10°, by:staropramen, pale_lager   # Výčepní
 Staropramen Ležák,  5.2%, 12°, by:staropramen, pale_lager   # Ležák
 Staropramen Černý [Dark], 4.5%, 11°,   by:staropramen, dark_lager
 Staropramen Granát [Amber Lager], 4.8%, 11°,  by:staropramen, red_lager
