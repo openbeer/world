@@ -1,38 +1,176 @@
-Beck's
+Beck's Pilsner              # Pilsner
+Beck's Gold                 # Lager
+
 
 Schneider Weisse, 5.4%, 12.8°
 
 Innstadt Passauer Weisse Hefe Naturtrüb,  5.3%, 12°
 
 
-Edelweiss Hofbräu
-
-Paulaner Hefeweizen
-Paulaner Weisse
-
 Warsteiner
 
 Clausthaler
 
-König Ludwig Weissbier
-König Ludwig Hell
-König Ludwig Dunkel
-
-Weihenstephaner Weizen
-Weihenstephaner Trüb
-Weihenstephaner Dunkel
 
 
 ########################
 # Niedersachsen (NI)
 
-Jever Pilsener, 4.9%, by:jever
+Jever Pilsener, 4.9%, by:jever,  pilsner
 
 
 ###############
 # Bayern (BY)
 
-Hopf Helle Weiße, 5.3%, 12.7°, by:hopf
+### todo: use own file for bayern e.g.
+#  beers_by.txt ??
+#  same for breweries_by.txt  ??
+
+
+Hopf Helle Weiße, 5.3%, 12.7°, by:hopf     # Weißbier
 Hopf Dunkle Weiße, 5.0%, 12.8°, by:hopf
 
+
+
+#################
+# more de beer - needs some edits
+
+
+
+Augustiner Lagerbier Hell  # Helles
+Augustiner Edelstoff       # Münchner Bier
+Augustiner Weißbier        # Weißbier
+Augustiner Oktoberfestbier   # Münchner Bier
+Augustiner Dunkel   # Dunkelbier
+Augustiner Pils   # Pilsner
+
+Paulaner Original Münchner Hell   # Helles
+Paulaner Hefe-Weißbier Naturtrüb   # Weißbier
+
+# Paulaner Hefeweizen
+# Paulaner Weisse
+
+
+Hacker-Pschorr Münchner Hell  #  Helles
+Hacker-Pschorr Oktoberfest Märzen  # Märzen
+
+Löwenbräu Original  # Helles
+
+Spaten Münchner Hell  # Münchener
+
+Erdinger Weißbier           # Weißbier
+Erdinger Kristall    # Weißbier Kristall
+Erdinger Urweisse   # Weißbier
+
+Franziskaner Hefe-Weißbier Hell  # Weißbier
+Franziskaner Weißbier Kristallklar  # Weißbier Kristall
+Franziskaner Royal   # Weißbier
+
+König Ludwig Weissbier Hell  # Weißbier
+
+# König Ludwig Weissbier
+# König Ludwig Hell
+# König Ludwig Dunkel
+
+
+
+Weihenstephaner Hefeweissbier   # Weißbier
+Weihenstephaner Hefeweissbier Dunkel  # Weißbier dunkel
+
+# Weihenstephaner Weizen
+# Weihenstephaner Trüb
+# Weihenstephaner Dunkel
+
+
+Bayreuther Aktien Zwick'l Kellerbier   # Zwickelbier
+
+Richard Wagner Dunkel  #  Dunkelbier
+
+
+
+
+
+Berliner Kindl Pils   # Pilsner
+Berliner Kindl Jubiläums Pilsener   # Pilsner
+
+
+Rothaus Pils Tannenzäpfle   # Pilsner
+
+
+Tegernseer Hell             # Helles
+Tegernseer Spezial, 5.6%
+
+Sternburg Export           # Export
+
+
+Flensburger Pilsener  # Pilsner
+Krombacher Pils       # Pilsner
+Sternburg Export      # Export
+Waldhaus Diplom Pils  # Pilsner
+Lübzer Pils           # Pilsner
+Allgäuer Brauhaus Büble Bier
+Oettinger Pils  # Pilsner
+Fuchsbeck Pils  # Pilsner
+Bitburger Premium Pils  # Pilsner
+
+
+Neumarkter Lammsbräu Zzzisch Edelpils  # Pilsner
+Neumarkter Lammsbräu Urstoff   # Helles
+Neumarkter Lammsbräu Weisse  # Weißbier
+
+
+Andechser Hell        # Helles
+Andechser Weißbier    # Weißbier
+Andechser Spezial Hell   # Helles
+
+Rostocker Pilsener   # Pilsner
+Rostocker Export Premium  # Export
+
+
+Schultheiss Pilsener   # Pilsner
+
+Radeberger Pilsner   # Pilsner
+Zirndorfer Landbier  # Untergärige Biere
+Fuchsbeck Weissbier  # Weißbier
+Berliner Pilsner   # Pilsner
+Wicküler Pilsener   # Pilsner
+Sommerbecker Dachs Märzen    # Märzen
+Schöfferhofer Hefeweizen Hell   # Weißbier
+Schönramer Hell    # Helles
+Sommerbecker Dachs Pils   # Pilsner
+Unertl Mühldorfer Weissbier Dunkel   # Weißbier dunkel
+Duckstein Original 
+Kapuziner Weißbier   # Weißbier
+Päffgen Kölsch   # Kölsch
+Astra Arschkalt 
+Eichhofener Premium Pils   # Pilsner
+Störtebeker Schwarzbier  # Schwarzbier
+Hasseröder Premium Pils  # Pilsner
+Fuchsbeck Weizenbock Primus  # Weißbierbock
+Sternburg Pilsener    # Pilsner
+Gaffel Kölsch    # Kölsch
+Wernesgrüner Pils Legende  # Pilsner
+Alpirsbacher Spezial  # Untergärige Biere
+Unertl Weißbier   # Weißbier
+Föllsch Helles Fuldaer Altbier   # Altbier
+Weideneder Papst-Bier  # Festbier
+Reissdorf Kölsch  # Kölsch
+Krombacher Weizen   # Weißbier
+Störtebeker Pilsener  # Pilsner
+König Pilsener   # Pilsner
+Kuchlbauer Weisse   # Weißbier
+Winkler Alt-Amberger Hefeweizen  # Weißbier
+Hasseröder Premium Export  # Export
+Köstritzer Schwarzbier   # Schwarzbier
+Früh Kölsch    # Kölsch
+Naabecker Hell   # Helles
+Märkischer Landmann   # Schwarzbier
+Commerzienrat Riegele Privat 
+Friedrichshainer Pilsner   # Pilsner
+Potsdamer Rex Pils    # Pilsner
+Braumanufaktur Hell  
+Gaildorfer Zwickl   # Zwickelbier
+Riedenburger Historisches Emmerbier,  5.5%
+Schlichter Ursprung Hell   # Helles
+Aktien Spezialbier Edel   # Spezial
 

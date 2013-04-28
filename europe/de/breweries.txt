@@ -7,4 +7,113 @@ jever, Friesisches Brauhaus zu Jever, NI, city:jever, Elisabethufer 18 // 26441 
 ###############
 # Bayern (BY)
 
+augustiner, Augustiner Bräu München, 1328, BY, www.augustiner-braeu.de
+
 hopf, Weißbierbrauerei Hopf, 1892, BY, city:miesbach, Schützenstraße 8+10 // 83714 Miesbach    # www.hopfweisse.de
+
+weihenstephan, Bayrische Staatsbrauerei Weihenstephan, 1040, www.brauerei-weihenstephan.de
+
+spaten, Spaten-Franziskaner-Bräu, 1397, www.spatenbraeu.de   # part of abinbev
+
+koenigludwig, König Ludwig Brauerei, www.koenig-ludwig-brauerei.com
+
+
+
+naabeck, Schlossbrauerei Naabeck, 1620, BY, www.naabecker.de
+
+erdinger, Privatbrauerei Erdinger Weißbräu, 1886, BY, www.erdinger.de
+
+riegele, Brauerei S. Riegele, 1884, BY, www.riegele.de
+
+riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de
+
+winkler, Schlichter Winkler Bräu, 1528, www.winklerbier.de
+
+lammsbraeu, Neumarkter Lammsbräu, www.lammsbraeu.de
+
+aktien, Aktienbrauerei Kaufbeuren, 1308, www.aktien-brauerei.de
+
+wagner, Brauerei Wagner, www.wagner-merkendorf.de
+
+tegernsee, Herzogliches Bräustüberl Tegernsee, www.braustuberl.de
+
+schneider, Weisses Bräuhaus G. Schneider & Sohn, www.schneider-weisse.de
+
+
+allgaeuer, Allgäuer Brauhaus, 1394, www.allgaeuer-brauhaus.de
+
+oettinger, Oettinger Brauerei, 1731, www.oettinger-bier.de
+
+andechs, Klosterbrauerei Andechs, 1455, www.andechs.de
+
+fuchsbeck, Brauerei Fuchsbeck, 1834, www.fuchsbeck.de
+
+kulmbacher, Kulmbacher Brauerei, 1846, www.kulmbacher.de 
+
+
+riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de
+
+hackerpschorr, Hacker-Pschorr Bräu, 1417, www.hacker-pschorr.de
+
+loewenbraeu, Löwenbräu, www.loewenbraeu.de, Nymphenburger Straße 7‎ // 80335 München
+
+paulaner, Paulaner Brauerei, 1634, www.paulaner.de, Hochstraße 75‎ // 81541 München 
+
+
+
+### needs some editing
+
+
+####
+# Berlin
+
+berlinerkindl, Berliner-Kindl-Schultheiss-Brauerei, 1870, www.berliner-kindl.de
+
+hopsandbarley, Hops & Barley Hausbrauerei, www.hopsandbarley-berlin.de
+
+braumanufaktur, Braumanufaktur Forsthaus Templin, www.braumanufaktur.de
+
+
+#######
+#  Baden-Württemberg
+
+Brauerei Eugen Häberlen, 1875, www.brauerei-haeberlen.de
+
+rothaus, Badische Staatsbrauerei Rothaus, 1791, www.rothaus.de
+
+waldhaus, Privatbrauerei Waldhaus Joh. Schmid, 1833, www.waldhaus-bier.de
+
+
+########
+# Bremen
+
+beck, Brauerei Beck, www.becks.de
+
+#######
+# Sachsen
+
+Leipziger Brauhaus zu Reudnitz, 1862, www.reudnitzer.de
+
+
+##############
+# Mecklenburg-Vorpommern
+
+luebz, Mecklenburgische Brauerei Lübz, www.luebzer.de
+
+###############
+# Schleswig-Holstein
+
+flens, Flensburger Brauerei Emil Petersen, 1888, www.flens.de
+
+
+##############
+# Nordrhein-Westfalen
+
+krombacher, Krombacher Brauerei, www.krombacher.de
+
+###########
+# Rheinland-Pfalz
+
+bitburger, Bitburger Brauerei Th. Simon, www.bitburger.de
+
+
