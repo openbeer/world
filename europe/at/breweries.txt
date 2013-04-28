@@ -48,7 +48,7 @@ grieskirchen, Brauerei Grieskirchen, 1708, www.grieskirchner.at, OO, city:griesk
 zipf, Brauerei Zipf (Brau Union), www.zipfer.at, OO, city:zipf, 4871 Zipf // Zipf 22, brau_union  # Part of Brau Union
 
 
-eggenberg, Brauerei Schloss Eggenberg, www.schloss-eggenberg.at, OO, city:vorchdorf, 4655 Vorchdorf // Eggenberg 1
+eggenberg, Brauerei Schloss Eggenberg, 1681, www.schloss-eggenberg.at, OO, city:vorchdorf, 4655 Vorchdorf // Eggenberg 1
 
 
 kapsreiter, Kapsreiter Brauerei, OO, city:schaerding, 4780 Schärding // Linzer Straße 1,  ottakringer   # Part of Ottakringer
@@ -60,10 +60,14 @@ schnaitl, Brauerei Schnaitl|Privatbrauerei Schnaitl, 1842, www.schnaitl.at, OO, 
 
 vitzthum, Brauerei Vitzthum, 1600, www.uttendorf-bier.com, OO, city:uttendorf, 5261 Uttendorf // Uttendorf 25 (Innviertel)
 
+baumgartner, Brauerei Jos. Baumgartner,  1609, www.brauerei-baumgartner.at, OO, 4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)
+
+ried, Brauerei Ried, 1536, www.rieder-bier.at, OO, 4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)
+
 
 freistaedter, Freistädter Brauhaus|Braucommune in Freistadt, 1770, www.freistaedter-bier.at, OO, city:freistadt, 4240 Freistadt // Brauhausstraße 2 (Mühlviertel)
 
-schlaegl, Stiftsbrauerei Schlägl, www.schlaegl.co.at, OO, city:schlaegl, 4160 Schlägl // Schlägl 1 (Mühlviertel)
+schlaegl, Stiftsbrauerei Schlägl, 1580, www.schlaegl.co.at, OO, city:schlaegl, 4160 Schlägl // Schlägl 1 (Mühlviertel)
 
 
 
@@ -72,7 +76,7 @@ schlaegl, Stiftsbrauerei Schlägl, www.schlaegl.co.at, OO, city:schlaegl, 4160 S
 # Kärnten
 
 
-hirt, Brauerei Hirt, www.hirterbier.at, KT, 9322 Micheldorf // Hirt 9, city:micheldorf
+hirt, Brauerei Hirt, 1270, www.hirterbier.at, KT, 9322 Micheldorf // Hirt 9, city:micheldorf
 
 villacher, Vereinigte Kärntner Brauereien, www.villacher.com,  KT, 9500 Villach // Brauhausgasse 6, city:villach
 
@@ -85,7 +89,7 @@ schleppe, Schleppe Brauerei (Vereinigte Kärntner Brauereien), 1607, www.schlepp
 
 trumer, Trumer Privatbrauerei, www.trumer.at, SB, 5162 Obertrum // Brauhausgasse 2, city:obertrum
 
-stiegl, Stieglbrauerei|Stieglbrauerei zu Salzburg, www.stiegl.at, SB, 5017 Salzburg // Kendlerstraße 1, city:salzburg
+stiegl, Stieglbrauerei|Stieglbrauerei zu Salzburg, 1492, www.stiegl.at, SB, 5017 Salzburg // Kendlerstraße 1, city:salzburg
 
 augustiner, Augustinerbräu Kloster Mülln, 1621, www.augustinerbier.at, SB, 5020 Salzburg // Lindhofstraße 7
 
@@ -98,11 +102,13 @@ kaltenhausen, Hofbräu Kaltenhausen (Brau Union), 1475, www.kaltenhausen.at, SB,
 ##############################
 # Vorarlberg
 
-mohren, Mohrenbrauerei, www.mohrenbrauerei.at, VB, 6850 Dornbirn // Dr.-Waibel-Straße 2, city:dornbirn
+mohren, Mohrenbrauerei, www.mohrenbrauerei.at,  1834, VB, 6850 Dornbirn // Dr.-Waibel-Straße 2, city:dornbirn
 
-fohrenburg, Brauerei Fohrenburg, www.fohrenburg.at, VB, 6700 Bludenz // Fohrenburgstraße 5, city:bludenz
+fohrenburg, Brauerei Fohrenburg, 1881, www.fohrenburg.at, VB, 6700 Bludenz // Fohrenburgstraße 5, city:bludenz
 
-egg, Brauerei Egg, www.brauerei-egg.at, VB, 6863 Egg // Gerbe 500
+egg, Brauerei Egg, 1894, www.brauerei-egg.at, VB, 6863 Egg // Gerbe 500
+
+frastanz, Vorarlberger Brauereigenossenschaft Frastanz, 1902, www.frastanzer.at, VB, 6820 Frastanz
 
 
 ##############################
@@ -112,7 +118,7 @@ goesser, Gösser Brauerei (Brau Union)|Brauerei Göss, www.goesser.at, ST, 8700 
 
 puntigam, Brauerei Puntigam (Brau Union), www.puntigamer.at, ST, 8055 Graz // Triester Straße 359, brauunion
 
-schladminger, Schladminger Brau (Brau Union), www.schladmingerbier.at, ST, 8970 Schladming // Hammerfeldweg 163, city:schladming, brauunion
+schladminger, Schladminger Brau (Brau Union), 1909, www.schladmingerbier.at, ST, 8970 Schladming // Hammerfeldweg 163, city:schladming, brauunion
 
 murau, Brauerei Murau, www.murauerbier.at, ST, 8850 Murau // Raffaltplatz 19-23, city:murau
 

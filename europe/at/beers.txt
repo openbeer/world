@@ -26,17 +26,22 @@ Weitra Helles,  5.0 %,   11.8°,  by:weitra
 Hadmar {Bio},   5.2 %,   12.5°,  by:weitra, bio
 
 
-Schwechater,         5.0%, 11.5°, 41.0 kcal/100ml, by:schwechat
-Schwechater Zwickl,  5.4%, 12.5°, 45.0 kcal/100ml, by:schwechat
-# Schwechater Hopfenperle ??
+Schwechater,             5.0%, 11.5°, 41.0 kcal/100ml, by:schwechat
+Schwechater Zwickl,      5.4%, 12.5°, 45.0 kcal/100ml, by:schwechat
+Schwechater Hopfenperle, 5.1%, 11.8°, by:schwechat   # fass only
 
+Wieselburger Gold,      5.0%, 11.8°,  by:wieselburg
+Wieselburger Spezial,   5.7%, 13.1°,  by:wieselburg
 Wieselburger Stammbräu, 5.4%, 12.6°,  by:wieselburg
-Wieselburger Gold,      5.2%, 12.1°,  by:wieselburg
-Wieselburger Spezial,    by:wieselburg
 
-Kaiser Fasstyp,      5%, 11.6°,  by:wieselburg
-Kaiser Premium,    5.4%, 12.2°, by:wieselburg
-Kaiser Doppelmalz,  4.7% ,  by:wieselburg
+
+
+Kaiser Fasstyp,      5.0%, 11.6°,  www.kaiserbier.at,  by:wieselburg, maerzen
+Kaiser Goldquell,    5.7%, 12.8°,  by:wieselburg
+Kaiser 2.9 %,        2.9%,  9.2°,  by:wieselburg
+Kaiser Premium,      5.4%, 12.2°,  by:wieselburg
+Kaiser Doppelmalz,   4.7%, 12.8°,  by:wieselburg
+
 
 Schremser Premium,     5.1%, 11.9°, by:schrems
 Schremser Edelmärzen,  5.0%, 11.9°, by:schrems
@@ -62,8 +67,13 @@ Grieskirchner Export Dunkel, 5.0%, 12.4°, by:grieskirchen
 Grieskirchner Weisse Hell,   5.1%, 12.2°, by:grieskirchen
 
 
-Zipfer Märzen,  5.0%, 11.8°,  by:zipf
-Zipfer Urtyp,   5.4%, 12.2°,  by:zipf
+Zipfer Urtyp,        5.4%, 12.2°, by:zipf    # main/bestseller brand
+Zipfer Urtyp Medium, 3.0%,  9,5°, by:zipf
+Zipfer Märzen,       5.0%, 11.8°, by:zipf
+Zipfer Pils,         5.2%, 11.8°, by:zipf
+Zipfer Josefi Bock,  7.1%, 16.2°, by:zipf
+Zipfer Doppel Gold,  5.7%, 12.8°, by:zipf
+Zipfer Kellerbier,   5.6%, 12.2°, by:zipf       # ungefiltert|naturtrüb
 
 
 Kapsreiter (Landbier) Hell,  5.3%, 12.8°, by:kapsreiter
@@ -71,8 +81,10 @@ Kapsreiter (Landbier) Hell,  5.3%, 12.8°, by:kapsreiter
 Schloss Eggenberg (Classic) Märzen, 4.9%, 11.7°,  by:eggenberg
 Schloss Eggenberg Gold Spezial,     5.3%, 12.6°,  by:eggenberg
 
-Edelweiss Dunkel, by:brauunion
-Edelweiss Hefetrüb, by:brauunion
+Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, by:brauunion, weissbier
+Edelweiss Hofbräu,   4.5%, 11.8°, by:brauunion, weissbier
+Edelweiss Dunkel,    5.3%, 12.3°, by:brauunion, weissbier
+Edelweiss Gamsbock,  7.1%, 16.2°, by:brauunion, weissbier
 
 
 Schnaitl Naturtrüb, 5.1%, 11.8°, by:schnaitl               # Bittereinheiten: 20 IBU
@@ -86,17 +98,39 @@ Freistädter Rattsherrn, 5.2%, 12.2°, by:freistaedter
 Schlägl Abtei Pils, 5.2%, 12.5°,  by:schlaegl
 
 
+Baumgartner Märzen,     5.1%, 12.2°,  by:baumgartner
+Baumgartner Doppelmalz, 5.1%, 13.7°,  by:baumgartner
+Baumgartner Pils,       4.8%, 11.8°,  by:baumgartner
+Baumgartner Export,     5.7%, 13.5°,  by:baumgartner
+Baunti 1609 Lager,      5.0%, 12.0°,  by:baumgartner
+Baumgartner Zwickl,     5.1%, 12.2°,  by:baumgartner  # naturtrüb|unfiltriert
+
 
 ##############################
 # Steiermark
 
-Gösser Gold, by:goesser
-Gösser Zwickl, by:goesser
-Gösser Märzen, by:goesser
+Gösser Märzen,  5.2%, 11.8°, by:goesser     # main/bestseller brand (70%)
+Gösser Gold,    5.3%, 12.2°, by:goesser
+Gösser Spezial, 5.7%, 13.2°, by:goesser
+Gösser Zwickl,  5.2%, 11.8°, by:goesser
+Gösser Dunkles Zwickl,  5.7%, 13.2°, by:goesser
+Gösser Bock,    7.1%, 16.2°, by:goesser   # ausschließlich für die Weihnachtszeit gebraut
+Gösser Stiftsbräu, 4.2%, 11.8°, by:goesser
 
-Puntigamer Panther, by:puntigam
 
-Schladminger, by:schladminger
+Puntigamer Panther,               5.2%, 12.1°, by:puntigam   # main/bestseller brand 
+Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, by:puntigam,  maerzen
+Puntigamer Winterbier,            6.0%, 13.8°, by:puntigam
+
+Reininghaus Märzen,              5.0%, 11.8°,  by:puntigam # ST, city:graz, by:brauunion
+Reininghaus Pils,                4.8%, 11.4°,  by:puntigam # ST, city:graz, by:brauunion
+Reininghaus Jahrgangs-Pils 2012, 4.9%, 11.3°,  by:puntigam # ST, city:graz, by:brauunion   # origin: Reininghaus Familie/Adel/Graf aus Graz?
+Reininghaus Malz,                4.5%, 11.8°,  by:puntigam # ST, city:graz, by:brauunion
+
+Schladminger Märzen,             5.1%, 11.7°,  by:schladminger
+Schladminger Schnee Weiße,       5.0%, 12.2°,  by:schladminger, weizenbier
+Schladminger BioZwickl,          5.2%, 11.9°,  by:schladminger
+Schladminger Sepp,               5.1%, 11.7°,  by:schladminger
 
 Murauer, by:murau
 Murauer Märzen, by:murau
@@ -122,9 +156,25 @@ Trumer Pils,   4.9%, 11.5°,  by:trumer, lager|pils
 Trumer Märzen, 4.8%, 11.8°,  by:trumer, lager|maerzen
 
 
+Augustiner Märzen,  4.6%,  12°,   by:augustiner
+Augustiner Bock,    6.5%,  16.5°, by:augustiner
+
+
 #####################
 # Vorarlberg
 
 Mohren Pils, by:mohren
 Mohren Ländle, by:mohren
 Mohren Zwickl, by:mohren
+
+Fohrenburger Jubiläum,  5.5%, 12.8°, by:fohrenburg   # Spezialbier
+Fohrenburger Stiftle,   4.8%, 11.8°, by:fohrenburg
+Fohrenburger Märzen,    4.8%, 11.8°, by:fohrenburg
+Fohrenburger Keller Naturtrüb, 5.3%, 12.7°, by:fohrenburg    # Spezialbier
+Fohrenburger Weizen,    5.2%, 12.5°,  by:fohrenburg, weizenbier
+Fohrenburger Dunkles,   5.5%, 12.7°,  by:fohrenburg,  #  Dunkles Spezialbier
+Fohrenburger Bock,      7.2%, 16.2°,  by:fohrenburg
+Fohrenburger Pils,      4.8%, 11.7°,  by:fohrenburg  # Vollbier
+
+Engelburg Bräu, 4.2%, 9.9°, by:fohrenburg     # Schankbier
+

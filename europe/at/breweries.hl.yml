@@ -6,6 +6,14 @@
 
 brauunion:   4_700_000 hl
 
+# goesser:    1_300_000 hl  # part of brauunion (already included)
+# puntigam:   1_000_000 hl # part of brauunion (already included)
+# schwechat:    980_000 hl  # part of brauunion (already included)
+# wieselburg:   900_000 hl  # part of brauunion (already included)
+# falkenstein:   66_000 hl   # part of brauunion (already included?)
+# schladminger:  35_000 hl # part of brauunion (already included)
+
+
 ### 500_000 - 100_000 hl
 
 stiegl:        775_000 hl
@@ -28,3 +36,60 @@ hirt:          150_000 hl
 trumer:        100_000 hl
 
 ### < 100_000 hl
+
+baumgartner:  100_000 hl # estimate  ?? to high for indie??
+
+grieskirchen:  70_000 hl  ## possible ?? to high for indie??
+
+ried:  70_000 hl ## possible ?? to high for indie??
+
+freistaedter: 60_000 hl
+
+hubertus:     60_000 hl
+
+schleppe:     60_000 hl
+
+zillertal:     50_000 hl
+
+starkenberg:   50_000 hl  ## possible way to high for indie??
+
+wurmhoeringer: 48_000 hl  ## possible way to high for indie??
+
+kapsreiter:   45_000 hl  # estimate (2000) now lesss?
+
+frastanzer:    40_000 hl   # estimate
+
+raschhofer:     30_000 hl  # estimate
+schlaegl:       30_000 hl   # estimate
+
+kellerbrauerei: 25_000 hl  # estimate
+schnaitl:       25_000 hl  # estimate
+
+schrems:        24_000 hl    # estimate
+
+
+## < 20_000 hl
+
+vitzthum:  20_000 hl  # estimate
+
+ritterbraeu:   20_000 hl  # estimate
+
+huberbraeu:    20_000 hl   # estimate
+
+egg:           16_000 hl  # estimate
+aspach:        15_000 hl  # estimate
+
+braeuamberg: 10_000 hl # estimate
+
+
+augustiner:  8_500 hl # estimate
+
+weitra:      6_500 hl  # estimate
+
+hofstetten:  5_700 hl  # annual prod. from website 
+
+dieweisse:  1_800 hl   # estimate
+
+brangerbraeu:  1_500 hl # estimate
+
+emmerberg:  600 hl  # estimate
