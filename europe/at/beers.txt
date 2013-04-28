@@ -94,18 +94,18 @@ Gösser Gold, by:goesser
 Gösser Zwickl, by:goesser
 Gösser Märzen, by:goesser
 
-Puntigamer Panther, ST, city:graz, by:brauunion
+Puntigamer Panther, by:puntigam
 
 Schladminger, by:schladminger
 
-Murauer, by:murauer
-Murauer Märzen, by:murauer
+Murauer, by:murau
+Murauer Märzen, by:murau
 
 
 ############################
 # Kärnten
 
-Hirter Pils, by:hirter
+Hirter Pils, by:hirt
 
 Villacher Märzen, by:villacher
 
@@ -118,7 +118,8 @@ Stiegl Goldbräu, by:stiegl
 Stiegl Weizengold, by:stiegl
 
 
-Trumer Pils, by:trumer
+Trumer Pils,   4.9%, 11.5°,  by:trumer, lager|pils
+Trumer Märzen, 4.8%, 11.8°,  by:trumer, lager|maerzen
 
 
 #####################

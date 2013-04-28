@@ -1,0 +1,135 @@
+####
+# Microbreweries
+
+
+#######################
+# Burgenland
+
+kobersdorfer, Kobersdorfer Schlossbräu, www.kobersdorfer.at, BL, 7332 Kobersdorf // Hauptstraße 43
+
+
+###########################
+# Niederösterreich
+
+
+korneuburg, Biermanufaktur Korneuburg, www.biermanufaktur.at, NO, 2100 Korneuburg // Brückenstraße 8
+
+hainfeld, Brauerei Hainfeld, www.brauerei-hainfeld.at, NO, 3170 Hainfeld // Wienerstraße 10
+
+bruckners, Bruckners Brauwelt, www.bruckners-brauwelt.at, NO, 3292 Gaming // Grubberg 4a
+
+bierzauberei, Die Bierzauberei, www.bierzauberer.info, NO, 2345 Brunn am Gebirge // Leopold Gattringer-Straße 39
+
+emmerberg, Emmerberg-Bräu / Erste Österreichische Ökobrauerei, NO, 2722 Winzendorf // Hauptstraße 137
+
+holzbrauer, Holzb(r)auer / Natürliche Handwerksbrauerei, NO, 2831 Warth // Wiesengasse 9
+
+marchfelder, Marchfelder Storchenbräu, www.bauersbier.at, NO, 2284 Untersiebenbrunn // Brückengasse 5
+
+schwarz, Privatbrauerei Gerald Schwarz, www.schwarzbraeu.at, NO, 2851 Krumbach // Bundesstraße 19
+
+wolfsbrau,  Wolfsbräu, www.wolfsbrau.at, NO, 2832 Thernberg // Blumengasse 7
+
+
+##############################
+# Oberösterreich
+
+argus, Argus-Bräu, www.argus-braeu.at, OO, 4861 Schörfling (am Attersee) // Oberachmanstraße 21
+
+aspach, Brauerei Aspach (Starzinger), OO, 4890 Frankenmarkt // Hauptstraße 23  # Part of Starzinger - www.starzinger.at
+
+braeuamberg, Brauerei Bräu am Berg (Starzinger), OO, 4890 Frankenmarkt // Bahnhofstraße 1   # Part of Starzinger - www.starzinger.at
+
+attersee, Brauerei Attersee, www.brauerei-attersee.at, OO, 4881 Straß (i. Attergau) // Straß 8
+
+hofstetten, Brauerei Hofstetten, www.hofstetten.at, OO, 4113 St. Martin // Adsdorf 5
+
+baumgartner, Brauerei Jos. Baumgartner, www.brauerei-baumgartner.at, OO, 4780 Schärding // Franz-Xaver-Brunner-Straße 1
+
+pfeiffisbraeu, Brauerei Pachinger|Pfeiffi’s Bräu, www.pfeiffis-braeu.at, OO, 4843 Ampflwang // Vorderschlagen 19
+
+raschhofer, Brauerei Raschhofer, www.raschhoferbier.at, OO, 4950 Altheim // Braunauer Straße 12
+
+ried, Brauerei Ried, www.rieder-bier.at, OO, 4910 Ried/Innkreis // Brauhausgasse 24
+
+florianibraeu, Dörnbacher Floriani-Bräu, www.florianibraeu.at, OO, 4061 Wilhering // Dörnbacherstraße 132
+
+kellerbrauerei, Kellerbrauerei, www.kellerbrauerei.at, OO, 4910 Ried/Innkreis // Am Kellerbräuberg 2
+
+biobrauerei, Neufeldner Biobrauerei, www.biobrauerei.at, OO, 4120 Neufelden // Bräuhausgasse 3
+
+ritterbraeu, Ritterbräu Neumarkt, www.ritterbraeu.at, OO, 4720 Neumarkt/Hausruck // Bräuhausgasse 1
+
+schwertberger, Schwertberger Bräu, OO, 4311 Schwertberg // Ing. Schmiedl-Straße 7
+
+steffinger, Steffinger Brauerei, OO, 4170 St. Stefan am Walde // Unterriedl 4
+
+stiftengelszell, Trappistenbrauerei / Stift Engelszell, www.stift-engelszell.at, OO, 4090 Engelhartszell // Stiftstraße 6
+
+wurmhoeringer, Privatbrauerei Wurmhöringer, www.wurmhoeringer.at, OO, 4950 Altheim // Stadtplatz 10/11
+
+
+##############################
+# Kärnten
+
+loncium, Privatbrauerei Loncium, www.loncium.at, KT, 9640 Kötschach-Mauthen // Mauthen 60
+
+wimitz, Wimitzbräu, www.wimitzbraeu.com, KT, 9311 Kraig // Wimitz 7
+
+
+
+##############################
+# Salzburg
+
+gusswerk, Brauerei Gusswerk, www.brauhaus-gusswerk.at, SB, 5020 Salzburg // Söllheimerstraße 16
+
+salzburgerweisse, Die Weisse Brauerei, www.salzburgerweissbier.at, SB, 5020 Salzburg // Bayerhamerstraße 10
+
+
+##############################
+# Steiermark
+
+flamberger, Brauerei Michael Löscher, www.flamberger.at, ST, 8505 St. Nikolai i. S. // Flamberg 101
+
+bevog, Brauhaus Bevog, www.bevog.at, ST, 8490 Bad Radkersburg // Gewerbepark B Nr. 9
+
+diebrauerei, Brauerei Leutschach, www.diebrauerei.com, ST, 8463 Leutschach // Schillerplatz 3
+
+gratzer, Brauerei Gratzer, www.brauereigratzer.at, ST, 8224 Kaindorf // Obertiefenbach 26
+
+forstner, Hof-Bräu Kalsdorf, www.forstner-biere.at, ST, 8401 Kalsdorf // Dorfstraße 52
+
+herzoghofbraeu, Herzog Hofbräu, www.herzog-hofbraeu.at, ST, 8142 Wundschuh // Steindorf 8
+
+pock, Landwerkstatt & Genusslabor, www.pockbier.com, ST, 8481 Weinburg // Pichla/M. 31
+
+nibelungengold, Nibelungengold Brauerei, www.nibelungengold.at, ST, 8280 Fürstenfeld // Franz-Bauer-Weg 4
+
+erzbergbraeu, Privatbrauerei Erzbergbräu, www.erzbergbraeu.at,  ST, 8790 Eisenerz // Trofengbachgasse 2
+
+tonibraeu, Toni Bräu, www.tonibraeu.at, ST, 8273 Ebersdorf // Wagenbach 61
+
+triebbraeu, Trieb-Bräu, ST, 8641 St. Marein // Ferdinand Raimundweg 7
+
+############
+# Tirol
+
+brangeralm, Branger Bräu, 1993, www.brangeralm.at, TI, 6175 Unterperfuß/Innsbruck // Unterperfuß 32
+
+baumgartner, Brauerei Harald Franz Baumgartner, TI, 6020 Innsbruck // Feldstraße 11a
+
+starkenberg, Brauerei Schloß Starkenberg, www.starkenberg.at, TI, 6464 Tarrenz // Griesegg 1
+
+zillertal, Brauhaus Simon Strasser, www.zillertal-bier.at, TI, 6280 Zell am Ziller // Bräuweg 1   # Zillertal Bier
+
+huberbraeu, Familienbrauerei Huber, www.huberbraeu.at, TI, 6380 St. Johann // Brauweg 2
+
+kristall, Kristall Brauerei, TI, 6236 Alpach // Inneralpbach 431
+
+vilser, Vilser Privatbrauerei, www.vilserprivatbrauerei.at, TI, 6682 Vils // Stadtgasse 2
+
+
+##############################
+# Vorarlberg
+
+frastanz, Vorarlberger Brauereigenossenschaft Frastanz, www.frastanzer.at, VB, 6820 Frastanz

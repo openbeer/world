@@ -1,0 +1,64 @@
+############
+# Brewpubs / Braugasthaus (Gasthaus mit Hausbrauerei)
+
+
+#############
+# Wien
+
+# todo: move to wien.db ?? - yes of course, do it!
+
+1516 Brewing Company, 1010 Wien // Krugerstraße 18/Schwarzenbergstraße 2
+
+Stadtbrauerei Schwarzenberg, 1010 Wien // Schellinggasse 14
+
+Salm Bräu, 1030 Wien // Rennweg 8
+
+Wieden-Bräu, 1040 Wien // Waaggasse 5
+
+Siebensternbräu, 1070 Wien // Siebensterngasse 19
+
+Lichtenthaler Bräu, 1090 Wien // Lichtensteinstrasse 108
+
+The Highlander, 1090 Wien // Sobieskiplatz 4
+
+Medl - Bräu, 1140 Wien // Linzer Straße 275
+
+Schwarzer Rabe, 1160 Wien // Ottakringer Straße 180
+
+Fischerbräu, 1190 Wien // Billrothstraße 17
+
+Kadlez Bräu, 1210 Wien // Floridsdorfer Hauptstraße 9
+
+
+###############################
+# Niederoesterreich
+
+Brauerei Brauhotel Weitra, 3970 Weitra // Rathausplatz 6
+
+Brauerei Erich Brettner / "Altes Doktorhaus", 2641 Schottwien // Hauptstraße 49,
+
+Dunkelsteiner Bräu, 3121 Karlstetten // Schaubing 2
+
+Erlauftaler Bräu, 3250 Wieselburg // Teichweg 6
+
+Fiaker Bräu, 3550 Langenlois // Holzplatz 7
+
+Gasthof Diewald, 2640 Gloggnitz // Raach am Hochgebirge 38
+
+Brauerei Dangl, 3763 Japons // Zettenreith 7
+
+Linko Bräu, 3160 Traisen // Gartengasse 9
+
+Poidl Bräu, 2563 Pottenstein // Wehrgasse 6
+
+Privatbrauerei Gaming Kartausen Bräu, 3293 Gaming // Kartause 1
+
+Privatbrauerei Maria Pichler, 3633 Schönbach // Schönbach 1
+
+Rax Bräu, 2650 Payerbach // Hauptstraße 40
+
+Wirtshausbrauerei Haselböck, 3662 Münichreith am Ostrong // Hausbrauerstraße 3
+
+Ybbstal Bräu Gasthaus Hehenberger, 3340 Waidhofen/Ybbs // Wienerstraße 28
+
+Zecherbräu, 2640 Enzenreith // Siedlaustraße 129

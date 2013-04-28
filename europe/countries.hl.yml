@@ -1,0 +1,39 @@
+########
+#  beer production in hl (1hl = 100l)
+#
+#  all  549_272_000 hl
+
+ru: 98_140_000 hl
+de: 95_545_000 hl
+gb: 45_701_000 hl
+pl: 37_850_000 hl
+es: 33_600_000 hl
+ua: 30_510_000 hl   # Ukraine
+nl: 23_600_000 hl
+cz: 18_191_000 hl
+be: 18_150_000 hl
+fr: 17_100_000 hl
+ro: 17_000_000 hl
+it: 12_510_000 hl
+tr:  9_800_000 hl
+at:  8_917_000 hl
+pt:  8_250_000 hl
+ir:  8_100_000 hl
+dk:  6_300_000 hl
+hu:  6_000_000 hl
+rs:  5_523_000 hl   # Serbia
+bg:  5_020_000 hl
+by:  4_690_000 hl   # Belarus
+se:  4_491_000 hl
+fi:  4_220_000 hl
+gr:  4_000_000 hl
+hr:  3_589_000 hl
+ch:  3_546_000 hl
+sk:  3_200_000 hl
+lt:  3_000_000 hl
+no:  2_346_000 hl
+sl:  1_973_000 hl
+lv:  1_533_000 hl
+ee:  1_360_000 hl
+
+# rest of europe 5_517_000 hl
