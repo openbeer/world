@@ -29,11 +29,11 @@ zwettler:      200_000 hl
 
 #### < 200_000 hl
 
-mohren:        180_000 hl
-eggenberg:     160_000 hl
-murau:         160_000 hl
-hirt:          150_000 hl
-trumer:        100_000 hl
+mohren:           180_000 hl
+schlosseggenberg: 160_000 hl
+murau:            160_000 hl
+hirt:             150_000 hl
+trumer:           100_000 hl
 
 ### < 100_000 hl
 
@@ -82,7 +82,7 @@ aspach:        15_000 hl  # estimate
 braeuamberg: 10_000 hl # estimate
 
 
-augustiner:  8_500 hl # estimate
+augustinersbg:  8_500 hl # estimate
 
 weitra:      6_500 hl  # estimate
 

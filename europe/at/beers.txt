@@ -80,8 +80,13 @@ Zipfer Kellerbier,   5.6%, 12.2°, by:zipf       # ungefiltert|naturtrüb
 
 Kapsreiter (Landbier) Hell,  5.3%, 12.8°, by:kapsreiter
 
-Schloss Eggenberg (Classic) Märzen, 4.9%, 11.7°,  by:eggenberg
-Schloss Eggenberg Gold Spezial,     5.3%, 12.6°,  by:eggenberg
+Schloss Eggenberg (Classic) Märzen,    4.9%, 11.7°,  by:schlosseggenberg, maerzen
+Schloss Eggenberg Gold Spezial,        5.3%, 12.6°,  by:schlosseggenberg, spezial
+Schloss Eggenberg Hopfenkönig,         5.1%, 11.7°,  by:schlosseggenberg, pils
+Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°,  by:schlosseggenberg
+Schloss Eggenberg Naturtrüb,           5.2%, 11.7°,  by:schlosseggenberg, zwickl
+Schloss Eggenberg Urbock 23°,          9.6%, 23°,    by:schlosseggenberg, starkbier
+Samichlaus,               14%, 28°,  by:schlosseggenberg
 
 
 Schnaitl Naturtrüb, 5.1%, 11.8°, by:schnaitl               # Bittereinheiten: 20 IBU
@@ -153,8 +158,8 @@ Trumer Pils,   4.9%, 11.5°,  by:trumer, lager|pils
 Trumer Märzen, 4.8%, 11.8°,  by:trumer, lager|maerzen
 
 
-Augustiner Märzen,  4.6%,  12°,   by:augustiner
-Augustiner Bock,    6.5%,  16.5°, by:augustiner
+Augustiner Märzen,  4.6%,  12°,   by:augustinersbg
+Augustiner Bock,    6.5%,  16.5°, by:augustinersbg
 
 # todo: use brauunion brewery froms salzburg - kaltenhausen ??
 Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, by:kaltenhausen, weissbier

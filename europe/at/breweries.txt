@@ -48,7 +48,9 @@ grieskirchen, Brauerei Grieskirchen, 1708, www.grieskirchner.at, OO, city:griesk
 zipf, Brauerei Zipf (Brau Union), www.zipfer.at, OO, city:zipf, 4871 Zipf // Zipf 22, brau_union  # Part of Brau Union
 
 
-eggenberg, Brauerei Schloss Eggenberg, 1681, www.schloss-eggenberg.at, OO, city:vorchdorf, 4655 Vorchdorf // Eggenberg 1
+## NB: eggenberg key used by Pivovar Eggenberg in Český Krumlov
+
+schlosseggenberg, Brauerei Schloss Eggenberg, 1681, www.schloss-eggenberg.at, OO, city:vorchdorf, 4655 Vorchdorf // Eggenberg 1
 
 
 kapsreiter, Kapsreiter Brauerei, OO, city:schaerding, 4780 Schärding // Linzer Straße 1,  ottakringer   # Part of Ottakringer
@@ -91,7 +93,9 @@ trumer, Trumer Privatbrauerei, www.trumer.at, SB, 5162 Obertrum // Brauhausgasse
 
 stiegl, Stieglbrauerei|Stieglbrauerei zu Salzburg, 1492, www.stiegl.at, SB, 5017 Salzburg // Kendlerstraße 1, city:salzburg
 
-augustiner, Augustinerbräu Kloster Mülln, 1621, www.augustinerbier.at, SB, 5020 Salzburg // Lindhofstraße 7
+# NB: augustiner key already in use by Augustiner Bräu in Muenchen / de
+#  use augustinermuelln? instead of augustinersbg?
+augustinersbg, Augustinerbräu Kloster Mülln, 1621, www.augustinerbier.at, SB, 5020 Salzburg // Lindhofstraße 7
 
 kaltenhausen, Hofbräu Kaltenhausen (Brau Union), 1475, www.kaltenhausen.at, SB, 5400 Hallein-Kaltenhausen // Salzburger Straße 67, brauunion
 
