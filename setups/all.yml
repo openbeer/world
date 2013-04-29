@@ -1,8 +1,10 @@
 
 breweries:
 - europe/at/breweries
+- europe/at/breweries.2
 - europe/cz/breweries
 - europe/de/breweries
+- europe/de/breweries_by
 - europe/en/breweries
 - europe/ie/breweries
 - europe/ro/breweries
@@ -16,15 +18,17 @@ breweries:
 
 europe:
 - europe/at/beers
-- europe/at/beers.non            # non-alcoholic (n/a) / alcohol-free
 - europe/be/beers
 - europe/cz/beers
 - europe/de/beers
+- europe/de/beers_by
 - europe/en/beers
 - europe/ie/beers
 - europe/nl/beers
 - europe/ro/beers
 - europe/sk/beers
+
+# - europe/at/beers.non            # skip non-alcoholic (n/a) / alcohol-free
 
 north-america:
 - north-america/us/beers

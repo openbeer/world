@@ -2,11 +2,6 @@ Beck's Pilsner              # Pilsner
 Beck's Gold                 # Lager
 
 
-Schneider Weisse, 5.4%, 12.8°
-
-Innstadt Passauer Weisse Hefe Naturtrüb,  5.3%, 12°
-
-
 Warsteiner
 
 Clausthaler
@@ -19,74 +14,8 @@ Clausthaler
 Jever Pilsener, 4.9%, by:jever,  pilsner
 
 
-###############
-# Bayern (BY)
-
-### todo: use own file for bayern e.g.
-#  beers_by.txt ??
-#  same for breweries_by.txt  ??
-
-
-Hopf Helle Weiße, 5.3%, 12.7°, by:hopf     # Weißbier
-Hopf Dunkle Weiße, 5.0%, 12.8°, by:hopf
-
-
-
 #################
 # more de beer - needs some edits
-
-
-
-Augustiner Lagerbier Hell  # Helles
-Augustiner Edelstoff       # Münchner Bier
-Augustiner Weißbier        # Weißbier
-Augustiner Oktoberfestbier   # Münchner Bier
-Augustiner Dunkel   # Dunkelbier
-Augustiner Pils   # Pilsner
-
-Paulaner Original Münchner Hell   # Helles
-Paulaner Hefe-Weißbier Naturtrüb   # Weißbier
-
-# Paulaner Hefeweizen
-# Paulaner Weisse
-
-
-Hacker-Pschorr Münchner Hell  #  Helles
-Hacker-Pschorr Oktoberfest Märzen  # Märzen
-
-Löwenbräu Original  # Helles
-
-Spaten Münchner Hell  # Münchener
-
-Erdinger Weißbier           # Weißbier
-Erdinger Kristall    # Weißbier Kristall
-Erdinger Urweisse   # Weißbier
-
-Franziskaner Hefe-Weißbier Hell  # Weißbier
-Franziskaner Weißbier Kristallklar  # Weißbier Kristall
-Franziskaner Royal   # Weißbier
-
-König Ludwig Weissbier Hell  # Weißbier
-
-# König Ludwig Weissbier
-# König Ludwig Hell
-# König Ludwig Dunkel
-
-
-
-Weihenstephaner Hefeweissbier   # Weißbier
-Weihenstephaner Hefeweissbier Dunkel  # Weißbier dunkel
-
-# Weihenstephaner Weizen
-# Weihenstephaner Trüb
-# Weihenstephaner Dunkel
-
-
-Bayreuther Aktien Zwick'l Kellerbier   # Zwickelbier
-
-Richard Wagner Dunkel  #  Dunkelbier
-
-
 
 
 
@@ -114,9 +43,6 @@ Fuchsbeck Pils  # Pilsner
 Bitburger Premium Pils  # Pilsner
 
 
-Neumarkter Lammsbräu Zzzisch Edelpils  # Pilsner
-Neumarkter Lammsbräu Urstoff   # Helles
-Neumarkter Lammsbräu Weisse  # Weißbier
 
 
 Andechser Hell        # Helles

@@ -1,8 +1,10 @@
 
 breweries:
 - europe/at/breweries
+- europe/at/breweries.2
 - europe/cz/breweries
 - europe/de/breweries
+- europe/de/breweries_by
 - europe/en/breweries
 - europe/ie/breweries
 - europe/ro/breweries
