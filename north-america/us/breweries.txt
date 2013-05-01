@@ -1,12 +1,280 @@
+######################
+# New York (NY)
+
+brooklyn,        Brooklyn Brewery, 1987, NY, city:newyork, Brooklyn | NY 11249 // #1 Brewers Row // 79 N 11th St.
+sixpoint,        Sixpoint Brewery, NY, Brooklyn | NY
+southerntier,    Southern Tier Brewing Co.|Southern Tier Brewing Company, NY, Lakewood | NY
+ommegang,        Brewery Ommegang, NY, Cooperstown | NY
+bluepoint,       Blue Point Brewing Co.|Blue Point Brewing Company, NY, Patchogue | NY
+captainlawrence, Captain Lawrence Brewing Co.|Captain Lawrence Brewing Company, NY, Elmsford | NY
+ithaca,          Ithaca Beer Co.|Ithaca Beer Company, NY, Ithaca | NY
+
+
+###################
+# California (CA)
+
+stonebrewing,    Stone Brewing Co., CA, Escondido | CA
+lagunitas,       Lagunitas Brewing Co.|Lagunitas Brewing Company, CA, Petaluma | CA
+sierranevada,    Sierra Nevada Brewing Co., CA, Chico | CA
+greenflash,      Green Flash Brewing Co., CA, San Diego | CA 
+firestonewalker, Firestone Walker Brewing Co.|Firestone Walker Brewing Company, CA, Paso Robles | CA
+ballastpoint,    Ballast Point Brewing, CA, San Diego | CA
+bearrepublic,    Bear Republic Brewing Co., CA, Healdsburg | CA
+thebruery,       The Bruery, CA, Placentia | CA
+andersonvalley,  Anderson Valley Brewing Co.|Anderson Valley Brewing Company, CA, Boonville | CA
+anchorbrewing,   Anchor Brewing Co.|Anchor Brewing Company, CA, San Francisco | CA
+alesmith,        AleSmith Brewing Co.|AleSmith Brewing Company, CA, San Diego | CA
+speakeasy,       Speakeasy Ales and Lagers, CA, San Francisco | CA
+lostcoast,       Lost Coast Brewery, CA, Eureka | CA
+bjsbrewhouse,    BJ's Brewhouse, CA, Huntington Beach | CA
+kneedeep,        Knee Deep Brewing Co.|Knee Deep Brewing Company, CA, Lincoln | CA
+goldenroad,      Golden Road Brewing, CA, Los Angeles | CA
+shmaltz,         Shmaltz Brewing Co.|Shmaltz Brewing Company, CA, San Francisco | CA
+hangar24,        Hangar 24 Craft Brewery, CA, Redlands | CA
+bootleggers,     Bootlegger's Brewery, CA, Fullerton | CA
+moylans,         Moylan's Brewery, CA,  Novato | CA
+karlstrauss,     Karl Strauss Brewing Co.|Karl Strauss Brewing Company, CA, San Diego | CA
+pizzaport,       Pizza Port, CA, Carlsbad | CA
+drakes,          Drake's Brewing Co.|Drake's Brewing Company, CA, San Leandro | CA
+societebrewing,  Societe Brewing Co., CA, San Diego | CA
+
+
+####################
+# Oregon (OR)
+
+widmer,     Widmer Brothers Brewing, OR, Portland | OR
+rogueales,  Rogue Ales, OR, Newport | OR
+deschutes,  Deschutes Brewery, OR, Bend | OR
+laurelwood, Laurelwood Brewing Co., OR, Portland | OR
+ninkasi,    Ninkasi Brewing Co.|Ninkasi Brewing Company, OR, Eugene | OR
+boneyard,   Boneyard Beer Company, OR, Bend | OR
+
+
+
+##########################
+# Washington (WA)
+
+redhook, Redhook Ale Brewery, WA, Woodinville | WA
+pyramid, Pyramid Breweries, WA, Seattle | WA
+noli,    No-Li Brewhouse, WA, Spokane | WA
+
+
+######################
+# Louisiana (LA)
+
+dixie, Dixie Brewing Co.|Dixie Brewing Company, 1907, LA, city:neworleans, New Orleans | LA 70119 // 2401 Tulane Ave.
+abita, Abita Brewing Co.|Abita Brewing Company, LA, Abita Springs | LA
+
+
+#####################
+# Illinois (IL)
+
+pabst, Pabst Brewing Co.|Pabst Brewing Company, IL, Woodridge | IL
+
+gooseisland, Goose Island Beer Co.|Goose Island Beer Company, 1988, IL, city:chicago, Chicago | IL 60612 // 1800 West Fulton St.
+twobrothers, Two Brothers Brewing Co.|Two Brothers Brewing Company, IL, Warrenville | IL
+halfacre,    Half Acre Beer Co.|Half Acre Beer Company, IL, Chicago | IL
+pipeworks,   Pipeworks Brewing Co.|Pipeworks Brewing Company, IL, Chicago | IL
+finch,       Finch's Beer Co.|Finch's Beer Company, IL, Chicago | IL
+
+
+##################
+# Ohio (OH)
+
+greatlakes, Great Lakes Brewing Co.|Great Lakes Brewing Company, OH, Cleveland | OH
+fatheads,   Fat Head's Brewery, OH, North Olmsted | OH
+hoppinfrog, Hoppin' Frog Brewery, OH, Akron | OH
+
+#####################
+# Massachusetts (MA)
+
+boston,       Boston Beer Co. (Samuel Adams)|Boston Beer Company, 1984, MA, city:boston, Boston | MA 02130 // 30 Germania St.
+clownshoes,   Clown Shoes, MA, Ipswich | MA
+harpoon,      Harpoon Brewery, MA, Boston | MA
+prettythings, Pretty Things Beer & Ale Project, MA, Somerville | MA
+
+
+######################
+# Wisconsin (WI)
+
+miller, Miller Brewing Co.|Miller Brewing Company, 1855, WI, city:milwaukee, Milwaukee | WI
+
+leinenkugel, Jacob Leinenkugel Brewing Co.|Jacob Leinenkugel Brewing Company, WI, Chippewa Falls | WI
+
+
+####################
+# Delaware (DE)
+
+dogfish,   Dogfish Head Craft Brewery, DE, Milton | DE
+
+
+######################
+# Michigan (MI)
+
+founders,    Founders Brewing Co.|Founders Brewing Company, MI, Grand Rapids | MI 
+bells,       Bell's Brewery|Bell's Brewery Inc., MI, Galesburg/Comstock & Kalamazoo | MI
+newholland,  New Holland Brewing Co.|New Holland Brewing Company, MI, Holland | MI
+greenbush,   Greenbush Brewing Co.|Greenbush Brewing Company, MI, Sawyer | MI
+shorts,      Short's Brewing Co.|Short's Brewing Company, MI, Bellaire | MI
+arcadia,     Arcadia Brewing Company (Arcadia Ales), MI, Battle Creek | MI
+
+
+####################
+# Colorado (CO)
+
+Coors Brewing Co.|Coors Brewing Company, CO, Golden | CO
+
+newbelgium,   New Belgium Brewing Co.|New Belgium Brewing Company, CO, Fort Collins | CO
+avery,        Avery Brewing Co.|Avery Brewing Company, CO, Boulder | CO
+oskarblues,   Oskar Blues Brewery, CO, Longmont | CO
+lefthand,     Left Hand Brewing Co.|Left Hand Brewing Company, CO, Longmont | CO
+greatdivide,  Great Divide Brewing Co.|Great Divide Brewing Company, CO, Denver | CO
+breckenridge, Breckenridge Brewery, CO, Denver | CO
+odell,        Odell Brewing Co., CO, Fort Collins | CO
+boulder,      Boulder Beer Co.|Boulder Beer Company, CO, Boulder | CO
+skabrewing,   Ska Brewing, CO, Durango | CO
+crookedstave, Crooked Stave Artisan Beer Project, CO, Denver | CO
+
+
+##################
+# Indiana (IN)
+
+threefloyds,   Three Floyds Brewing Co.|Three Floyds Brewing Company, IN, Munster | IN
+sunking,       Sun King Brewing Co, IN, Indianapolis | IN
+uplandbrewing, Upland Brewing Co.|Upland Brewing Company, IN, Bloomington | IN
+
+
+####################
+# Vermont (VT)
+
+magichat,         Magic Hat Brewing Co.|Magic Hat Brewing Company, VT, South Burlington | VT
+hillfarmstead,    Hill Farmstead Brewery, VT, Greensboro | VT
+longtrailbrewing, Long Trail Brewing Co.|Long Trail Brewing Company, VT, Bridgewater Corners | VT
+
+
+######################
+# Pennsylvania (PA)
+
+victory,      Victory Brewing Co.|Victory Brewing Company, PA, Downingtown | PA
+troegs,       Tröegs Brewing Co.|Tröegs Brewing Company, PA, Hershey | PA
+yuengling,    Yuengling Brewery, PA, Pottsville | PA
+weyerbacher,  Weyerbacher Brewing Co.|Weyerbacher Brewing Company, PA, Easton | PA
+slyfox,       Sly Fox Brewing Co.|Sly Fox Brewing Company, PA, Pottstown | PA
+voodoo,       Voodoo Brewing Co., PA, Meadville | PA
+fullpint,     Full Pint Brewing Co.|Full Pint Brewing Company, PA, North Versailles | PA
+yardsbrewing, Yards Brewing Co., PA, Philadelphia | PA
+
+
+#######################
+# Texas (TX)
+
+spoetzl,     Spoetzl Brewery, TX, Shiner | TX
+karbach,     Karbach Brewing Co, TX, Houston | TX
+jesterking,  Jester King Craft Brewery, TX, Austin | TX
+saintarnold, Saint Arnold Brewing Co.|Saint Arnold Brewing Company, TX, Houston | TX
+deepellum,   Deep Ellum Brewing Co.|Deep Ellum Brewing Company, TX, Dallas | TX
+hopsngrain,  Hops & Grain, TX, Austin | TX
+
+# fix: can handle key starting w/ number??
+# 1512 Brewing Company, TX, Austin | TX
+
+
+#######################
+# Hawaii (HI)
+
+kona, Kona Brewing Co.|Kona Brewing Company, HI, Honolulu | HI
+
+#################
+# Alaska (AK)
 
 alaskan, Alaskan Brewing Co.|Alaskan Brewery Company, 1986, AK, city:juneau, Juneau | AK 99801-9540 // 5429 Shaune Dr.
 
-brooklyn, Brooklyn Brewery, 1987, NY, city:newyork, Brooklyn | NY 11249 // #1 Brewers Row // 79 N 11th St.
 
-dixie, Dixie Brewing Co.|Dixie Brewing Company, 1907, LA, city:neworleans, New Orleans | LA 70119 // 2401 Tulane Ave.
+#########################
+# Maryland (MD)
 
-gooseisland, Goose Island Beer Co.|Goose Island Beer Company, 1988, IL, city:chicago, Chicago | IL 60612 // 1800 West Fulton St.
+flyingdog, Flying Dog Brewery, MD, Frederick | MD
 
-boston, Boston Beer Co.|Boston Beer Company, 1984, MA, city:boston, Boston | MA 02130 // 30 Germania St.
 
-miller, Miller Brewing Co.|Miller Brewing Company, 1855, WI, city:milwaukee
+############################
+# Missouri (MO)
+
+boulevard, Boulevard Brewing Co., MO, Kansas City | MO
+schlafly,  Schlafly Beer (The Saint Louis Brewery), MO, Saint Louis| MO
+
+
+##################
+# Georgia (GA)
+
+terrapin,   Terrapin Beer Co.|Terrapin Beer Company, GA, Athens | GA
+sweetwater, SweetWater Brewing Co.|SweetWater Brewing Company, GA, Atlanta | GA
+
+#########################
+# Maine (ME)
+
+allagash, Allagash Brewing Co.|Allagash Brewing Company, ME, Portland | ME
+
+
+###################################
+# Utah (UT)
+
+uinta, Uinta Brewing Co.|Uinta Brewingmpany, UT, Salt Lake City | UT
+epic,  Epic Brewing Co., UT, Salt Lake City | UT
+
+##########################
+# Minnesota (MN)
+
+surlybrewing,  Surly Brewing Company, MN, Brooklyn Center | MN
+summitbrewing, Summit Brewing Co.|Summit Brewing Company, MN, St. Paul | MN
+
+
+
+###################################
+##### todo: add to state sections
+
+
+Foothills Brewing, NC, Winston-Salem | NC
+Highland Brewing Co.|Highland Brewing Company, NC, Asheville | NC
+Mother Earth Brewing, NC, Kinston | NC
+The Duck-Rabbit Craft Brewery, NC, Farmville | NC
+
+Prairie Artisan Ales, OK, Tulsa | OK
+
+Heavy Seas Beer, MD, Baltimore | MD
+DuClaw Brewing Co.|DuClaw Brewing Company, MD, Bel Air | MD
+Stillwater Artisanal Ales, MD, Baltimore | MD
+Evolution Craft Brewing Co.|Evolution Craft Brewing Company, MD, Salisbury | MD
+
+Lakefront Brewery, WI, Milwaukee | WI
+
+Starr Hill Brewing Co.|Starr Hill Brewing Company, VA, Crozet | VA
+Blue Mountain Brewery, VA, Afton | VA
+
+Smuttynose Brewing Co., NH, Portsmouth | NH
+
+Perennial Artisan Ales, MO, St Louis | MO
+Urban Chestnut Brewing Co.|Urban Chestnut Brewing Company, MO, Saint Louis | MO
+
+Maine Beer Co.|Maine Beer Company, ME, Portland | ME
+Shipyard Brewing Co.|Shipyard Brewing Company, ME, Portland | ME
+
+Big Sky Brewing Co.|Big Sky Brewing Company, MT, Missoula | MT
+
+Iron Hill Brewery, DE, Wilmington | DE
+
+Westbrook Brewing Co., SC, Mt Pleasant | SC
+RJ Rockers Brewing Co.|RJ Rockers Brewing Company, SC, Spartanburg | SC
+
+Toppling Goliath Brewing, IA, Decorah | IA
+
+Laughing Dog Brewing, ID, Ponderay | ID
+
+Tallgrass Brewing Co.|Tallgrass Brewing Company, KS, Manhattan | KS
+
+
+
+
+
+
+
+
