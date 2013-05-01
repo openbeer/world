@@ -1,0 +1,11 @@
+###################
+# Breweries in Hamburg (HH)
+
+### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
+
+Holsten Brauerei, 1879, www.holsten-pilsener.de, Holstenstraße 224 // 22765 Hamburg   # Part of Carlsberg
+Duckstein, 1640, www.duckstein.de, Holstenstraße 224 // 22765 Hamburg
+
+Ratsherrn Brauerei, 2010, www.ratsherrn.de,  Lagerstraße 30A // 20357 Hamburg
+Gröninger Privatbrauerei, 1982, www.groeninger-hamburg.de, Willy-Brandt-Straße 47 // 20457 Hamburg
+Premium Kollektiv, Vierländer Damm 56 // 20539 Hamburg  # Premium Bier

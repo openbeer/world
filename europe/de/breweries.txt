@@ -4,18 +4,6 @@
 jever, Friesisches Brauhaus zu Jever, NI, city:jever, Elisabethufer 18 // 26441 Jever, radeberger
 
 
-### needs some editing
-
-
-####
-# Berlin
-
-berlinerkindl, Berliner-Kindl-Schultheiss-Brauerei, 1870, www.berliner-kindl.de
-
-hopsandbarley, Hops & Barley Hausbrauerei, www.hopsandbarley-berlin.de
-
-braumanufaktur, Braumanufaktur Forsthaus Templin, www.braumanufaktur.de
-
 
 #######
 #  Baden-Württemberg
@@ -32,21 +20,6 @@ waldhaus, Privatbrauerei Waldhaus Joh. Schmid, 1833, www.waldhaus-bier.de
 
 beck, Brauerei Beck, www.becks.de
 
-#######
-# Sachsen
-
-Leipziger Brauhaus zu Reudnitz, 1862, www.reudnitzer.de
-
-
-##############
-# Mecklenburg-Vorpommern
-
-luebz, Mecklenburgische Brauerei Lübz, www.luebzer.de
-
-###############
-# Schleswig-Holstein
-
-flens, Flensburger Brauerei Emil Petersen, 1888, www.flens.de
 
 
 ##############

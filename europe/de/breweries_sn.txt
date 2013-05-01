@@ -1,0 +1,44 @@
+###################
+# Breweries in Sachsen [Saxony]  (SN)
+
+### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
+
+
+
+Leipziger Brauhaus zu Reudnitz, 1862, www.reudnitzer.de, wiki:Leipziger_Brauhaus_zu_Reudnitz, Mühlstraße 13 // 04317 Leipzig   # part of Radeberger Gruppe
+Bayerischer Bahnhof, www.bayerischer-bahnhof.de, Leipzig
+Brauerei an der Thomaskirche, www.brauhaus-thomaskirche.de, Leipzig
+
+Feldschlößchen, www.feldschloesschen.de, Dresden
+Hausbrauerei Laubegast, www.hausbrauerei-laubegast.de, Dresden
+Neustädter Hausbrauerei, www.obergaerig.de, Dresden
+
+
+Adler Brauerei Coswig, www.adler-brauerei-coswig.de, Coswig
+Bautzener Brauerei, 1847, Bautzen
+Bergquell-Brauerei Löbau, 1846, Löbau
+Böhmisch Brauhaus Großröhrsdorf, 1887, Großröhrsdorf
+Brauhaus Pirna, www.brauhaus-pirna.de, Pirna-Copitz
+Braustolz, 1868, Chemnitz
+
+Freiberger Brauhaus, 1850, Freiberg
+Glückauf-Brauerei, 1880, Gersdorf
+Krostitzer Brauerei, 1534, Krostitz
+Landskron Brauerei Görlitz, 1869, Görlitz
+Mauritius Brauerei Zwickau, 1859, Zwickau
+Neue Torgauer Brauhaus, www.torgauer.de, Torgau
+
+Peniger Spezialitäten Brauerei, 1706, Penig
+Privatbrauerei Christian Fiedler, 1813, Scheibenberg-Oberscheibe
+Privatbrauerei Eibau, 1810, Eibau
+Privatbrauerei Schwerter Meißen, 1460, Meißen
+
+
+Wernesgrüner Brauerei, www.wernesgruener.de, Wernesgrün
+Sternquell-Brauerei, 1857, Plauen
+Stadtbrauerei Wittichenau, 1356, Wittichenau
+Radeberger Exportbierbrauerei, 1872, Radeberg
+Private Traditionsbrauerei Meyer, www.rechenberger.com, Rechenberg-Bienenmühle
+Privatbrauerei Specht, 1844, Ehrenfriedersdorf
+
+

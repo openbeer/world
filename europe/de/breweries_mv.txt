@@ -1,0 +1,34 @@
+###################
+# Breweries in Mecklenburg-Vorpommern (MV)
+
+
+luebz, Mecklenburgische Brauerei Lübz, 1877, www.luebzer.de, Eisenbeissstraße 1 // 19386 Lübz
+# part of Holsten-Brauerei => part of Carlsberg
+# brands: Duckstein, Lübzer Pils
+
+rostock, Hanseatische Brauerei Rostock, 1878, www.rostocker.de, Doberaner Straße 27 // 18057 Rostock
+# part of Radeberger
+
+stralsunder, Stralsunder Brauerei|Störtebeker Braumanufaktur, 1827, www.stralsunder.de, Greifswalder Chaussee 84-85 // 18439 Hansestadt Stralsund
+
+darunger, Darguner Brauerei, 1991, www.brauerei-dargun.de, Brauereistraße 3 // 17159 Dargun
+# part of Harboes Bryggeri aus Skælskør (Dänemark)
+# brands: Darguner, Mecklenburger
+
+Vielanker Brauhaus, www.vielanker-brauhaus.de, Vielank
+Eick Bräu, www.eickbraeu.de, Groß Gievitz
+Wasserschloss Mellenthin Brauerei, 2011, Mellenthin
+
+
+#############
+# Wikipedia  de.wikipedia.org/wiki/<value>
+#
+#  fix: add sections (skip on first pass)   use [wikipedia] or find
+#    better syntax/style for marking (optional) sections w/ key value pairs
+
+
+# luebz:       Mecklenburgische_Brauerei_Lübz
+# rostock:     Hanseatische_Brauerei_Rostock
+# stralsunder: Störtebeker_Braumanufaktur
+# darunger:    Darguner_Brauerei
+

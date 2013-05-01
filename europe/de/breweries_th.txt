@@ -1,0 +1,20 @@
+###################
+# Breweries in Thüringen [Thuringia]  (TH)
+
+koestritzer,    Köstritzer Schwarzbierbrauerei, 1543, Bad Köstritz
+apolda,         Vereinsbrauerei Apolda, 1887, Apolda
+altenburger,    Altenburger Brauerei, 1871, Altenburg
+eisenacher,     Eisenacher Brauerei, 1828, Eisenach
+dingsleben,     Privatbrauerei Metzler, www.dingslebener.de, Dingsleben
+rhoenbrauerei,  Rhönbrauerei Dittmar, www.rhoenbrauerei.de, Kaltennordheim
+greiz,          Vereinsbrauerei Greiz, 1872, Greiz
+saalfeld,       Bürgerliches Brauhaus Saalfeld, 1892, Saalfeld
+watzdorfer,     Watzdorfer Traditions- und Spezialitätenbrauerei, 1411, Bad Blankenburg
+
+waldhauserfurt, Waldhaus, www.waldhaus-erfurt.de, Erfurt
+braugold,       Braugold, 1888, Erfurt
+
+meininger,      Meininger Privatbrauerei, 1841, Meiningen
+gessner,        Privatbrauerei Gessner, 1622, Sonneberg
+poessneck,      Rosenbrauerei Pößneck, 1445, Pößneck
+worbis,         Brauerei Neunspringe Worbis, 1867, Leinefelde-Worbis
