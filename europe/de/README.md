@@ -22,6 +22,7 @@
 
 - [Verband mittelständischer Privatbrauereien in Bayern](http://www.private-brauereien.de)
 - [Bayerischer Brauerbund](http://www.bayerisches-bier.de)
+- [Baden-Württembergischer Braubund (BWB)](http://www.einfach-besser-bier.de)
 - [Deutscher Brauer-Bund](http://www.brauer-bund.de)
 
 

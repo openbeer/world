@@ -1,0 +1,84 @@
+######################################
+#  Breweries Baden-Württemberg (BW)
+
+# In Baden-Württemberg gab es Ende 2006 nach Angaben
+# des Statistischen Bundesamtes insgesamt 180 Brauereien
+#  womit das Bundesland nach Bayern an zweiter Stelle in Deutschland steht.
+#
+# Mit einem Bierausstoß von 7,7 Mio. Hektoliter belegt
+# Baden-Württemberg den sechsten Platz.
+# Die nach Absatz größte Brauerei ist
+#  - Eichbaum
+#  - gefolgt von der landeseigenen Rothaus-Brauerei,
+#  - Dinkelacker-Schwabenbräu
+#  - und Stuttgarter Hofbräu.
+#
+# Four Sections:
+# - Regierungsbezirk Freiburg
+# - Regierungsbezirk Karlsruhe
+# - Regierungsbezirk Stuttgart
+# - Regierungsbezirk Tübingen
+
+
+
+###############
+# -- Regierungsbezirk Freiburg 
+
+rothaus, Badische Staatsbrauerei Rothaus, 1791, www.rothaus.de, Rothaus 1 // 79865 Grafenhausen-Rothaus
+# brands: Rothaus (Pils, Tannenzäpfle, Hefeweizen, Hefeweizen Zäpfle, Märzen Export, Eis-Zäpfle)
+
+waldhaus, Privatbrauerei Waldhaus, 1833, www.waldhaus-bier.de, Waldhaus 1 // 79809 Waldhaus
+# brands: Waldhaus (Diplom Pils, Light Line, Spezial Gold, Jubiläums Dunkel, Ohne Filter, Doppel Bock, Schwarzwald Weisse, Schwarzwald Weisse alkoholfrei, Radler, Colaweizen, Hefeweizen)
+
+
+
+################
+# -- Regierungsbezirk Karlsruhe
+
+eichbaum, Privatbrauerei Eichbaum, 1679, www.eichbaum.de, Käfertaler Straße 170 // 68167 Mannheim
+# brands: Eichbaum
+
+
+
+
+##################
+# -- Regierungsbezirk Stuttgart
+
+Brauerei Eugen Häberlen, 1875, www.brauerei-haeberlen.de, Karlstraße 66  // 74405 Gaildorf
+# brands: Gaildorfer (Spezial, Spezial Dunkel, Edelpils, Festbier, Zwickel)
+
+
+# holding company
+# Dinkelacker-Schwaben Bräu, 1994
+
+# check: list two breweries? or just "holding" company
+# Zusammenschluss der Stuttgarter Brauereien Dinkelacker und Schwaben Bräu
+
+dinkelacker, Dinkelacker, 1888, www.dinkelacker.de, Tübinger Straße 48 // 70178 Stuttgart   # part of Dinkelacker-Schwaben Bräu
+# brands: Dinkelacker (CD-Pils, Privat, Volksfestbier, Weihnachtsfestbier, Diät-Pilsener, Märzen)
+
+schwabenbräu, Schwabenbräu, 1878, www.schwabenbraeu.de     # part of Dinkelacker-Schwaben Bräu
+# brands: Schwabenbräu  (Das Echte, Märzen, Meister Pils, Pilsner, Das Schwarze, Das Helle, Das Weizen, Original Urtyp Export, Volksfestbier, Weihnachtsbier)
+# check: only brand only ??
+
+
+stuttgarterhofbraeu, Stuttgarter Hofbräu, 1872, www.stuttgarter-hofbraeu.de, Böblinger Straße 104 // 70199 Stuttgart
+# brands: Stuttgarter Hofbräu, Malteser Weissbier (Hefe hell, Hefe dunkel, Kristall)
+# part of Radeberger Gruppe
+
+
+
+#############
+# -- Regierungsbezirk Tübingen
+
+
+
+
+################
+# de.wikipedia
+#
+#  rothaus:             Badische_Staatsbrauerei_Rothaus
+#  eichbaum:            Privatbrauerei_Eichbaum
+#  dinkelacker:         Dinkelacker
+#  schwabenbraeu:       Schwabenbräu
+#  stuttgarterhofbraeu: Stuttgarter_Hofbräu
