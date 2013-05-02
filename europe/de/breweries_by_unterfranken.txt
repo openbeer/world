@@ -1,0 +1,51 @@
+#######
+# Unterfranken - 46 Brauereien
+
+Adler-Bräu GmbH, Stettfeld
+Albertshöfer Sternbräu, Albertshofen
+Arnsteiner Brauerei Max Bender KG, Arnstein
+Burgbrauerei Herzog von Franken, Thüngen
+Brauerei Düll, Gnodstadt
+Privatbrauerei Friedrich Düll, Volkach-Krautheim
+Brauerei Göller, Zeil am Main
+Brauerei Hartleb, Maroldsweisach
+Brauerei Roth GmbH, Schweinfurt
+Brauerei Roppelt, Oberaurach-Trossenfurt
+Brauerei Wolf, Rüdenhausen
+Brauhaus Barbarossa, Schöllkrippen
+Brauhaus Faust, Miltenberg
+Brauhaus Schweinfurt, Schweinfurt
+Bürgerliches Brauhaus Wiesen, Wiesen
+Eder & Heylands Brauerei, Großostheim
+Eschenbacher Privatbrauerei, Eltmann-Eschenbach
+Goldene Gans, Würzburg
+Hausbrauerei Höpfl, Steinfeld-Waldzell
+Homburger Bräuscheuere, Triefenstein-Homburg
+Karmeliter Bräu, Salz
+Kauzen-Bräu, Ochsenfurt
+Privatbrauerei Kesselring, Marktsteft
+Klosterbrauerei Kreuzberg, Bischofsheim an der Rhön
+Kommunbrauhaus Unfinden, Königsberg in Bayern-Unfinden
+Martinsbräu Georg Mayr, Marktheidenfeld
+Museums Brau Gasthaus Jägersruh, Bad Kissingen-Garitz
+Pax Bräu, Oberelsbach
+Pfarrbräu, Karlstadt-Stadelhofen
+Privatbrauerei Friedrich Düll, Krautheim
+Privatbrauerei Michael Raab, Hofheim
+Privatbrauerei Lang, Saal an der Saale-Waltershausen
+Privatbrauerei Oechsner, Ochsenfurt
+Privatbrauerei Peter, Ostheim vor der Rhön
+Privatbrauerei Ulrich Martin Schonungen-Hausen
+Rother Bräu, Roth vor der Rhön
+Schwind-Bräu, Aschaffenburg-Schweinheim
+Seinsheimer Kellerbräu, Seinsheim
+Spessart-Brauerei, Kreuzwertheim
+Streck-Bräu, Ostheim vor der Rhön
+Waldschloss-Brauerei, Frammersbach
+Weiß Rössl Bräu, Eltmann-Roßstadt
+Wernecker Brauerei, Werneck
+Will Bräu - Hochstiftliches Brauhaus in Bayern, Motten
+Wittelsbacher Turm Bräu, Bad Kissingen-Arnshausen
+Würzburger Hofbräu, Würzburg
+Zum grünen Baum, Rauhenebrach-Theinheim
+

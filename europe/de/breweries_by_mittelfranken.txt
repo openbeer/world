@@ -1,0 +1,68 @@
+####
+# Mittelfranken
+
+# 61 Brauereien
+
+Brauerei Bub, Leinburg
+Brauerei Enzensteiner, Schnaittach-Enzenreuth
+Brauerei Fischer, Höchstadt an der Aisch-Greuth
+Brauerei Friedel, Zentbechhofen-Höchstadt
+Brauerei Geyer Landgasthof, Oberreichenbach
+Brauerei Gundel, Kammerstein-Barthelmesaurach
+Brauerei Hauf, Dinkelsbühl
+Brauerei Heller, Herzogenaurach
+Brauerei Kanone Löhr, Schnaittach
+Brauerei Loscher, Münchsteinach
+Brauerei Rittmayer, Adelsdorf-Aisch
+Brauerei Sauer, Röttenbach (bei Erlangen)
+Brauerei Schaffer, Schnaittach
+Brauerei Sigwart, Weißenburg in Bayern
+Brauerei Simon GmbH, Lauf an der Pegnitz
+Brauerei Stefansbräu, Dinkelsbühl
+Brauerei Strauß, Wettelsheim
+Brauerei Wiethaler, Lauf-Neunhof
+Brauerei Windsheimer, Gutenstetten
+Brauerei Zwanzger, Uehlfeld
+Brauerei Fischer, Wieseth
+Brauereigasthof Bürgerbräustuben "Schalander", Bad Windsheim
+Brauerei Gasthof Reindler Bräu, Jochsberg bei Leutershausen
+Brauerei-Gasthof Prechtel, Uehlfeld
+Brauhaus Döbler, Bad Windsheim
+Brauhaus Höchstadt, Höchstadt
+Bürgerbräu Hersbruck Deinlein, Hersbruck
+Dornbräu, Bruckberg
+Dorn-Bräu, Ammerndorf
+Dreykorn Brauerei, Lauf an der Pegnitz
+W. Gloßner, Bergen-Thalmannsfeld
+Forstquell-Brauerei, Wassertrüdingen-Fürnheim
+Fränkisches Freilandmuseum Bad Windsheim, Bad Windsheim
+F. Wurm , Pappenheim-Bieswang
+Fürstliches Brauhaus Ellingen, Ellingen
+Hauff-Bräu R. Weid, Lichtenau
+Hausbrauerei Barfüßer, Nürnberg
+Hausbrauerei Kohlenmühle, Neustadt an der Aisch
+Hechtbräu Zimmern, Pappenheim-Zimmern
+Hochholzer Brauhaus, Solnhofen-Hochholz
+Kaiser Bräu, Neuhaus an der Pegnitz
+Kitzmann-Bräu, Erlangen
+Kommunbräu, Neuhaus an der Pegnitz
+Landwehr-Bräu Wörner, Steinsfeld-Reichelshofen
+Lederer Bräu, Nürnberg
+Nürnberger Altstadthof, Nürnberg
+Patrizier Bräu, Nürnberg-Fürth
+Privatbrauerei Hofmann, Pahres
+Pyraser Landbrauerei, Thalmässing-Pyras
+Ritter St. Georgenbrauerei, Karl Gloßner, Nennslingen
+Schanzenbräu, Nürnberg
+Schneider Bräu, Weißenburg in Bayern
+Schorschbräu, Gunzenhausen
+Spezialitätenbrauerei Steinbach Bräu, Erlangen
+Stadtbrauerei Spalt, Spalt
+Tucher Bräu, Nürnberg-Fürth
+Veldensteiner Kaiser Bräu, Neuhaus an der Pegnitz
+Weib's Brauhaus Dinkelsbühl, Dinkelsbühl
+Wolfshöher Privatbrauerei K. u. F. Weber, Neunkirchen am Sand
+Zirndorfer Brauerei, Zirndorf
+Zum Löwenbräu, Adelsdorf-Neuhaus (Landkreis Erlangen-Höchstadt)
+
+

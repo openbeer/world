@@ -1,0 +1,102 @@
+####################
+# Schwaben
+
+# -----------------------
+# -- Augsburg
+
+thorbraeu, Brauerei Thorbräu|Thorbräu, 1582, www.thorbraeu.de, Wertachbrucker-Tor-Straße 9 // 86152 Augsburg,
+
+augusta, Augusta Brauerei, 1488, www.augusta-brauerei.de, Lauterlech 10-14 // 86152 Augsburg
+
+hasenbraeu, Hasen-Bräu, 1464, www.hasen-braeu.de, Unterer Talweg 87 // 86179 Augsburg 
+
+
+####
+## brewpubs
+
+riegele,           Brauhaus Riegele, 1386, www.riegele.de, Frölichstraße 26 // 86150 Augsburg
+koenigvonflandern, König von Flandern, www.koenigvonflandern.de, Karolinenstraße 12 // 86150 Augsburg
+
+# Charly-Bräu -> Bob's  (Bob's Fast Food)
+# Brauhaus Törring  ??
+# Fortuna-Brauerei  ??
+
+
+#########
+# de.wikipedia
+#
+# riegele: Brauhaus_Riegele
+
+
+
+
+# ----------------------
+# -- Übriges Schwaben
+
+Oettinger Bier, Oettingen
+Aktienbrauerei Kaufbeuren, Kaufbeuren
+
+
+
+Aktienbrauerei Simmerberg, Weiler-Simmerberg
+Anker Bräu, Nördlingen
+Autenrieder Brauereigasthof, Ichenhausen-Autenried
+Bad Wörishofer Löwenbräu, Bad Wörishofen
+Bärenbrauerei Neuhausen, Holzheim-Neuhausen (Landkreis Neu-Ulm)
+Barfüßer, Memmingen
+Barfüßer, Neu-Ulm
+Biberacher Brauerei Schmid, Biberach
+Boandlbräu, Aichach-Oberbernbach
+Brauereigasthof Fuchs, Neusäß-Steppach
+Brauerei Kolb, Meßhofen
+Brauerei Kronburg, Kronburg
+Brauerei Kühbach, Kühbach
+Brauerei Rapp, Kutzenhausen
+Brauereigasthof St. Afra im Felde, Friedberg (Bayern)
+Braugasthof Falkenstein, Pfronten
+Brauerei Zötler, Rettenberg
+Brauereigasthof Hirschbräu, Leipheim
+Canada Mauerbacher Bräustüberl, Aichach-Obermauerbach
+Communebrauerei Kaufbeuren
+Deilbräu, Osterberg
+Engelbräu, Rettenberg
+Häpfenbräu, Rammingen
+Heimat- und Bauernkriegsmuseum Blaue Ente,[8] Leipheim
+Hinterhofbräu Aichach, Aichach
+Hirschbräu Privatbrauerei Höss, Sonthofen
+Hotel Hirsch Gasthausbrauerei, Ottobeuren
+Illertisser Schlossbräu, Illertissen
+Irseer Klosterbräu, Irsee
+Kirnach Stuben, Ruderatshofen
+Klosterbrauerei Ursberg, Ursberg
+Kössel-Bräu, Speiden
+Kronbräu Illerberg, Illerberg
+Landgasthof Hubertus, Apfeltrang
+Landhausbräu Koller, Eurasburg (Schwaben)
+Lindenbrauerei, Mindelheim
+Maierbier, Nördlingen
+Meckatzer Löwenbräu, Heimenkirch
+Memminger Brauerei, Memmingen
+Münzbrauerei, Günzburg
+Postbräu, Thannhausen
+Postbrauerei Nesselwang, Nesselwang
+Privatbrauerei Schlössle, Neu-Ulm-Offenhausen
+Radbrauerei, Günzburg
+Roberts GenussBräu, Neu-Ulm-Reutti
+Sailerbräu, Leuterschach
+Schäffler-Bräu, Missen
+Schimpfle, Gessertshausen
+Schlossbrauerei Autenried, Ichenhausen-Autenried
+Schlossbrauerei Blumenthal, Schloss Blumenthal, Aichach
+Schlossbrauerei Scherneck, Rehling
+Schlossbrauerei Unterbaar, Baar (Schwaben)
+Schlossbrauhaus Schwangau, Schwangau
+Schwanenbräu, Wertingen
+Schwarzbräu, Zusmarshausen
+Stadelbräu, Adelsried
+Staudenbräu, Walkertshofen
+Storchenbräu, Pfaffenhausen
+Ustersbacher, Ustersbach
+Wallersteiner Fürstenbier, Wallerstein
+
+

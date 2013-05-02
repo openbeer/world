@@ -1,23 +1,22 @@
 ###################
 # Breweries in Bayern [Bavaria]  (BY)
 
+
+
 lammsbraeu, Neumarkter Lammsbräu, www.lammsbraeu.de, BY, Amberger Straße 1 // 92318 Neumarkt
 
-augustiner, Augustiner Bräu München, 1328, BY, www.augustiner-braeu.de, Landsberger Straße 31‎ // 80339 München
 
-paulaner, Paulaner Brauerei, 1634, www.paulaner.de, Hochstraße 75‎ // 81541 München
 
 weihenstephan, Bayrische Staatsbrauerei Weihenstephan, 1040, www.brauerei-weihenstephan.de, Alte Akademie // 2‎85354 Freising
 
-hackerpschorr, Hacker-Pschorr Bräu, 1417, www.hacker-pschorr.de, Hochstraße 75‎ // 81541 München
+
+
 
 
 #################
 
 hopf, Weißbierbrauerei Hopf, 1892, BY, city:miesbach, Schützenstraße 8+10 // 83714 Miesbach    # www.hopfweisse.de
 
-
-spaten, Spaten-Franziskaner-Bräu, 1397, www.spatenbraeu.de   # part of abinbev
 
 
 koenigludwig, König Ludwig Brauerei, www.koenig-ludwig-brauerei.com
@@ -59,16 +58,10 @@ riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de
 
 
 
-loewenbraeu, Löwenbräu, www.loewenbraeu.de, Nymphenburger Straße 7‎ // 80335 München
-
-
 
 #####################################################
 
 Unions-Bräu-Haidhausen, 1885, München
-
-Thorbräu Augsburg, 1582, Augsburg
-Augusta Brauerei, 1488, Augsburg
 
 
 
@@ -80,8 +73,6 @@ Neumarkter Lammsbräu, www.lammsbraeu.de   # Neumarkt i.d. Opf.
 Privatbrauerei Erdinger Weißbräu, 1886  # Erding
 
 Klosterbrauerei Andechs, 1455   # Andechs 11
-
-Oettinger Brauerei, 1731   # Oettingen i. Bay.
 
 Weisses Bräuhaus G. Schneider & Sohn, www.schneider-weisse.de   # Kelheim
 
@@ -98,10 +89,6 @@ Bayrische Staatsbrauerei Weihenstephan, 1040, Freising
 Riedenburger Brauhaus, 1866, Riedenburg
 
 König Ludwig Brauerei, www.koenig-ludwig-brauerei.com, Fürstenfeldbruck
-
-
-Brauerei Gebrüder Maisel, 1887, Bayreuth
-Bayreuther Bierbrauerei, 1857, Bayreuth
 
 
 Brauerei Wagner, www.wagner-merkendorf.de, Merkendorf
@@ -167,4 +154,15 @@ Stadtbrauerei Spalt, 1879, Spalt
 Stadlerbräu Fridolfing, 1655, Fridolfing
 
 
+######################
+# de.wikipedia
+#
+# oettinger: Oettinger_Brauerei
+#
+# augustiner: Augustiner-Bräu
+# paulaner:   Paulaner_(Brauerei)
+# hackerpschorr: Hacker-Pschorr
+# spatenbraeu:   Spatenbräu
+# hofbraeu:      Staatliches_Hofbräuhaus
+# loewenbraeu:   Löwenbräu
 

@@ -1,0 +1,81 @@
+#######
+# Niederbayern
+
+# 74 Brauereien
+
+
+zwiesel, 1. Dampfbierbrauerei Zwiesel, Zwiesel
+Anton Pöllinger Brauerei, Pfeffenhausen
+Arcobräu Gräfliches Brauhaus, Moos
+Bayerische Löwenbrauerei Franz Stockbauer, Passau
+Bayerische Löwenbrauerei Franz Stockbauer, Zweigniederlassung Schlossbrauerei Haselbach, Schloss Haselbach
+Bodenkirchener, Bodenkirchen
+Brauerei Aldersbach Freiherr von Aretin, Aldersbach
+Brauerei Berghammer, Bad Abbach-Oberndorf
+Brauerei Büchner, Malgersdorf-Heilmfurt
+Brauerei C. Wittmann, Landshut
+Brauerei Friedrich Riemhofer, Riedenburg
+Brauerei Gasthof Hotel Eck, Böbrach
+Brauerei Gebrüder Röhrl, Straubing
+Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen, Frontenhausen
+Brauerei Hacklberg, Passau
+Brauerei Hans Stammler, Velden
+Brauerei Horneck, Elsendorf-Horneck
+Brauerei Josef Weinzierl, Weihmichl
+Brauerei Klett, Konzell
+Brauerei Ludwig Erl, Geiselhöring
+Brauerei Reder, Pfeffenhausen
+Brauerei und Gasthof Frischeisen, Kelheim
+Brauerei Wilhelm Krieger, Landau an der Isar
+Brauerei Wimmer, Bruckberg
+Brauerei Wolferstetter Georg Huber, Vilshofen an der Donau
+Brauerei Xaver Wasserburger, Dingolfing
+Brauerei Kuchlbauer, Abensberg
+Brauhaus Aidenbach Woerlein, Aidenbach
+Bräuhaus Schwarzach, Schwarzach
+Brunner Bräu, Eggenfelden-Spanberg
+Bucher Bräu Grafenau, Grafenau
+Drachselsrieder Schlossbräu, Drachselsried
+Ettl-Bräu, Teisnach
+Falterbräu, Drachselsried
+Frhr. v. Poschinger-Bray'sche Schlossbrauerei Irlbach, Irlbach
+Further Klosterbier, Furth
+Gasthausbrauerei Stanglbräu, Hausen-Herrnwahlthann
+Gasthausbrauerei Frühmorgen, Wildenberg
+Gesellschaftsbrauerei Viechtach, Viechtach
+Gräfliche Brauerei Arco-Valley, Eichendorf-Adldorf
+Gut Riedelsbach Familie Bernhard Sitter, Neureichenau-Riedelsbach
+Gutsbräu Straßkirchen, Straßkirchen (Salzweg)
+Hofbräu Abensberg, Abensberg
+Hutthurmer Bayerwald-Brauerei, Hutthurm
+Innstadt Brauerei Bierspezialitäten, Passau
+Janka Bräu, Zwiesel
+Josef Schneider's Kleines Brauhaus, Essing
+Karmelitenbrauerei Karl Sturm, Straubing
+Klingenbrunner, Spiegelau-Klingenbrunn
+Klosterbräu Seemannshausen, Gangkofen-Seemannshausen
+Klosterbrauerei Mallersdorf, Mallersdorf
+Klosterbrauerei Weltenburg, Kelheim-Weltenburg
+Kur- und Sporthotel Adam-Bräu, Bodenmais
+Kurt Landauer Brauerei, Landau an der Isar
+Landshuter Brauhaus, Landshut
+Lang-Bräu, Freyung
+Ottenbräu, Abensberg
+Postbrauerei Renkl, Frontenhausen
+Privatbrauerei J. B. Falter, Regen
+Privatbrauerei Josef Lang, Jandelsbrunn
+Privatbrauerei Stöttner, Pfaffenberg
+Privatbrauerei und Mineralbrunnenbetrieb H. Egerer, Pilsting-Großköllnbach
+Riedenburger Brauhaus Michael Krieger, Riedenburg
+Schaubrauerei Bräu zur Isar, Plattling
+Schlossbrauerei Arnstorf Josef Graf von Deym, Arnstorf
+Schlossbräu Mariakirchen, Arnstorf-Mariakirchen
+Schlossbrauerei Herrngiersdorf, Herrngiersdorf
+Schlossbrauerei Hohenthann, Hohenthann
+Schmidmayer Bräu, Siegenburg
+Weißbierbrauer, Abensberg
+Weißbräu Sven Grünleitner, Kößlarn
+Weisses Bräuhaus G. Schneider & Sohn, Kelheim
+Weizenbierbrauerei Andorfer, Passau-Ries
+Ziegler Bräu, Mainburg
+

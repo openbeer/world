@@ -1,0 +1,79 @@
+######################################
+# Breweries in Hessen [Hesse]  (HE)
+
+
+# radebergergruppe, Radeberger Gruppe, www.radeberger-gruppe.de, Frankfurt
+#  check: just holding company??
+
+
+eschweger, Eschweger Klosterbrauerei, 1839, Eschwege
+# brands: Eschweger Klosterbräu, Jacobinus
+
+duff, Duff Beer, www.duff-bier.de, Thüringer Straße 19 // 37269 Eschwege
+#  contract brewed by Eschweger Klosterbrauerei
+
+alsfeld, Brauerei Alsfeld, 1858, www.alsfelder.de, Alsfeld
+# brands: Alsfelder, Herborner Bärenbräu
+
+darmstaedter, Darmstädter Privatbrauerei, www.darmstaedter.de, 1847, Goebelstraße 7 // 64293 Darmstadt, freien_brauer
+# brands: Darmstädter, Braustüb'l
+
+grohe, Brauerei Grohe, www.brauerei-grohe.de, Nieder-Ramstädter Straße 3 // 64283 Darmstadt  # part of Darmstädter Privatbrauerei
+# brands: Grohe
+# 5500 hl (2005)
+
+
+binding, Binding-Brauerei, 1870, www.binding.de, Darmstädter Landstr. 185 // 60598 Frankfurt-Sachsenhausen-Süd 
+michelstaedter, Brauerei Dörr, www.michelstaedterbier.de, Michelstadt
+braufactum, Braufactum, www.brau-manufacturen.de, Frankfurt / Main
+braukunstkeller, Braukunstkeller, www.braukunstkeller.de, Michelstadt
+braumanufacturen, Die Internationale Brau-Manufacturen, www.brau-manufacturen.de, Frankfurt am Main
+
+
+foelsch, Föllsch Brauerei, 2011, Fulda
+glaasbraeu, Glaabsbräu, 1744, Seligenstadt
+
+hinninger, Henninger Bräu, 1655, Frankfurt am Main
+
+
+huett, Hütt-Brauerei, 1752, www.huett.de, Knallhütte // 34225 Baunatal
+# brands: Hütt
+#  67_500 hl
+
+hessische, Hessische Löwenbier Brauerei, www.hessisches-loewenbier.de, 1870, Baunatal
+# brands: Hessisches Löwenbier
+
+
+licher, Licher Privatbrauerei 1854, Lich
+martini, Martini Brauerei, 1859, Kassel
+rathausbraeu, Michelstädter Rathausbräu, www.rathausbraeu.de, Michelstadt
+pfungstaedter, Pfungstädter Brauerei, 1831, Pfungstadt
+schmucker, Privat-Brauerei Schmucker, 1780, Mossautal
+michelsbraeu, Privatbrauerei Michelsbräu, 1707, Babenhausen
+schoefferhofer, Schöfferhofer Weizenbier, www.schoefferhofer.de, Frankfurt
+waeldches, Wäldches Bräu, www.waeldches.de, Offenbach am Main
+
+hochstift, Hochstiftliches Brauhaus Fulda|Hochstift, 1848, www.hochstift.de, Leipziger Straße 12 // 36037 Fulda
+
+
+### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
+# or split file in two sections
+
+
+erbacher, Erbacher Brauhaus, 1786, www.brauereiausschank.de, Jahnstr.1 // 64711 Erbach im Odenwald
+willinger, Willinger Brauhaus www.willinger-brauhaus.de, In den Kämpen 2 // 34508 Willingen 
+schinkels, Schinkels Brauhaus, www.schinkels-brauhaus.de, Burgstraße 20 // 37213 Witzenhausen
+kaerrners, Kärrners Hausbrauerei, www.kaerrners.de, Kurparkstraße 7 // 63619 Bad Orb
+
+
+
+#############
+# de.wikipedia
+#
+# fulda:        Hochstiftliches_Brauhaus_Fulda
+# eschweger:    Eschweger_Klosterbrauerei
+# alsfeld:      Brauerei_Alsfeld
+# grohe:        Grohe_(Brauerei)
+# darmstaedter: Darmstädter_Privatbrauerei
+# binding:      Binding-Brauerei
+# huett:        Hütt-Brauerei

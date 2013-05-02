@@ -4,7 +4,8 @@ Beck's Gold                 # Lager
 
 Warsteiner
 
-Clausthaler
+##
+# Clausthaler, by:binding   # move to non-alcoholic
 
 
 

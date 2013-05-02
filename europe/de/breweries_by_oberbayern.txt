@@ -1,0 +1,137 @@
+#####
+# Oberbayern
+
+# 102 Brauereien
+
+
+# ---------------
+# -- Ingolstadt / Oberbayern
+
+
+Herrnbräu
+Nordbräu
+Schöffbräu
+Schwalbenbräu
+Westparkbräu/Brauhaus 1516
+
+
+# ----------------
+# -- München / Oberbayern
+
+## big six - Spatenbräu, Augustiner, Paulaner, Hacker-Pschorr, Hofbräu, Löwenbräu
+
+augustiner, Augustiner Bräu München, 1328, BY, www.augustiner-braeu.de, Landsberger Straße 31‎ // 80339 München
+
+paulaner, Paulaner Brauerei, 1634, www.paulaner.de, Hochstraße 75‎ // 81541 München
+
+hackerpschorr, Hacker-Pschorr Bräu, 1417, www.hacker-pschorr.de, Hochstraße 75‎ // 81541 München
+# NB: war(!) eine Brauerei in München, und ist heute eine Marke der Paulaner-Brauerei
+
+spatenbraeu, Spaten-Franziskaner-Bräu, 1397, www.spatenbraeu.de   # part of abinbev
+
+loewenbraeu, Löwenbräu, 1383, www.loewenbraeu.de, Nymphenburger Straße 7‎ // 80335 München
+# NB: Seit 1997 gehört Löwenbräu gemeinsam mit Spatenbräu der Spaten-Löwenbräu-Gruppe an, die wiederum zur Anheuser-Busch InBev-Gruppe gehört
+
+hofbraeu, Hofbräu München|Hofbräuhaus München|Staatliches Hofbräuhaus München, 1589, www.hofbraeu-muenchen.de, Hofbräuallee 1 // 81829 München
+
+## more
+
+CREW AleWerkstatt
+Forschungsbrauerei Jakob
+Giesinger Bräu
+Richelbräu, München-Neuhausen
+
+
+# ---------------
+# -- Übriges Oberbayern
+
+Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH, Flughafen München
+Ammergauer Maxbräu, Oberammergau
+Auerbräu, Rosenheim
+Baderbräu, Schnaitsee
+Bayerische Staatsbrauerei Weihenstephan, Freising
+Bayrische Graf zu Toerring-Jettenbach-Brauereien, Jettenbach
+Bayrische Graf zu Toerring-Jettenbach-Brauereien, Pörnbach
+Bräu im Moos, Tüßling
+Bräu z'Loh, Dorfen
+Brauerei Ametsbichler, Aschau
+Brauerei Aying, Aying
+Brauerei Bachmayer, Dorfen
+Brauerei Bauer, Sankt Wolfgang
+Brauerei Erharting Jakob Röhrl, Erharting
+Brauerei Berger, Reischach
+Brauerei Fritz Gutmann, Titting
+Brauereigasthaus Holzhausen, Holzhausen bei Buchloe
+Brauerei Gasthof Peterhof, Kühbach
+Brauerei Gasthof Weißbräu, Freilassing
+Brauerei Griesbräu zu Murnau, Murnau am Staffelsee
+Brauerei Gut Forsting, Pfaffing-Forsting
+Brauerei Karg, Murnau
+Brauerei Leidmann Unterneukirchen
+Brauerei Mittenwald Johann Neuner, Mittenwald
+Brauerei Rothmoos A.Kirnberger, Halfing
+Brauerei Schönram Alfred Oberlindober jun., Petting
+Brauerei Starkmeth, Bruckmühl
+Brauerei Stierberg, Obertaufkirchen
+Brauhaus Jacob Wochinger & Sohn, Traunstein
+Bürgerbräu Bad Reichenhall August Röhm & Söhne, Bad Reichenhall
+Bürgerbräu Wolnzach, Wolnzach
+Camba Bavaria, Truchtlaching (Kreis Traunstein)
+Chiemgauer Brauhaus, Rosenheim
+Dachsbräu, Weilheim in Oberbayern
+de Bassus Schlossbrauerei zu Sandersdorf, Sandersdorf
+Di Gastro Fliegerbräu, Feldkirchen-Riem
+Di Gastro Isarbräu, Pullach-Großhesselohe
+Dietl Bräu, Weyarn
+Eittinger Fischerbräu, Eitting
+Privatbrauerei Erdinger Weißbräu Werner Brombach, Erding
+Ettaler Klosterbrauerei, Ettal
+Flötzinger Bräu, Privatbrauerei Franz Steegmüller, Rosenheim
+Genossenschaftsbrauerei Reutberg eG, Sachsenkam-Reutberg
+Gräfliches Hofbrauhaus Freising GmbH, Freising
+Graminger Weißbräu, Altötting
+Guts- und Brauereigenossenschaft Taufkirchen eG, Taufkirchen (Vils)
+Herrmannsdorfer Schweinsbräu, Naturtrübbrauerei, Glonn
+Herzoglich Bayerisches Brauhaus Tegernsee, Tegernsee
+Hofbräuhaus Berchtesgaden, Berchtesgaden
+Hofbräuhaus Traunstein Josef Sailer, Traunstein
+Holzkirchner Oberbräu, Holzkirchen
+Juliusbräu, Neuburg an der Donau
+Kapplerbräu Hans Wiedemann, Altomünster
+Klosterbrauerei Andechs, Andechs
+Klosterbrauerei Baumburg, Altenmarkt an der Alz
+Klosterbrauerei Scheyern, Scheyern
+König Ludwig Schlossbrauerei Kaltenberg, Fürstenfeldbruck
+Maierbräu Altomünster, Altomünster
+Maxbrauerei Biermanufaktur, Altenstadt (Landkreis Weilheim-Schongau)
+Maximiliansbräu GmbH, Traunstein
+Mühlfeldbräu, Bad Tölz
+Müllerbräu, Neuötting
+Müllerbräu, Pfaffenhofen an der Ilm
+Privatbrauerei Hofmühl, Eichstätt
+Privatbrauerei J. Sedlmayr, Maisach
+Privatbrauerei M. C. Wieninger, Teisendorf
+Privatbrauerei Schnitzlbaumer, Traunstein
+Privatbrauerei Schweiger, Markt Schwaben
+Reiter Bräu OHG, Wartenberg
+Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau
+Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach
+Schlossbrauerei Haimhausen, Haimhausen
+Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen, Maxlrain
+Schlossbrauerei Odelzhausen, Odelzhausen
+Schlossbrauerei Stein Wiskott, Stein an der Traun
+Stadler-Bräu, Fridolfing
+Stiftungsbrauerei Fischer, Erding
+Tobiasbräu, Ried bei Markt Indersdorf
+Tölzer Mühlfeldbräu, Bad Tölz
+Unertl Weißbier GmbH, Haag
+Urbanusbräu - Brauhaus Pfaffenhofen, Pfaffenhofen an der Ilm
+Wampenbräu, Bichl
+Weißbierbrauerei Hopf, Miesbach
+Weißbräu Bartholomäus Gmeineder, Oberhaching-Deisenhofen
+Weissbräu Schwendl, Tacherting
+Weißbräu Unertl, Mühldorf am Inn
+Wildbräu Grafing, Grafing bei München
+Zum Steer, Mühldorf am Inn
+
+

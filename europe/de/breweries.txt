@@ -1,9 +1,3 @@
-########################
-# Niedersachsen (NI)
-
-jever, Friesisches Brauhaus zu Jever, NI, city:jever, Elisabethufer 18 // 26441 Jever, radeberger
-
-
 
 #######
 #  Baden-Württemberg
@@ -15,21 +9,9 @@ rothaus, Badische Staatsbrauerei Rothaus, 1791, www.rothaus.de
 waldhaus, Privatbrauerei Waldhaus Joh. Schmid, 1833, www.waldhaus-bier.de
 
 
-########
-# Bremen
-
-beck, Brauerei Beck, www.becks.de
-
 
 
 ##############
 # Nordrhein-Westfalen
 
 krombacher, Krombacher Brauerei, www.krombacher.de
-
-###########
-# Rheinland-Pfalz
-
-bitburger, Bitburger Brauerei Th. Simon, www.bitburger.de
-
-

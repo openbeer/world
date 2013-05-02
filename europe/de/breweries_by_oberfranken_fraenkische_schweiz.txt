@@ -1,0 +1,142 @@
+###########################################
+# Bayern / Oberfranken / Fränkische Schweiz
+
+
+# - Landkreis Bamberg
+
+### alt - kreis Bamberg
+# Brauhaus Binkert, Breitengüßbach  ??
+# Dremel, Wattendorf ??
+# Eichhorn, Hallstadt-Dörfleins  ??
+# Fischer, Rattelsdorf-Freudeneck ??
+# Göller, Memmelsdorf-Drosendorf ??
+# Grasser, Königsfeld-Huppendorf ??
+# Griess, Strullendorf-Geisfeld ??
+# Hausbräu Stegaurach, Stegaurach ??
+# Hertlein, Oberhaid-Staffelbach ??
+# Hönig, Litzendorf-Tiefenellern ??
+# Hübner ("Otto"), Stadelhofen-Steinfeld ??
+# Hübner, Wattendorf  ??
+# Hümmer, Breitengüßbach ??
+# Kraus, Hirschaid ??
+
+
+
+
+Brauerei Drei Kronen, 1749, 1_500hl, www.kronabier.de, Hauptstraße 39 // 96110 Scheßlitz
+Brauerei Gasthof Hartmann, 1550, www.brauerei-hartmann.de, Fränkische-Schweiz-Straße 26 // 96110 Würgau
+Brauerei Gasthof Höhn, 1783, 500hl, www.gasthof-hoehn.de, Hauptstrasse 11 // 96117 Memmelsdorf
+
+Brauerei Gasthof Krug|Krugbräu, 1820, 650hl, www.brauerei-krug.de, Alte Dorfstraße 11 // 96129 Strullendorf-Geisfeld
+Brauerei Gasthof Ott, 1678, 7_000hl, www.brauerei-ott.de, Oberleinleiter 6 // 91332 Heiligenstadt
+Brauerei Gaststätte Dremel, 1773, 500hl, www.brauerei-dremel.de, Hauptstraße 21 // 96196 Wattendorf
+Brauerei Grasser, 1503, 12_000hl, www.huppendorfer-bier.de,  Huppendorf 25 // 96167 Königsfeld
+Brauerei Hummel|Merkendorfer Hummel-Bräu, 1556, 9_000hl, www.brauerei-hummel.de, Lindenstraße 9 // 96117 Memmelsdorf-Merkendorf
+Brauerei Hübner, 1806, www.brauerei-huebner.de, Hauptstraße 28 // 96196 Wattendorf
+Brauerei Hönig (Gasthof zur Post), 1478, 6_500hl, www.brauerei-hoenig.de, Ellerbergstraße 15 // 96123 Litzendorf-Tiefenellern
+Brauerei Knoblach, 1880, www.brauerei-knoblach.de, Kremmeldorfer Straße 1 // 96129 Schammelsdorf
+Brauerei Reh, 1901, 15_000hl, www.reh-bier.de, Ellertalstraße 36 // 96123 Litzendorf-Lohndorf
+Brauerei Sauer Roßdorf, 1784, 2_400hl, www.brauerei-sauer.de, Sutte 5 // 96129 Roßdorf am Forst
+# brands: Rossdorfer
+Brauerei und Gasthof Göller, 1865, www.goeller-brauerei.de, Scheßlitzer Straße 7 // 96117 Memmelsdorf-Drosendorf
+Brauerei Wagner Merkendorf, 1797, 17_000hl, www.wagner-merkendorf.de, Pointstraße 1 // 96117 Merkendorf
+Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
+Brauerei Will, 1742, www.schederndorf.de, Haus Nr. 19 // 96187 Stadelhofen-Schederndorf
+# brand: Schederndorfer
+
+Brauerei-Gasthof Drei Kronen, 1457, 500hl, www.drei-kronen.de, Hauptstraße 19 // 96117 Memmelsdorf
+
+Brauerei-Gasthof Georg und Barbara Kraus, 1845, 7_000hl, www.brauerei-kraus.de, Luitpoldstraße 11 // 96114 Hirschaid
+Brauerei-Gasthof Griess, 1872, 1_000hl, www.brauerei-griess.de, Magdalenenstraße 6 // 96129 Strullendorf-Geisfeld
+Brauereigasthof Winkler,  1889, 700hl,   Otterbachstraße 13 // 96123 Litzendorf-Melkendorf
+Brauereigaststätte Hoh, 1775, 800hl, Köttensdorf 4 // 96110 Scheßlitz
+Brauereigaststätte Hölzlein, 1781, 1_700hl, Ellertalstraße 13 // 96123 Litzendorf-Lohndorf
+Gasthaus Brauerei Aichinger, 1870, 400hl,  Marktplatz 5 // 91332 Heiligenstadt
+Gunzendorfer Bier, 1612, Jurastraße 30 // 96155 Gunzendorf
+Hübner Bräu, 1720, 6_500hl, www.huebner-braeu.de,  Steinfeld 69 // 96187 Stadelhofen
+Löwenbräu Buttenheim, 1880, 10_000hl, www.loewenbraeu-buttenheim.de, Marktstrasse 8 // 96155 Buttenheim
+Meusel-Bräu Ottmar Meusel, 1579, 10_000hl,   Dreuschendorf 27 // 96155 Buttenheim
+St. Georgen Bräu Buttenheim, 1624, 40_000 hl,  www.kellerbier.de,  Marktstraße 12 // 96155 Buttenheim
+Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
+
+
+# ----------------
+# -- Bayreuth
+
+Brauerei Gebrüder Maisel, 1887, Bayreuth
+Bayreuther Bierbrauerei (Maisel), 1857, Bayreuth
+Bayreuther Bio-Brauer (Maisel)
+
+
+
+
+#######
+# brewpubs
+
+becherbraeu, Becher Bräu, 1781, www.becherbraeu.de, St.-Nikolaus-Straße 25 // 95445 Bayreuth
+
+
+# -----------------
+# Alt -- Kreis Bayreuth - 17 Brauereien
+
+# Held, Ahorntal-Oberailsfeld ??
+# Herold, Pegnitz-Büchenbach ??
+# Hütten, Warmensteinach-Hütten ??
+# Hufeisen, Gasthausbrauerei Pottenstein ??
+# Kürzdörfer, Creußen-Lindenhardt ??
+# Mager, Pottenstein ??
+# Rothenbach, Aufseß ??
+
+# Landkreis Bayreuth
+
+Aufsesser Brauerei, Im Tal 70b // 91347 Aufseß
+Brauer-Vereinigung Pegnitz, Am Buchauer Berg 4 // 91257 Pegnitz
+Brauerei & Gasthof Kürzdörfer, Brauhausgasse 3 // 95473 Creussen-Lindenhardt
+Brauerei Gasthof Herold, Marktstraße 29 // 91257 Pegnitz-Büchenbach
+Brauerei Gradl, Leups 6 // 91257 Pegnitz
+Brauerei Heckel, Vorstadt 3 // 91344 Waischenfeld
+Brauerei Mager, Hauptstraße 15 // 91278 Pottenstein
+Brauerei-Gaststätte Schroll Zum Weißen Lamm, Nankendorf 41 // 91344 Waischenfeld
+Brauereigasthof Reichold, Hochstahl 24 // 91347 Aufseß
+Bruckmayer's Urbräu Fränkisches Wirtshaus, Nürnberger Straße 10 // 91278 Pottenstein
+Gasthausbrauerei Hufeisen, Hauptstraße 38 // 91278 Pottenstein
+Held Bräu, Oberailsfeld 19 // 95491 Ahorntal
+Jura Bräu, Buchauer Berg 8-10 // 91257 Pegnitz
+Kathi Bräu Heckenhof, Heckenhof 1 // 91347 Aufseß
+Konrad Krug Brauerei, Breitenlesau 1b // 91344 Waischenfeld
+Stöckel-Bräu Hintergereuth, Hintergereuth 4 // 95491 Ahorntal
+
+# --------------------
+# -- Kreis Forchheim
+
+# Landkreis Forchheim
+
+Brauerei Alt Dietzhof, Dietzhof 42 // 91359 Leutenbach
+Brauerei Friedmann, Jägersberg 16 // 91322 Gräfenberg
+Brauerei Först, Drügendorf 26 // 91330 Eggolsheim
+Brauerei Gasthaus Roppelt, Stiebarlimbach 9 // 91352 Hallerndorf
+Brauerei Gasthof Drummer, Dorfstraße 10 // 91359 Leutenbach
+Brauerei Gasthof Georg Meister, Unterzaunsbach 8 // 91362 Pretzfeld
+Brauerei Gasthof Pfister, Eggerbachstraße 22 // 91330 Eggolsheim-Weigelshofen
+Brauerei Hebendanz, Sattlertorstraße 14 // 91301 Forchheim
+Brauerei Josef Greif, Serlbacher Straße 10 // 91301 Forchheim
+Brauerei Lieberth, Forchheimer Straße 2 // 91352 Hallerndorf
+Brauerei Neder, Sattlertorstraße 10 // 91301 Forchheim, Telefon: 09191-2400
+Brauerei Penning-Zeissler, Hetzelsdorf 9 // 91362 Pretzfeld
+Brauerei Rittmayer Hallerndorf, An der Mark 1 // 91352 Hallerndorf
+Brauerei-Gasthof Lindenbräu, Am Bach 3 // 91322 Gräfenberg
+Brauereigasthof Hofmann, Hohenschwärz 16 // 91322 Gräfenberg
+Brauereigaststätte Witzgall, Schlammersdorfer Straße 17 // 91352 Hallerndorf
+Brauhaus am Kreuzberg - Friedels Keller, Kreuzberg 1 // 91352 Hallerndorf
+Elch-Bräu, Thuisbrunn 11 // 91322 Gräfenberg
+Gänstaller Bräu Hallerndorf, Schnaid 10 // 91352 Hallerndorf
+Klosterbrauerei Weissenohe, Klosterstraße 20 // 91367 Weißenohe
+Nikl Bräu, Egloffsteiner Straße 19 // 91362 Pretzfeld
+Privatbrauerei Eichhorn, Bamberger Straße 9 // 91301 Forchheim
+Schwanen Bräu, Mühlenstraße 1 // 91320 Ebermannstadt
+Vasold & Schmitt Privatbrauerei, Schellenberger Weg 3 // 91077 Neunkirchen am Brand
+
+# Landkreis Lichtenfels
+
+Brauerei Gasthof Hennemann, Am Dorfbrunnen 13 // 96231 Bad Staffelstein-Stublang
+

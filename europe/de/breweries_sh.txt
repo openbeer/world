@@ -2,9 +2,12 @@
 # Breweries in Schleswig-Holstein (SH)
 
 ### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
+# or split file in two sections
 
 
 flens, Flensburger Brauerei, 1888, www.flens.de, Flensburg
+# brands: Flensburger
+
 
 Dithmarscher Brauerei, www.dithmarscher.de, Marne
 Ricklinger Landbrauerei (Zur Alten Försterei), www.ricklinger-landbrauerei.de, Grüner Weg 1 // 24635 Rickling
@@ -19,3 +22,10 @@ Hansens Brauerei, www.hansensbrauerei.de, Flensburg
 Brauhaus Eutin, www.brauhaus-eutin.de, Eutin
 Brauberger zu Lübeck, 1450, Lübeck
 Landbrauerei Kirschenholz, www.kirschenholz.de, Hauptstraße 4 // 24637 Schillsdorf
+
+
+
+################
+# de.wikipedia
+#
+# flens: Flensburger_Brauerei

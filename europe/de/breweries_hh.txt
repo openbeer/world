@@ -1,11 +1,42 @@
 ###################
 # Breweries in Hamburg (HH)
 
-### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
 
-Holsten Brauerei, 1879, www.holsten-pilsener.de, Holstenstraße 224 // 22765 Hamburg   # Part of Carlsberg
-Duckstein, 1640, www.duckstein.de, Holstenstraße 224 // 22765 Hamburg
+holsten,   Holsten Brauerei, 1879, www.holsten-pilsener.de, Holstenstraße 224 // 22765 Hamburg (Altona-Nord)
+# brands: Holsten, Duckstein, Lüneburger, Astra (Urtyp, Original Hamburger Alsterwasser, Rotlicht 6 %, Astra arschkalt)
+# Part of Carlsberg
 
-Ratsherrn Brauerei, 2010, www.ratsherrn.de,  Lagerstraße 30A // 20357 Hamburg
-Gröninger Privatbrauerei, 1982, www.groeninger-hamburg.de, Willy-Brandt-Straße 47 // 20457 Hamburg
+## duckstein, Duckstein, 1640, www.duckstein.de
+### brand only by holsten (move to beers!!)
+
+
+groeninger, Gröninger Privatbrauerei, 1982, www.groeninger-hamburg.de, Willy-Brandt-Straße 47 // 20457 Hamburg (Altstadt)
+# brands: Gröninger (Pils)
+
+
+### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file/section)
+
+##############################
+#  Microbreweries / Brewpubs
+
+groenigerbraukeller, Gröninger Braukeller       # Hamburg-Altstadt
+Gröninger Brauhaus
+# brewpubs of Gröninger Privatbrauerei
+
+Ratsherrn Brauerei, 2010, www.ratsherrn.de,  Lagerstraße 30A // 20357 Hamburg (St. Pauli)   # Sternschanze
+# brands: Ratsherrn (Pilsener, Pale Ale und Rotbier, Reeperbahn Festival Beer)
+
+
 Premium Kollektiv, Vierländer Damm 56 // 20539 Hamburg  # Premium Bier
+# brands: Premium
+
+
+#############
+# Wikipedia  de.wikipedia.org/wiki/<value>
+#
+#  fix: add sections (skip on first pass)   use [wikipedia] or find
+#    better syntax/style for marking (optional) sections w/ key value pairs
+#
+#
+# holsten: Holsten-Brauerei
+# groenigerbraukeller: Gröningers_Braukeller
