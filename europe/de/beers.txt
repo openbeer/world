@@ -7,7 +7,14 @@ Warsteiner
 ##
 # Clausthaler, by:binding   # move to non-alcoholic
 
-
+Paulaner Hefe-Weißbier Naturtrüb,  5.5%, 12.5°, by:paulaner, weisse
+Vormann Pils, 5.0%, 11.3°, by:vormann, pils
+Alt aus Dahl, 5.0%, 11.6°, by:vormann, alt
+Vormann Malz, 1.5%, 11.5°, by:vormann, malt
+Sauerländer Weizenbier, 5.0%, 11.7°, by:vormann, weisse_dunkel
+Vormann Doppelbock, 8.0%, 19.3°, by:vormann, doppelbock
+Vormann Vorderbier, 5.2%, 12.2°, by:vormann, export
+Dahler Urbräu, 5.0%, 11.3°, by:vormann, zwickl
 
 ########################
 # Niedersachsen (NI)

@@ -16,6 +16,8 @@ hoevels, Hövels Hausbrauerei, 1854, www.hoevels-hausbrauerei.de, Hoher Wall 5 /
 bergmann, Bergmann Brauerei, 2010, www.bergmann-brauerei.de, Ritterstraße 18 // 44137 Dortmund (Hafen)
 # brands: DBB Bergmann (Pils, Export II, Spezial II, Schwarzbier, Dortmunder Adambier)
 
+vormann, Vormann Brauerei, 1877, www.vormann-brauerei.de, Braugasse 5 // 58091 Hagen (Dahl)
+# brands: Pils, Alt aus Dahl, Malz, Sauerländer Weizenbier, Doppelbock, Vorderbier, Dahler Urbräu
 
 # ---- 1.2 Sauerland
 
