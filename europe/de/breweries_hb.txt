@@ -8,7 +8,7 @@ beck, Brauerei Beck, 1873, www.becks.de, Am Deich 18/19 // 28199 Bremen
 #  part of ABinbev / Anheuser-Busch InBev
 
 
-haakebeck: Haake-Beck Brauerei, 1826, www.haake-beck.de, Am Deich 18/19 // 28199 Bremen
+haakebeck, Haake-Beck Brauerei, 1826, www.haake-beck.de, Am Deich 18/19 // 28199 Bremen
 #  part of Beck  => part of Anheuser-Busch InBev
 
 

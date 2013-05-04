@@ -1,3 +1,69 @@
 ##################
 # Oberpfalz
 
+
+Alfons Hintereder, Cham
+Behringer Weissbierbrauerei, Vohenstrauß
+Bender, Mühlhausen
+Brauerei Bauriedl, Eslarn
+Brauerei Bischofshof, Regensburg
+Brauerei Fuchsbeck, Sulzbach-Rosenberg
+Brauereigasthof Donhauser, Hemau
+Brauhaus Nittenau, Nittenau
+Bruckmüller, Amberg
+Drexler Bräu, Pösing
+Dimpflbräu, Furth im Wald
+Fuchsberger Schlossbrauerei, Teunz
+Fürstliches Brauhaus Thurn und Taxis, Regensburg
+Gambrinus, Weiden in der Oberpfalz
+Genossenschaftsbrauerei, Rötz
+Glossner, Neumarkt in der Oberpfalz
+Goss, Deuerling
+Heberbräu, Kirchenthumbach
+Heldrich, Edelsfeld
+Hofmark Brauerei, Traitsching-Loifling
+Hösl Brauerei, Mitterteich
+Jacob, Bodenwöhr
+Katzerer, Freystadt
+Kneitinger, Regensburg
+Klosterbrauerei Kemnath, Kemnath
+Kommunbrauhaus, Mitterteich
+Kummert, Amberg
+Neumarkter Lammsbräu, Neumarkt in der Oberpfalz
+Lindner Bräu, Bad Kötzting
+Brauerei Märkl, Freudenberg
+Moosbacher Brauerei, Moosbach
+Mühlbauer Brauerei, Arnschwang
+Oberer Ganskeller, Neumarkt in der Oberpfalz
+Pirker Brauhaus, Pirk
+Privatbrauerei Plank, Laaber
+Prösslbräu in Adlersberg, Pettendorf
+Püttner, Schlammersdorf
+Pürner, Etzelwang
+Brauerei Hans Riedl, Plößberg
+Rhaner Bräu, Schönthal
+Sauer, Cham-Thierlstein
+Spezialbrauerei Schierling, Schierling (100 %-Tochter von Kuchlbauer, Abensberg)
+Schloderer, Amberg
+Schlossbrauerei Eichhofen, Nittendorf
+Schlossbrauerei Hirschau, Hirschau
+Schlossbrauerei Holnstein, Neukirchen bei Sulzbach-Rosenberg
+Schlossbrauerei Friedenfels, Friedenfels
+Schlossbrauerei Naabeck, Schwandorf
+Schloßbrauerei Reuth, Reuth bei Erbendorf
+Schlossbrauerei Brandl, Runding
+Schröttinger Bräu, Michelsneukirchen
+Schuller, Berching
+Späth Bräu, Furth im Wald
+Späth Bräu, Lohberg
+Sperber, Sulzbach-Rosenberg
+Spitalbrauerei, Regensburg
+Privatbrauerei Sterk, Raigering
+Sudhang Hausbrauerei, Amberg
+Weisses Brauhaus Mehringer, Neunburg vorm Wald
+Winkler, Amberg
+Winkler, Berching
+Winklerbräu, Velburg-Lengenfeld
+Würth Brauerei, Windischeschenbach
+Zur Luitpoldhöhe, Cham
+

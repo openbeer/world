@@ -1,51 +1,116 @@
 #######
-# Unterfranken - 46 Brauereien
+# Bayern / Unterfranken
+#
+#  see de.wikipedia.org/wiki/Unterfranken
+#
+#  Der Regierungsbezirk Unterfranken umfasst
+#   - drei kreisfreie Städte
+#   - und neun Landkreise
 
-Adler-Bräu GmbH, Stettfeld
-Albertshöfer Sternbräu, Albertshofen
-Arnsteiner Brauerei Max Bender KG, Arnstein
-Burgbrauerei Herzog von Franken, Thüngen
-Brauerei Düll, Gnodstadt
-Privatbrauerei Friedrich Düll, Volkach-Krautheim
-Brauerei Göller, Zeil am Main
-Brauerei Hartleb, Maroldsweisach
-Brauerei Roth GmbH, Schweinfurt
-Brauerei Roppelt, Oberaurach-Trossenfurt
-Brauerei Wolf, Rüdenhausen
+# --------------
+# -- Würzburg
+
+Goldene Gans, Würzburg
+Würzburger Hofbräu, Würzburg
+
+
+# -----------------------
+# -- Landkreis Würzburg
+
+Kauzen-Bräu, Ochsenfurt
+Privatbrauerei Oechsner, Ochsenfurt
+
+
+# -------------------
+# -- Aschaffenburg
+
+Schwind-Bräu, Aschaffenburg-Schweinheim
+
+
+# -------------------
+# -- Landkreis Aschaffenburg
+
 Brauhaus Barbarossa, Schöllkrippen
-Brauhaus Faust, Miltenberg
-Brauhaus Schweinfurt, Schweinfurt
 Bürgerliches Brauhaus Wiesen, Wiesen
 Eder & Heylands Brauerei, Großostheim
-Eschenbacher Privatbrauerei, Eltmann-Eschenbach
-Goldene Gans, Würzburg
-Hausbrauerei Höpfl, Steinfeld-Waldzell
-Homburger Bräuscheuere, Triefenstein-Homburg
-Karmeliter Bräu, Salz
-Kauzen-Bräu, Ochsenfurt
-Privatbrauerei Kesselring, Marktsteft
-Klosterbrauerei Kreuzberg, Bischofsheim an der Rhön
-Kommunbrauhaus Unfinden, Königsberg in Bayern-Unfinden
-Martinsbräu Georg Mayr, Marktheidenfeld
-Museums Brau Gasthaus Jägersruh, Bad Kissingen-Garitz
-Pax Bräu, Oberelsbach
-Pfarrbräu, Karlstadt-Stadelhofen
-Privatbrauerei Friedrich Düll, Krautheim
-Privatbrauerei Michael Raab, Hofheim
-Privatbrauerei Lang, Saal an der Saale-Waltershausen
-Privatbrauerei Oechsner, Ochsenfurt
-Privatbrauerei Peter, Ostheim vor der Rhön
+
+
+# -----------------
+# -- Schweinfurt
+
+Brauerei Roth, Schweinfurt
+Brauhaus Schweinfurt, Schweinfurt
+
+
+# -------------------------------
+# -- Landkreis Schweinfurt
+
 Privatbrauerei Ulrich Martin Schonungen-Hausen
-Rother Bräu, Roth vor der Rhön
-Schwind-Bräu, Aschaffenburg-Schweinheim
-Seinsheimer Kellerbräu, Seinsheim
-Spessart-Brauerei, Kreuzwertheim
-Streck-Bräu, Ostheim vor der Rhön
-Waldschloss-Brauerei, Frammersbach
-Weiß Rössl Bräu, Eltmann-Roßstadt
 Wernecker Brauerei, Werneck
+
+
+# --------------
+# -- Landkreis Bad Kissingen
+
+Museums Brau Gasthaus Jägersruh, Bad Kissingen-Garitz
 Will Bräu - Hochstiftliches Brauhaus in Bayern, Motten
 Wittelsbacher Turm Bräu, Bad Kissingen-Arnshausen
-Würzburger Hofbräu, Würzburg
+
+
+# ---------------------------
+# -- Landkreis Haßberge
+
+Adler-Bräu, Stettfeld
+Brauerei Göller, Zeil am Main
+Brauerei Hartleb, Maroldsweisach
+Brauerei Roppelt, Oberaurach-Trossenfurt
+Kommunbrauhaus Unfinden, Königsberg in Bayern-Unfinden
+Privatbrauerei Michael Raab, Hofheim
 Zum grünen Baum, Rauhenebrach-Theinheim
 
+Eschenbacher Privatbrauerei, Eltmann-Eschenbach
+Weiß Rössl Bräu, Eltmann-Roßstadt  # Roßstadt ist ein Stadtteil von Eltmann
+
+
+# ---------------------------
+# -- Landkreis Kitzingen
+
+Albertshöfer Sternbräu, Albertshofen
+Brauerei Düll, Gnodstadt   # Gnodstadt ist ein Ortsteil von Marktbreit
+Privatbrauerei Friedrich Düll, Volkach-Krautheim
+Brauerei Wolf, Rüdenhausen
+Privatbrauerei Kesselring, Marktsteft
+Privatbrauerei Friedrich Düll, Krautheim  # Krautheim ist ein Ortsteil der Stadt Volkach
+Seinsheimer Kellerbräu, Seinsheim
+
+
+# ---------------------------
+# -- Landkreis Main-Spessart
+
+Arnsteiner Brauerei Max Bender, Arnstein
+Burgbrauerei Herzog von Franken, Thüngen
+Hausbrauerei Höpfl, Steinfeld-Waldzell
+Homburger Bräuscheuere, Triefenstein-Homburg
+Martinsbräu Georg Mayr, Marktheidenfeld
+Pfarrbräu, Karlstadt-Stadelhofen
+Spessart-Brauerei, Kreuzwertheim
+Waldschloss-Brauerei, Frammersbach
+
+
+# ---------------------------
+# -- Landkreis Miltenberg
+
+Brauhaus Faust, Miltenberg
+
+
+# ---------------------------
+# -- Landkreis Rhön-Grabfeld
+
+Karmeliter Bräu, Salz
+Klosterbrauerei Kreuzberg, Bischofsheim an der Rhön
+Pax Bräu, Oberelsbach
+Privatbrauerei Lang, Saal an der Saale-Waltershausen
+Rother Bräu, Roth vor der Rhön
+
+Privatbrauerei Peter, Ostheim vor der Rhön
+Streck-Bräu, Ostheim vor der Rhön
