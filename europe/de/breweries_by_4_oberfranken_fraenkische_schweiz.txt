@@ -31,7 +31,9 @@ Brauerei Hummel|Merkendorfer Hummel-Bräu, 1556, 9_000hl, www.brauerei-hummel.de
 Brauerei und Gasthof Göller, 1865, www.goeller-brauerei.de, Scheßlitzer Straße 7 // 96117 Memmelsdorf-Drosendorf
 Brauerei-Gasthof Drei Kronen, 1457, 500hl, www.drei-kronen.de, Hauptstraße 19 // 96117 Memmelsdorf
 
-Brauerei Wagner Merkendorf, 1797, 17_000hl, www.wagner-merkendorf.de, Pointstraße 1 // 96117 Merkendorf
+wagnermerkendorf, Brauerei Wagner Merkendorf, 1797, 17_000hl, www.wagner-merkendorf.de, Pointstraße 1 // 96117 Merkendorf
+
+
 
 Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
 

@@ -21,11 +21,12 @@ augusta, Augusta Brauerei, 1488, www.augusta-brauerei.de, Lauterlech 10-14 // 86
 
 hasenbraeu, Hasen-Bräu, 1464, www.hasen-braeu.de, Unterer Talweg 87 // 86179 Augsburg 
 
+riegele,  Brauhaus Riegele|Brauerei S. Riegele, 1386, www.riegele.de, Frölichstraße 26 // 86150 Augsburg
+
 
 ####
 ## brewpubs
 
-riegele,   Brauhaus Riegele, 1386, www.riegele.de, Frölichstraße 26 // 86150 Augsburg
 koenigvonflandern, König von Flandern, www.koenigvonflandern.de, Karolinenstraße 12 // 86150 Augsburg
 
 # Charly-Bräu -> Bob's  (Bob's Fast Food)
@@ -51,15 +52,19 @@ Staudenbräu, Walkertshofen
 Ustersbacher, Ustersbach
 
 
-# ----------------------------
+# ----------------
 # -- Kaufbeuren
 
-Aktienbrauerei Kaufbeuren, Kaufbeuren
-Communebrauerei Kaufbeuren
+aktien, Aktienbrauerei Kaufbeuren, 1308, www.aktien-brauerei.de, Hohe Buchleuthe 3 // 87600 Kaufbeuren
+
+Communebrauerei Kaufbeuren, www.communebrauerei-kaufbeuren.de, Kappeneck 1 // 87600 Kaufbeuren
 
 
 # ----------------------------
 # -- Kempten (Allgäu)
+
+allgaeuer, Allgäuer Brauhaus, 1394, www.allgaeuer-brauhaus.de, Beethovenstraße 7 // 87435 Kempten
+
 
 # ----------------------------
 # -- Memmingen
@@ -91,7 +96,7 @@ Schwanenbräu, Wertingen
 # ----------------------------
 # -- Landkreis Donau-Ries
 
-Oettinger Bier, Oettingen
+oettinger, Oettinger Brauerei, 1731, www.oettinger-bier.de, Brauhausstraße 8 // 86732 Oettingen
 
 Anker Bräu, Nördlingen
 Maierbier, Nördlingen

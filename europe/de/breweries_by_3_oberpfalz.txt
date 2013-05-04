@@ -37,7 +37,8 @@ Schlossbrauerei Eichhofen, Nittendorf
 Bruckmüller, Amberg
 Kummert, Amberg
 Sudhang Hausbrauerei, Amberg
-Winkler, Amberg
+Privatbrauerei Winkler, 1617, www.brauerei-winkler.de, Schanzgäßchen 6 // 92224 Amberg
+
 Schloderer, Amberg
 
 Privatbrauerei Sterk, Raigering  # Raigering ist ein Stadtteil von Amberg
@@ -45,7 +46,11 @@ Privatbrauerei Sterk, Raigering  # Raigering ist ein Stadtteil von Amberg
 # ----------------------------------
 # -- Landkreis Amberg-Sulzbach
 
-Brauerei Fuchsbeck, Sulzbach-Rosenberg
+Schlichter Winkler Bräu, 1528, www.winklerbier.de, Winklergasse 1 // 92249 Vilseck
+
+fuchsbeck, Brauerei Fuchsbeck, 1834, www.fuchsbeck.de, Hagtor 1 // 92237 Sulzbach-Rosenberg
+
+
 Sperber, Sulzbach-Rosenberg
 
 Heldrich, Edelsfeld
@@ -53,6 +58,7 @@ Brauerei Märkl, Freudenberg
 Pürner, Etzelwang
 Schlossbrauerei Hirschau, Hirschau
 Schlossbrauerei Holnstein, Neukirchen bei Sulzbach-Rosenberg
+
 
 
 # ----------------------------------
@@ -84,15 +90,19 @@ Späth Bräu, Furth im Wald
 # ----------------------------------
 # -- Landkreis Neumarkt in der Oberpfalz
 
-Neumarkter Lammsbräu, Neumarkt in der Oberpfalz
+lammsbraeu, Neumarkter Lammsbräu, www.lammsbraeu.de, BY, Amberger Straße 1 // 92318 Neumarkt
+
+
 Oberer Ganskeller, Neumarkt in der Oberpfalz
 Glossner, Neumarkt in der Oberpfalz
 
 Bender, Mühlhausen
 Katzerer, Freystadt
 Schuller, Berching
-Winkler, Berching
-Winklerbräu, Velburg-Lengenfeld
+
+Brauereigasthof Winkler, www.brauereigasthof-winkler.de, Reichenauplatz 22 // 92334 Berching
+Winkler Bräu, www.winkler-braeu.de, St.-Martin-Straße 6 // 92355 Velburg-Lengenfeld
+
 
 # ----------------------------------
 # -- Landkreis Neustadt an der Waldnaab
@@ -110,7 +120,7 @@ Würth Brauerei, Windischeschenbach
 # ----------------------------------
 # -- Landkreis Schwandorf
 
-Schlossbrauerei Naabeck, Schwandorf
+naabeck, Schlossbrauerei Naabeck, 1620, BY, www.naabecker.de, Schwandorf
 
 Brauhaus Nittenau, Nittenau
 Fuchsberger Schlossbrauerei, Teunz

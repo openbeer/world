@@ -26,9 +26,11 @@ Gampert Bräu Gebr. Gampert, Braustraße 2-4 // 96369 Weißenbrunn
 # ------------------------
 # -- Landkreis Kulmbach
 
+
+kulmbacher, Kulmbacher Brauerei, 1846, www.kulmbacher.de, Lichtenfelser Straße 9 // 95326 Kulmbach
+
 Bayrisches Brauereimuseum Kulmbach, Hofer Straße 20 // 95326 Kulmbach
 Kommunbräu Kulmbach, Grünwehr 17 // 95326 Kulmbach
-Kulmbacher Brauerei, Lichtenfelser Straße 9 // 95326 Kulmbach
 
 Brauerei Leonhard Schübel, Knollenstraße 12 // 95346 Stadtsteinach
 

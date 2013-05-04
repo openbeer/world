@@ -112,7 +112,11 @@ Privatbrauerei Josef Lang, Jandelsbrunn
 # -----------------------
 # --  Landkreis Kelheim
 
-Weisses Bräuhaus G. Schneider & Sohn, Kelheim
+riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de, Hammerweg 5 // 93339 Riedenburg
+
+schneider, Weisses Bräuhaus G. Schneider & Sohn, www.schneider-weisse.de, Emil-Ott-Straße 5 // 93309 Kelheim
+
+
 Brauerei und Gasthof Frischeisen, Kelheim
 Klosterbrauerei Weltenburg, Kelheim-Weltenburg
 
@@ -131,7 +135,6 @@ Gasthausbrauerei Frühmorgen, Wildenberg
 Josef Schneider's Kleines Brauhaus, Essing
 
 Brauerei Friedrich Riemhofer, Riedenburg
-Riedenburger Brauhaus Michael Krieger, Riedenburg
 
 Schlossbrauerei Herrngiersdorf, Herrngiersdorf
 
@@ -145,7 +148,9 @@ Ziegler Bräu, Mainburg
 
 Privatbrauerei J. B. Falter, Regen
 
-zwiesel, 1. Dampfbierbrauerei Zwiesel, Zwiesel
+zwiesel, 1. Dampfbierbrauerei Zwiesel, www.dampfbier.de, Regener Straße 9 // 94227 Zwiesel
+
+
 Janka Bräu, Zwiesel
 
 Brauerei Gasthof Hotel Eck, Böbrach
@@ -153,7 +158,8 @@ Drachselsrieder Schlossbräu, Drachselsried
 Falterbräu, Drachselsried
 Ettl-Bräu, Teisnach
 Gesellschaftsbrauerei Viechtach, Viechtach
-Kur- und Sporthotel Adam-Bräu, Bodenmais
+
+Adam-Bräu, www.adam-braeu.de, Bahnhofstrasse 49-53 // 94249 Bodenmais
 
 
 # -----------------------

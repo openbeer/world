@@ -132,8 +132,11 @@ Privatbrauerei Hofmühl, Eichstätt
 # ---------------
 # --  Landkreis Erding
 
+
+erdinger, Privatbrauerei Erdinger Weißbräu, 1886, BY, www.erdinger.de, Franz-Brombach-Straße 1 // 85435 Erding
+
 Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH, Flughafen München
-Privatbrauerei Erdinger Weißbräu Werner Brombach, Erding
+
 Stiftungsbrauerei Fischer, Erding
 Bräu z'Loh, Dorfen
 Brauerei Bachmayer, Dorfen
@@ -148,7 +151,8 @@ Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach
 # ---------------
 # --  Landkreis Freising
 
-Bayerische Staatsbrauerei Weihenstephan, Freising
+weihenstephan, Bayrische Staatsbrauerei Weihenstephan, 1040, www.brauerei-weihenstephan.de, Alte Akademie // 2‎85354 Freising
+
 Gräfliches Hofbrauhaus Freising GmbH, Freising
 Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau
 
@@ -156,7 +160,9 @@ Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Halle
 # ---------------
 # --  Landkreis Fürstenfeldbruck
 
-König Ludwig Schlossbrauerei Kaltenberg, Fürstenfeldbruck
+koenigludwig, König Ludwig Brauerei|König Ludwig Schlossbrauerei Kaltenberg, www.koenig-ludwig-brauerei.com, Augsburger Straße 41 // 82256 Fürstenfeldbruck
+
+
 Privatbrauerei J. Sedlmayr, Maisach
 
 
@@ -179,20 +185,24 @@ Brauereigasthaus Holzhausen, Holzhausen bei Buchloe
 # ---------------
 # --  Landkreis Miesbach
 
-Herzoglich Bayerisches Brauhaus Tegernsee, Tegernsee
+hopf, Weißbierbrauerei Hopf, 1892, www.hopfweisse.de, BY, city:miesbach, Schützenstraße 8+10 // 83714 Miesbach
+
+tegernsee, Herzoglich Bayerisches Brauhaus Tegernsee|Herzogliches Bräustüberl Tegernsee, www.braustuberl.de, Schloßplatz 1 // 83684 Tegernsee
+
+
 Dietl Bräu, Weyarn
 Holzkirchner Oberbräu, Holzkirchen
-Weißbierbrauerei Hopf, Miesbach
 
 
 # ---------------
 # --  Landkreis Mühldorf am Inn
 
+unertl, Unertl Weißbier, www.unertl.de, Lerchenberger Straße 6 // 83527 Haag in Oberbayern
+
 Bayrische Graf zu Toerring-Jettenbach-Brauereien, Jettenbach
 Brauerei Ametsbichler, Aschau
 Brauerei Erharting Jakob Röhrl, Erharting
 Brauerei Stierberg, Obertaufkirchen
-Unertl Weißbier, Haag
 Weißbräu Unertl, Mühldorf am Inn
 Zum Steer, Mühldorf am Inn
 
@@ -218,11 +228,13 @@ Klosterbrauerei Scheyern, Scheyern
 # ---------------
 # --  Kreis Starnberg
 
-Klosterbrauerei Andechs, Andechs
+andechs, Klosterbrauerei Andechs, 1455, www.andechs.de, Bergstraße 2 // 82346 Andechs
 
 
 # ---------------
 # --  Kreis Traunstein
+
+Brauerei Schönram, www.brauerei-schoenram.de, Salzburger Str. 17 // 83367 Petting/Schönram
 
 Brauhaus Jacob Wochinger & Sohn, Traunstein
 Hofbräuhaus Traunstein Josef Sailer, Traunstein
@@ -231,7 +243,6 @@ Privatbrauerei Schnitzlbaumer, Traunstein
 
 Camba Bavaria, Truchtlaching
 Baderbräu, Schnaitsee
-Brauerei Schönram Alfred Oberlindober jun., Petting
 Klosterbrauerei Baumburg, Altenmarkt an der Alz
 Schlossbrauerei Stein Wiskott, Stein an der Traun
 Stadler-Bräu, Fridolfing
