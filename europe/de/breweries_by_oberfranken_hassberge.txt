@@ -1,6 +1,10 @@
 ####################################
 # Bayern / Oberfranken / Hassberge
 
+# Ferienlandschaft: Hassberge
+#   - Huegelland nordwestlich von Bamberg bzw. noerdlich von Hassfurt
+
+
 # -- Landkreis Bamberg
 
 Brauerei Eichhorn Schwarzer Adler, 4_000hl, www.brauerei-eichhorn.de,  Dörfleinser Straße 43 // 96103 Hallstadt

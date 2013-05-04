@@ -2,81 +2,9 @@
 # Bayern / Oberfranken / Coburger Land
 #
 
-
-# -------
-# -- Bamberg  - 10 Brauereien
-
-Ambräusianum (1. Gasthausbrauerei in Bamberg), 2004, www.ambraeusianum.de, Dominikanerstraße 10 // 96049 Bamberg
-Brauerei Fässla, 1649, 33_000 hl, www.faessla.de, Obere Königstraße 19-21 // 96052 Bamberg
-Brauerei Greifenklau, 1719, 1_000hl, www.greifenklau.de, Laurenziplatz 20 // 96049 Bamberg
-Kaiserdom Specialitäten-Brauerei, 1718, 250_000hl, www.kaiserdom.de,  Breitäckerstraße 9 // 96049 Bamberg
-Brauerei Keesmann, 1867,  Wunderburg 5 // 96050 Bamberg
-Klosterbräu Bamberg, 1533, www.klosterbraeu.de, Obere Mühlbrücke 3 // 96049 Bamberg
-Mahrs-Bräu Bamberg, 1602, 18_000hl, www.mahrs.de, Wunderburg 10 // 96050 Bamberg
-Brauerei Schlenkerla, 1405, www.schlenkerla.de, Dominikanerstraße 6 // 96049 Bamberg
-Brauerei Spezial, 1536, 6500hl, www.brauerei-spezial.de, Obere Königstraße 10 // 96052 Bamberg
-Weyermann Braumanufaktur|Weyermann Malzfabrik|Weyermann Röstmalzbierbrauerei, 1903, 180hl, www.weyermann.de, Brennerstraße 17/19 // 96052 Bamberg
-
-# ---------
-# -- Kreis Bamberg 
-
-Beck-Bräu, Steigerwaldstraße 6-8 // 96170 Trabelsdorf
-Brauerei Büttner, Untergreuth 8 // 96158 Frensdorf-Untergreuth
-Brauerei Gasthof Kundmüller, Weiher 13 // 96191 Viereth-Trunstadt
-Brauerei Gasthof Schwan, Hauptstraße 16 // 96138 Burgebrach
-Brauerei Hennemann, Sambach 33 // 96178 Pommersfelden
-Brauerei Herrmann, Brückenstraße 3 // 96138 Burgebrach-Ampferbach
-Brauerei Kaiser, Grasmannsdorf 9 // 96138 Burgebrach
-Brauerei Mazour-Fößel, Baunacher Straße 28 // 96169 Appendorf
-Brauerei Müller, Lange Straße 2 // 96158 Frensdorf-Reundorf
-Brauerei Müller Debring, Würzburger Straße 1 // 96135 Debring
-Brauerei Schrüfer Priesendorf, Hauptstraße 31 // 96170 Priesendorf
-Brauerei und Gasthof Adler-Bräu Schwarzer Adler, Marktplatz 6 // 96132 Schlüsselfeld
-Brauerei Zehendner, Haus Nr. 18 // 96138 Mönchsambach
-Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
-Brauerei-Gasthof Zur Sonne, Regnitzstraße 2 // 96120 Bischberg
-Brauereigasthof Günter Scheubel Sternbräu, Kirchplatz 12 // 96132 Schlüsselfeld
-Braumanufaktur Hertl, Thüngfeld 61 // 96132 Schlüsselfeld
-Hausbräu Stegaurach, Ruhlstrasse 6 // 96135 Stegaurach
-Mühlenbräu Mühlendorf, 1875, 1_200hl,   Brückenstraße 19 // 96135 Stegaurach-Mühlendorf
-Seelmann Bräu, 1608, 300hl, www.brauerei-seelmann.de, Zettmannsdorfer Hauptstraße 18 // 96185 Schönbrunn-Zettmannsdorf
-
-# -- Landkreis Erlangen-Höchstadt
-
-Brauerei Gasthof Hotel Zum Löwenbräu, Neuhauser Hauptstraße 3 // 91325 Adelsdorf/Neuhaus
-
-## -- Landkreis Kitzingen
-
-Seinsheimer Kellerbräu, Oberes Tor 1 // 97342 Seinsheim
-
-
-# Kundmüller, Viereth-Trunstadt-Weiher
-# Löwenbräu, Buttenheim
-# Mainlust, Viereth
-# Meusel, Buttenheim-Dreuschendorf
-# Müller, Frensdorf-Reundorf
-# Müller, Stegaurach-Debring
-# Ott, Heiligenstadt-Oberleinleiter
-# Reh, Litzendorf-Lohndorf
-# St. Georgen-Bräu, Buttenheim
-# Sauer, Buttenheim-Gunzendorf
-# Sauer, Strullendorf-Roßdorf am Forst
-# Schloßbrauerei, Reckendorf
-# Schroll, Reckendorf
-# Schrüfer, Priesendorf
-# Schwan, Burgebrach
-# Schwanen-Bräu, Rattelsdorf-Ebing
-# Schwarzer Adler, Schlüsselfeld
-# Sonnenbräu, Rattelsdorf-Mürsbach
-# Stern-Bräu, Schlüsselfeld
-# Sternbräu, Schlüsselfeld-Elsendorf
-# Wagner, Memmelsdorf-Merkendorf
-# Wagner-Bräu, Kemmern
-# Wagner, Oberhaid
-# Weber, Hirschaid-Röbersdorf
-# Will, Stadelhofen-Schederndorf
-# Winkler, Litzendorf-Melkendorf
-# Zehendner, Burgebrach-Mönchsambach
-# Zum Goldenen Adler, Rattelsdorf-Höfen
-# Zur Sonne, Bischberg
+##
+# NB: Touristisch ist Franken in 15 Ferienlandschaften unterteilt
+#
+# Ferienlandschaft: Oberes Maintail - Coburger Land
+#  - rings um Coburg
 

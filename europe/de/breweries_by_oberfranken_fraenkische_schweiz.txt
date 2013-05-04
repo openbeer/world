@@ -1,6 +1,9 @@
 ###########################################
 # Bayern / Oberfranken / Fränkische Schweiz
 
+# Ferienlandschaft: Fränkische Schweiz
+#   - noerdlicher Teil der Fränkischen Alb zwischen Bayreuth, Bamberg und Nuernberg
+
 
 # - Landkreis Bamberg
 
