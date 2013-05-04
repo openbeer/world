@@ -5,11 +5,11 @@
 #  - Huegellandschaft zwischen Wuerzburg und Bamberg
 
 
-# ----------------------
+# -------------
 # -- Bamberg
 
 Ambräusianum (1. Gasthausbrauerei in Bamberg), 2004, www.ambraeusianum.de, Dominikanerstraße 10 // 96049 Bamberg
-Brauerei Fässla, 1649, 33_000 hl, www.faessla.de, Obere Königstraße 19-21 // 96052 Bamberg
+Brauerei Fässla, 1649, 33_000hl, www.faessla.de, Obere Königstraße 19-21 // 96052 Bamberg
 Brauerei Greifenklau, 1719, 1_000hl, www.greifenklau.de, Laurenziplatz 20 // 96049 Bamberg
 Kaiserdom Specialitäten-Brauerei, 1718, 250_000hl, www.kaiserdom.de,  Breitäckerstraße 9 // 96049 Bamberg
 Brauerei Keesmann, 1867,  Wunderburg 5 // 96050 Bamberg
@@ -21,29 +21,42 @@ Weyermann Braumanufaktur|Weyermann Malzfabrik|Weyermann Röstmalzbierbrauerei, 1
 
 
 
-# --------------------
-# -- Kreis Bamberg 
+# -------------------
+# -- Kreis Bamberg
 
-Beck-Bräu, Steigerwaldstraße 6-8 // 96170 Trabelsdorf
-Brauerei Büttner, Untergreuth 8 // 96158 Frensdorf-Untergreuth
-Brauerei Gasthof Kundmüller, Weiher 13 // 96191 Viereth-Trunstadt
+Brauerei Mazour-Fößel, Baunacher Straße 28 // 96169 Appendorf
+
+Brauerei-Gasthof Zur Sonne, Regnitzstraße 2 // 96120 Bischberg
+
 Brauerei Gasthof Schwan, Hauptstraße 16 // 96138 Burgebrach
-Brauerei Hennemann, Sambach 33 // 96178 Pommersfelden
 Brauerei Herrmann, Brückenstraße 3 // 96138 Burgebrach-Ampferbach
 Brauerei Kaiser, Grasmannsdorf 9 // 96138 Burgebrach
-Brauerei Mazour-Fößel, Baunacher Straße 28 // 96169 Appendorf
-Brauerei Müller, Lange Straße 2 // 96158 Frensdorf-Reundorf
+
 Brauerei Müller Debring, Würzburger Straße 1 // 96135 Debring
-Brauerei Schrüfer Priesendorf, Hauptstraße 31 // 96170 Priesendorf
-Brauerei und Gasthof Adler-Bräu Schwarzer Adler, Marktplatz 6 // 96132 Schlüsselfeld
+
+Brauerei Büttner, Untergreuth 8 // 96158 Frensdorf-Untergreuth
+Brauerei Müller, Lange Straße 2 // 96158 Frensdorf-Reundorf
+
 Brauerei Zehendner, Haus Nr. 18 // 96138 Mönchsambach
-Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
-Brauerei-Gasthof Zur Sonne, Regnitzstraße 2 // 96120 Bischberg
+
+Brauerei Schrüfer Priesendorf, Hauptstraße 31 // 96170 Priesendorf
+
+Brauerei Hennemann, Sambach 33 // 96178 Pommersfelden
+
+Brauerei und Gasthof Adler-Bräu Schwarzer Adler, Marktplatz 6 // 96132 Schlüsselfeld
 Brauereigasthof Günter Scheubel Sternbräu, Kirchplatz 12 // 96132 Schlüsselfeld
 Braumanufaktur Hertl, Thüngfeld 61 // 96132 Schlüsselfeld
+
+Seelmann Bräu, 1608, 300hl, www.brauerei-seelmann.de, Zettmannsdorfer Hauptstraße 18 // 96185 Schönbrunn-Zettmannsdorf
+
 Hausbräu Stegaurach, Ruhlstrasse 6 // 96135 Stegaurach
 Mühlenbräu Mühlendorf, 1875, 1_200hl,   Brückenstraße 19 // 96135 Stegaurach-Mühlendorf
-Seelmann Bräu, 1608, 300hl, www.brauerei-seelmann.de, Zettmannsdorfer Hauptstraße 18 // 96185 Schönbrunn-Zettmannsdorf
+
+Beck-Bräu, Steigerwaldstraße 6-8 // 96170 Trabelsdorf
+
+Brauerei Gasthof Kundmüller, Weiher 13 // 96191 Viereth-Trunstadt
+Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
+
 
 # ----------------------------------
 # -- Landkreis Erlangen-Höchstadt

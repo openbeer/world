@@ -1,5 +1,5 @@
 ##########################################
-# Bayern / Oberfranken / Coburger Land
+# Bayern / Oberfranken / Oberes Maintail - Coburger Land
 #
 
 ##
@@ -8,3 +8,60 @@
 # Ferienlandschaft: Oberes Maintail - Coburger Land
 #  - rings um Coburg
 
+# -----------------------
+# -- Landkreis Bamberg
+
+Brauhaus Binkert, Westring 5 // 96149 Breitengüßbach
+
+Brauerei Schwanen-Bräu, Marktplatz 11 // 96179 Ebing
+
+Wagner-Bräu, Hauptstraße 15 // 96164 Kemmern
+
+Brauerei-Gasthof Zur Sonne, Zaugendorfer Straße 4 // 96179 Mürsbach
+
+Brauerei Zum Goldenen Adler, Höfen 21 // 96179 Rattelsdorf
+Freudenecker Fischer-Bräu, Freudeneck 2 // 96179 Rattelsdorf
+
+
+# ----------------------
+# -- Landkreis Coburg
+
+Gemeinschaftsbrauerei Roßfeld, Streufdorfer Straße 3 // 96476 Bad Rodach
+
+Kommunbrauhaus Rossach, Coburger Straße // 96269 Großheirath-Rossach
+
+Brauerei Schleicher, Coburger Straße 22 // 96274 Itzgrund
+
+Brauerei Gasthof Grosch, Oeslauerstraße 115 // 96472 Rödental
+
+Kommunbrauhaus Seßlach, Pfarrgasse 1 // 96145 Seßlach
+Brauerei - Gastwirtschaft Scharpf, Hauptstraße 16 // 96145 Seßlach-Heilgersdorf
+
+Brauerei Murmann, Coburger Straße 6 // 96253 Untersiemau
+Brauerei Eller, Brunnenstraße 10 // 96253 Untersiemau-Birkach am Forst
+
+
+# ---------------------------
+# -- Landkreis Lichtenfels
+
+Brauhaus Altenkunstadt Andreas Leikeim , Langheimer Straße 14 // 96264 Altenkunstadt
+
+Brauerei Dinkel, Am Dorfbrunnen 19 // 96231 Bad Staffelstein-Stublang
+Brauerei Gasthof Hellmuth, Wiesen 14 // 96231 Bad Staffelstein-Wiesen
+Brauerei Gaststätte Thomann, Altmainstraße 5 // 96231 Bad Staffelstein-Wiesen
+Brauerei Hetzel, Frauendorf 11 // 96231 Bad Staffelstein-Frauendorf
+Brauerei Reblitz, Am Mahlberg 1 // 96231 Bad Staffelstein-Nedensdorf
+Brauerei Trunk Alte Klosterbrauerei, Vierzehnheiligen 3 // 96231 Bad Staffelstein-Vierzehnheiligen 
+Hausbrauerei Reichert, Stublanger Straße 2 // 96231 Bad Staffelstein-Uetzing
+Staffelberg-Bräu, Mühlteich 4 // 96231 Bad Staffelstein-Loffeld
+
+Günther-Bräu, In der Au 27 // 96224 Burgkunstadt
+
+Brauerei Leicht, Pferdsfeld 22 // 96250 Ebensfeld
+Brauerei Martin, Viehtriebweg 3 // 96250 Ebensfeld-Unterneuses
+Ebensfelder Brauhaus, Oberer Kellbachdamm 7 // 96250 Ebensfeld
+
+Brauerei-Gasthof Wichert, Alte Reichsstrasse 50 // 96215 Lichtenfels 
+Braumanufaktur Lippert, Wittelsbacher Straße 8 // 96215 Lichtenfels
+
+Weismainer Püls-Bräu, Burgkunstadter Straße 41-43 // 96260 Weismain
