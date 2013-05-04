@@ -1,68 +1,127 @@
-####
-# Mittelfranken
+###############################
+# Bayern > Mittelfranken
+#
+#   see de.wikipedia.org/wiki/Mittelfranken
+#
+#  Verwaltungssitz: Ansbach
+# 
+# Größte Städte: 1. Nürnberg, 2. Fürth, 3. Erlangen, 4. Ansbach
+#
+# Der Regierungsbezirk Mittelfranken umfasst
+# - fünf kreisfreie Städte und
+# - sieben Landkreise
 
-# 61 Brauereien
+# --------------------
+# -- Nürnberg
+
+Hausbrauerei Barfüßer, Nürnberg
+Lederer Bräu, Nürnberg
+Nürnberger Altstadthof, Nürnberg
+Schanzenbräu, Nürnberg
+Tucher Bräu, Nürnberg
+
+# --------------------
+# -- Landkreis Nürnberger Land
 
 Brauerei Bub, Leinburg
 Brauerei Enzensteiner, Schnaittach-Enzenreuth
+Brauerei Kanone Löhr, Schnaittach
+Brauerei Schaffer, Schnaittach
+Brauerei Simon GmbH, Lauf an der Pegnitz
+Brauerei Wiethaler, Lauf-Neunhof
+Bürgerbräu Hersbruck Deinlein, Hersbruck
+Dreykorn Brauerei, Lauf an der Pegnitz
+Kaiser Bräu, Neuhaus an der Pegnitz
+Kommunbräu, Neuhaus an der Pegnitz
+Veldensteiner Kaiser Bräu, Neuhaus an der Pegnitz
+Wolfshöher Privatbrauerei K. u. F. Weber, Neunkirchen am Sand
+
+
+# --------------------
+# -- Fürth
+
+# --------------------
+# -- Landkreis Fürth
+
+Dorn-Bräu, Ammerndorf
+Zirndorfer Brauerei, Zirndorf
+
+
+# --------------------
+# -- Ansbach
+
+# --------------------
+# -- Landkreis Ansbach
+
+Brauerei Hauf, Dinkelsbühl
+Brauerei Stefansbräu, Dinkelsbühl
+Weib's Brauhaus Dinkelsbühl, Dinkelsbühl
+Brauerei Fischer, Wieseth
+Brauerei Gasthof Reindler Bräu, Jochsberg bei Leutershausen
+Dornbräu, Bruckberg
+Forstquell-Brauerei, Wassertrüdingen-Fürnheim
+Hauff-Bräu R. Weid, Lichtenau
+Landwehr-Bräu Wörner, Steinsfeld-Reichelshofen
+
+
+# --------------------
+# -- Erlangen
+
+Kitzmann-Bräu, Erlangen
+Spezialitätenbrauerei Steinbach Bräu, Erlangen
+
+# --------------------
+# -- Landkreis Erlangen-Höchstadt
+
 Brauerei Fischer, Höchstadt an der Aisch-Greuth
 Brauerei Friedel, Zentbechhofen-Höchstadt
 Brauerei Geyer Landgasthof, Oberreichenbach
-Brauerei Gundel, Kammerstein-Barthelmesaurach
-Brauerei Hauf, Dinkelsbühl
 Brauerei Heller, Herzogenaurach
-Brauerei Kanone Löhr, Schnaittach
-Brauerei Loscher, Münchsteinach
 Brauerei Rittmayer, Adelsdorf-Aisch
 Brauerei Sauer, Röttenbach (bei Erlangen)
-Brauerei Schaffer, Schnaittach
-Brauerei Sigwart, Weißenburg in Bayern
-Brauerei Simon GmbH, Lauf an der Pegnitz
-Brauerei Stefansbräu, Dinkelsbühl
-Brauerei Strauß, Wettelsheim
-Brauerei Wiethaler, Lauf-Neunhof
-Brauerei Windsheimer, Gutenstetten
-Brauerei Zwanzger, Uehlfeld
-Brauerei Fischer, Wieseth
-Brauereigasthof Bürgerbräustuben "Schalander", Bad Windsheim
-Brauerei Gasthof Reindler Bräu, Jochsberg bei Leutershausen
-Brauerei-Gasthof Prechtel, Uehlfeld
-Brauhaus Döbler, Bad Windsheim
 Brauhaus Höchstadt, Höchstadt
-Bürgerbräu Hersbruck Deinlein, Hersbruck
-Dornbräu, Bruckberg
-Dorn-Bräu, Ammerndorf
-Dreykorn Brauerei, Lauf an der Pegnitz
-W. Gloßner, Bergen-Thalmannsfeld
-Forstquell-Brauerei, Wassertrüdingen-Fürnheim
-Fränkisches Freilandmuseum Bad Windsheim, Bad Windsheim
-F. Wurm , Pappenheim-Bieswang
-Fürstliches Brauhaus Ellingen, Ellingen
-Hauff-Bräu R. Weid, Lichtenau
-Hausbrauerei Barfüßer, Nürnberg
+Zum Löwenbräu, Adelsdorf-Neuhaus
+
+# --------------------
+# -- Schwabach
+
+# --------------------
+# -- Landkreis Neustadt an der Aisch-Bad Windsheim
+
+Brauerei Loscher, Münchsteinach
+Brauerei Windsheimer, Gutenstetten
+
 Hausbrauerei Kohlenmühle, Neustadt an der Aisch
-Hechtbräu Zimmern, Pappenheim-Zimmern
-Hochholzer Brauhaus, Solnhofen-Hochholz
-Kaiser Bräu, Neuhaus an der Pegnitz
-Kitzmann-Bräu, Erlangen
-Kommunbräu, Neuhaus an der Pegnitz
-Landwehr-Bräu Wörner, Steinsfeld-Reichelshofen
-Lederer Bräu, Nürnberg
-Nürnberger Altstadthof, Nürnberg
-Patrizier Bräu, Nürnberg-Fürth
+
+Brauereigasthof Bürgerbräustuben "Schalander", Bad Windsheim
+Brauhaus Döbler, Bad Windsheim
+Fränkisches Freilandmuseum Bad Windsheim, Bad Windsheim
+
 Privatbrauerei Hofmann, Pahres
+
+# --------------------
+# -- Landkreis Roth
+
+Brauerei Gundel, Kammerstein-Barthelmesaurach
+Brauerei Zwanzger, Uehlfeld
+Brauerei-Gasthof Prechtel, Uehlfeld
 Pyraser Landbrauerei, Thalmässing-Pyras
-Ritter St. Georgenbrauerei, Karl Gloßner, Nennslingen
-Schanzenbräu, Nürnberg
-Schneider Bräu, Weißenburg in Bayern
-Schorschbräu, Gunzenhausen
-Spezialitätenbrauerei Steinbach Bräu, Erlangen
 Stadtbrauerei Spalt, Spalt
-Tucher Bräu, Nürnberg-Fürth
-Veldensteiner Kaiser Bräu, Neuhaus an der Pegnitz
-Weib's Brauhaus Dinkelsbühl, Dinkelsbühl
-Wolfshöher Privatbrauerei K. u. F. Weber, Neunkirchen am Sand
-Zirndorfer Brauerei, Zirndorf
-Zum Löwenbräu, Adelsdorf-Neuhaus (Landkreis Erlangen-Höchstadt)
+
+# --------------------
+# -- Landkreis Weißenburg-Gunzenhausen
+
+Schneider Bräu, Weißenburg in Bayern
+Brauerei Sigwart, Weißenburg in Bayern
+
+Schorschbräu, Gunzenhausen
+
+Brauerei Strauß, Wettelsheim
+W. Gloßner, Bergen-Thalmannsfeld
+F. Wurm, Pappenheim-Bieswang
+Hechtbräu Zimmern, Pappenheim-Zimmern
+Fürstliches Brauhaus Ellingen, Ellingen
+Hochholzer Brauhaus, Solnhofen-Hochholz
+Ritter St. Georgenbrauerei, Nennslingen
 
 

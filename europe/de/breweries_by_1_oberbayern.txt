@@ -3,9 +3,13 @@
 #
 #  see de.wikipedia.org/wiki/Oberbayern
 #
+# Verwaltungssitz: München
+# 
+# Größte Städte:  1. München, 2. Ingolstadt, 3. Rosenheim, 4. Freising
+#
 # Der Regierungsbezirk Oberbayern umfasst
 #  - drei kreisfreie Städte und
-#  - 20 Landkreise:
+#  - 20 Landkreise
 
 
 # ---------------

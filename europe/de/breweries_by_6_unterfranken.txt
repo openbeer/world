@@ -1,7 +1,11 @@
 #######
-# Bayern / Unterfranken
+# Bayern > Unterfranken
 #
 #  see de.wikipedia.org/wiki/Unterfranken
+#
+# Verwaltungssitz: Würzburg
+# 
+# Größte Städte: 1. Würzburg, 2. Aschaffenburg, 3. Schweinfurt, 4. Bad Kissingen/ Kitzingen
 #
 #  Der Regierungsbezirk Unterfranken umfasst
 #   - drei kreisfreie Städte

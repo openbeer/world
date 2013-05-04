@@ -1,5 +1,16 @@
 ####################
-# Schwaben
+# Bayern > Schwaben
+#
+#   see de.wikipedia.org/wiki/Schwaben_(Bayern)
+#
+#  Verwaltungssitz: Augsburg
+# 
+# Größte Städte: 1. Augsburg, 2. Kempten, 3. Neu-Ulm, 4. Kaufbeuren
+#
+# Der Regierungsbezirk Schwaben umfasst
+#   - vier kreisfreie Städte und
+#   - zehn Landkreise
+
 
 # -----------------------
 # -- Augsburg
@@ -14,7 +25,7 @@ hasenbraeu, Hasen-Bräu, 1464, www.hasen-braeu.de, Unterer Talweg 87 // 86179 Au
 ####
 ## brewpubs
 
-riegele,           Brauhaus Riegele, 1386, www.riegele.de, Frölichstraße 26 // 86150 Augsburg
+riegele,   Brauhaus Riegele, 1386, www.riegele.de, Frölichstraße 26 // 86150 Augsburg
 koenigvonflandern, König von Flandern, www.koenigvonflandern.de, Karolinenstraße 12 // 86150 Augsburg
 
 # Charly-Bräu -> Bob's  (Bob's Fast Food)
@@ -28,75 +39,125 @@ koenigvonflandern, König von Flandern, www.koenigvonflandern.de, Karolinenstra�
 # riegele: Brauhaus_Riegele
 
 
+# ----------------------------
+# -- Landkreis Augsburg
 
-
-# ----------------------
-# -- Übriges Schwaben
-
-Oettinger Bier, Oettingen
-Aktienbrauerei Kaufbeuren, Kaufbeuren
-
-
-
-Aktienbrauerei Simmerberg, Weiler-Simmerberg
-Anker Bräu, Nördlingen
-Autenrieder Brauereigasthof, Ichenhausen-Autenried
-Bad Wörishofer Löwenbräu, Bad Wörishofen
-Bärenbrauerei Neuhausen, Holzheim-Neuhausen (Landkreis Neu-Ulm)
-Barfüßer, Memmingen
-Barfüßer, Neu-Ulm
-Biberacher Brauerei Schmid, Biberach
-Boandlbräu, Aichach-Oberbernbach
 Brauereigasthof Fuchs, Neusäß-Steppach
-Brauerei Kolb, Meßhofen
-Brauerei Kronburg, Kronburg
-Brauerei Kühbach, Kühbach
 Brauerei Rapp, Kutzenhausen
-Brauereigasthof St. Afra im Felde, Friedberg (Bayern)
-Braugasthof Falkenstein, Pfronten
-Brauerei Zötler, Rettenberg
-Brauereigasthof Hirschbräu, Leipheim
-Canada Mauerbacher Bräustüberl, Aichach-Obermauerbach
-Communebrauerei Kaufbeuren
-Deilbräu, Osterberg
-Engelbräu, Rettenberg
-Häpfenbräu, Rammingen
-Heimat- und Bauernkriegsmuseum Blaue Ente,[8] Leipheim
-Hinterhofbräu Aichach, Aichach
-Hirschbräu Privatbrauerei Höss, Sonthofen
-Hotel Hirsch Gasthausbrauerei, Ottobeuren
-Illertisser Schlossbräu, Illertissen
-Irseer Klosterbräu, Irsee
-Kirnach Stuben, Ruderatshofen
-Klosterbrauerei Ursberg, Ursberg
-Kössel-Bräu, Speiden
-Kronbräu Illerberg, Illerberg
-Landgasthof Hubertus, Apfeltrang
-Landhausbräu Koller, Eurasburg (Schwaben)
-Lindenbrauerei, Mindelheim
-Maierbier, Nördlingen
-Meckatzer Löwenbräu, Heimenkirch
-Memminger Brauerei, Memmingen
-Münzbrauerei, Günzburg
-Postbräu, Thannhausen
-Postbrauerei Nesselwang, Nesselwang
-Privatbrauerei Schlössle, Neu-Ulm-Offenhausen
-Radbrauerei, Günzburg
-Roberts GenussBräu, Neu-Ulm-Reutti
-Sailerbräu, Leuterschach
-Schäffler-Bräu, Missen
 Schimpfle, Gessertshausen
-Schlossbrauerei Autenried, Ichenhausen-Autenried
-Schlossbrauerei Blumenthal, Schloss Blumenthal, Aichach
-Schlossbrauerei Scherneck, Rehling
-Schlossbrauerei Unterbaar, Baar (Schwaben)
-Schlossbrauhaus Schwangau, Schwangau
-Schwanenbräu, Wertingen
 Schwarzbräu, Zusmarshausen
 Stadelbräu, Adelsried
 Staudenbräu, Walkertshofen
-Storchenbräu, Pfaffenhausen
 Ustersbacher, Ustersbach
+
+
+# ----------------------------
+# -- Kaufbeuren
+
+Aktienbrauerei Kaufbeuren, Kaufbeuren
+Communebrauerei Kaufbeuren
+
+
+# ----------------------------
+# -- Kempten (Allgäu)
+
+# ----------------------------
+# -- Memmingen
+
+Barfüßer, Memmingen
+Memminger Brauerei, Memmingen
+
+
+# ----------------------------
+# -- Landkreis Aichach-Friedberg
+
+Brauerei Gasthof Peterhof, Kühbach
+Brauerei Kühbach, Kühbach
+Boandlbräu, Aichach-Oberbernbach
+Canada Mauerbacher Bräustüberl, Aichach-Obermauerbach
+Brauereigasthof St. Afra im Felde, Friedberg
+Hinterhofbräu Aichach, Aichach
+Landhausbräu Koller, Eurasburg
+Schlossbrauerei Blumenthal, Aichach (Schloss Blumenthal)
+Schlossbrauerei Scherneck, Rehling
+Schlossbrauerei Unterbaar, Baar
+
+
+# ----------------------------
+# -- Landkreis Dillingen a. d. Donau
+
+Schwanenbräu, Wertingen
+
+# ----------------------------
+# -- Landkreis Donau-Ries
+
+Oettinger Bier, Oettingen
+
+Anker Bräu, Nördlingen
+Maierbier, Nördlingen
 Wallersteiner Fürstenbier, Wallerstein
 
-Brauerei Gasthof Peterhof, Kühbach   # -> move to Schwaben > Aichach-Friedberg
+
+# ----------------------------
+# -- Landkreis Günzburg
+
+Münzbrauerei, Günzburg
+Radbrauerei, Günzburg
+
+Autenrieder Brauereigasthof, Ichenhausen-Autenried
+Brauereigasthof Hirschbräu, Leipheim
+Heimat- und Bauernkriegsmuseum Blaue Ente, Leipheim
+Klosterbrauerei Ursberg, Ursberg
+Postbräu, Thannhausen
+Schlossbrauerei Autenried, Ichenhausen-Autenried
+
+
+# ----------------------------
+# -- Landkreis Lindau (Bodensee)
+
+Aktienbrauerei Simmerberg, Weiler-Simmerberg
+Meckatzer Löwenbräu, Heimenkirch
+
+# ----------------------------
+# -- Landkreis Neu-Ulm
+
+Barfüßer, Neu-Ulm
+Roberts GenussBräu, Neu-Ulm-Reutti
+Privatbrauerei Schlössle, Neu-Ulm-Offenhausen
+Bärenbrauerei Neuhausen, Holzheim-Neuhausen
+Biberacher Brauerei Schmid, Biberach
+Brauerei Kolb, Meßhofen
+Deilbräu, Osterberg
+Illertisser Schlossbräu, Illertissen
+Kronbräu Illerberg, Illerberg
+
+# ----------------------------
+# -- Landkreis Oberallgäu
+
+Brauerei Zötler, Rettenberg
+Engelbräu, Rettenberg
+Hirschbräu Privatbrauerei Höss, Sonthofen
+Schäffler-Bräu, Missen
+
+
+# ----------------------------
+# -- Landkreis Ostallgäu
+
+Braugasthof Falkenstein, Pfronten
+Irseer Klosterbräu, Irsee
+Kirnach Stuben, Ruderatshofen
+Kössel-Bräu, Speiden
+Landgasthof Hubertus, Apfeltrang
+Postbrauerei Nesselwang, Nesselwang
+Sailerbräu, Leuterschach
+Schlossbrauhaus Schwangau, Schwangau
+
+# ----------------------------
+# -- Landkreis Unterallgäu
+
+Bad Wörishofer Löwenbräu, Bad Wörishofen
+Brauerei Kronburg, Kronburg
+Häpfenbräu, Rammingen
+Hotel Hirsch Gasthausbrauerei, Ottobeuren
+Lindenbrauerei, Mindelheim
+Storchenbräu, Pfaffenhausen

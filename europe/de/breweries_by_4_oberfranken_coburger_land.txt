@@ -1,11 +1,40 @@
 ##########################################
-# Bayern / Oberfranken / Oberes Maintail - Coburger Land
+# Bayern > Oberfranken > Oberes Maintal - Coburger Land
 #
+#  see de.wikipedia.org/wiki/Oberfranken
+#
+# Verwaltungssitz: Bayreuth
+# 
+# Größte Städte: 1. Bayreuth, 2. Bamberg, 3. Hof, 4. Coburg
+#
+# Der Regierungsbezirk Oberfranken umfasst
+#  - vier kreisfreie Städte und
+#  - neun Landkreise
+#
+# 
+# Kreisfreie Städte:
+# - Bamberg
+# - Bayreuth
+# - Coburg
+# - Hof
+#
+# Landkreise:
+# - Landkreis Bamberg
+# - Landkreis Bayreuth
+# - Landkreis Coburg
+# - Landkreis Forchheim
+# - Landkreis Hof
+# - Landkreis Kronach
+# - Landkreis Kulmbach
+# - Landkreis Lichtenfels
+# - Landkreis Wunsiedel im Fichtelgebirge
+
+
 
 ##
 # NB: Touristisch ist Franken in 15 Ferienlandschaften unterteilt
 #
-# Ferienlandschaft: Oberes Maintail - Coburger Land
+# Ferienlandschaft: Oberes Maintal - Coburger Land
 #  - rings um Coburg
 
 # -----------------------
