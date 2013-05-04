@@ -1,22 +1,15 @@
 #####
-# Oberbayern
-
-# 102 Brauereien
+# Bayern > Oberbayern
+#
+#  see de.wikipedia.org/wiki/Oberbayern
+#
+# Der Regierungsbezirk Oberbayern umfasst
+#  - drei kreisfreie Städte und
+#  - 20 Landkreise:
 
 
 # ---------------
-# -- Ingolstadt / Oberbayern
-
-
-Herrnbräu
-Nordbräu
-Schöffbräu
-Schwalbenbräu
-Westparkbräu/Brauhaus 1516
-
-
-# ----------------
-# -- München / Oberbayern
+# -- München
 
 ## big six - Spatenbräu, Augustiner, Paulaner, Hacker-Pschorr, Hofbräu, Löwenbräu
 
@@ -41,97 +34,211 @@ Forschungsbrauerei Jakob
 Giesinger Bräu
 Richelbräu, München-Neuhausen
 
-
 # ---------------
-# -- Übriges Oberbayern
+# --  Landkreis München
 
-Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH, Flughafen München
-Ammergauer Maxbräu, Oberammergau
-Auerbräu, Rosenheim
-Baderbräu, Schnaitsee
-Bayerische Staatsbrauerei Weihenstephan, Freising
-Bayrische Graf zu Toerring-Jettenbach-Brauereien, Jettenbach
-Bayrische Graf zu Toerring-Jettenbach-Brauereien, Pörnbach
-Bräu im Moos, Tüßling
-Bräu z'Loh, Dorfen
-Brauerei Ametsbichler, Aschau
 Brauerei Aying, Aying
-Brauerei Bachmayer, Dorfen
-Brauerei Bauer, Sankt Wolfgang
-Brauerei Erharting Jakob Röhrl, Erharting
-Brauerei Berger, Reischach
-Brauerei Fritz Gutmann, Titting
-Brauereigasthaus Holzhausen, Holzhausen bei Buchloe
-Brauerei Gasthof Peterhof, Kühbach
-Brauerei Gasthof Weißbräu, Freilassing
-Brauerei Griesbräu zu Murnau, Murnau am Staffelsee
-Brauerei Gut Forsting, Pfaffing-Forsting
-Brauerei Karg, Murnau
-Brauerei Leidmann Unterneukirchen
-Brauerei Mittenwald Johann Neuner, Mittenwald
-Brauerei Rothmoos A.Kirnberger, Halfing
-Brauerei Schönram Alfred Oberlindober jun., Petting
-Brauerei Starkmeth, Bruckmühl
-Brauerei Stierberg, Obertaufkirchen
-Brauhaus Jacob Wochinger & Sohn, Traunstein
-Bürgerbräu Bad Reichenhall August Röhm & Söhne, Bad Reichenhall
-Bürgerbräu Wolnzach, Wolnzach
-Camba Bavaria, Truchtlaching (Kreis Traunstein)
-Chiemgauer Brauhaus, Rosenheim
-Dachsbräu, Weilheim in Oberbayern
-de Bassus Schlossbrauerei zu Sandersdorf, Sandersdorf
 Di Gastro Fliegerbräu, Feldkirchen-Riem
 Di Gastro Isarbräu, Pullach-Großhesselohe
-Dietl Bräu, Weyarn
-Eittinger Fischerbräu, Eitting
-Privatbrauerei Erdinger Weißbräu Werner Brombach, Erding
-Ettaler Klosterbrauerei, Ettal
+Weißbräu Bartholomäus Gmeineder, Oberhaching-Deisenhofen
+
+
+# ---------------
+# -- Ingolstadt
+
+Herrnbräu
+Nordbräu
+Schöffbräu
+Schwalbenbräu
+Westparkbräu/Brauhaus 1516
+
+
+# ---------------
+# --  Rosenheim
+
+Auerbräu, Rosenheim
+Chiemgauer Brauhaus, Rosenheim
 Flötzinger Bräu, Privatbrauerei Franz Steegmüller, Rosenheim
-Genossenschaftsbrauerei Reutberg eG, Sachsenkam-Reutberg
-Gräfliches Hofbrauhaus Freising GmbH, Freising
-Graminger Weißbräu, Altötting
-Guts- und Brauereigenossenschaft Taufkirchen eG, Taufkirchen (Vils)
-Herrmannsdorfer Schweinsbräu, Naturtrübbrauerei, Glonn
-Herzoglich Bayerisches Brauhaus Tegernsee, Tegernsee
-Hofbräuhaus Berchtesgaden, Berchtesgaden
-Hofbräuhaus Traunstein Josef Sailer, Traunstein
-Holzkirchner Oberbräu, Holzkirchen
-Juliusbräu, Neuburg an der Donau
-Kapplerbräu Hans Wiedemann, Altomünster
-Klosterbrauerei Andechs, Andechs
-Klosterbrauerei Baumburg, Altenmarkt an der Alz
-Klosterbrauerei Scheyern, Scheyern
-König Ludwig Schlossbrauerei Kaltenberg, Fürstenfeldbruck
-Maierbräu Altomünster, Altomünster
-Maxbrauerei Biermanufaktur, Altenstadt (Landkreis Weilheim-Schongau)
-Maximiliansbräu GmbH, Traunstein
-Mühlfeldbräu, Bad Tölz
-Müllerbräu, Neuötting
-Müllerbräu, Pfaffenhofen an der Ilm
-Privatbrauerei Hofmühl, Eichstätt
-Privatbrauerei J. Sedlmayr, Maisach
-Privatbrauerei M. C. Wieninger, Teisendorf
-Privatbrauerei Schnitzlbaumer, Traunstein
-Privatbrauerei Schweiger, Markt Schwaben
-Reiter Bräu, Wartenberg
-Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau
-Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach
-Schlossbrauerei Haimhausen, Haimhausen
+
+
+# ---------------
+# --  Landkreis Rosenheim
+
+Brauerei Gut Forsting, Pfaffing-Forsting
+Brauerei Rothmoos A.Kirnberger, Halfing
+Brauerei Starkmeth, Bruckmühl
 Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen, Maxlrain
+
+
+
+# ---------------
+# --  Landkreis Altötting
+
+Bräu im Moos, Tüßling
+Brauerei Berger, Reischach
+Brauerei Leidmann Unterneukirchen
+Graminger Weißbräu, Altötting
+Müllerbräu, Neuötting
+
+
+# ---------------
+# --  Landkreis Bad Tölz-Wolfratshausen
+
+Genossenschaftsbrauerei Reutberg, Sachsenkam-Reutberg
+Mühlfeldbräu, Bad Tölz
+Tölzer Mühlfeldbräu, Bad Tölz
+Wampenbräu, Bichl
+
+
+# ---------------
+# --  Landkreis Berchtesgadener Land
+
+Brauerei Gasthof Weißbräu, Freilassing
+Bürgerbräu Bad Reichenhall August Röhm & Söhne, Bad Reichenhall
+Hofbräuhaus Berchtesgaden, Berchtesgaden
+Privatbrauerei M. C. Wieninger, Teisendorf
+
+
+# ---------------
+# --  Landkreis Dachau
+
+Kapplerbräu Hans Wiedemann, Altomünster
+Maierbräu Altomünster, Altomünster
+Schlossbrauerei Haimhausen, Haimhausen
 Schlossbrauerei Odelzhausen, Odelzhausen
+Tobiasbräu, Ried bei Markt Indersdorf
+
+
+# ---------------
+# --  Landkreis Ebersberg
+
+Herrmannsdorfer Schweinsbräu, Naturtrübbrauerei, Glonn
+Privatbrauerei Schweiger, Markt Schwaben
+Wildbräu Grafing, Grafing bei München
+
+
+# ---------------
+# --  Landkreis Eichstätt
+
+Brauerei Fritz Gutmann, Titting
+de Bassus Schlossbrauerei zu Sandersdorf, Sandersdorf
+Privatbrauerei Hofmühl, Eichstätt
+
+
+# ---------------
+# --  Landkreis Erding
+
+Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH, Flughafen München
+Privatbrauerei Erdinger Weißbräu Werner Brombach, Erding
+Stiftungsbrauerei Fischer, Erding
+Bräu z'Loh, Dorfen
+Brauerei Bachmayer, Dorfen
+Brauerei Bauer, Sankt Wolfgang
+Eittinger Fischerbräu, Eitting
+Guts- und Brauereigenossenschaft Taufkirchen, Taufkirchen (Vils)
+Reiter Bräu, Wartenberg
+Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach
+
+
+
+# ---------------
+# --  Landkreis Freising
+
+Bayerische Staatsbrauerei Weihenstephan, Freising
+Gräfliches Hofbrauhaus Freising GmbH, Freising
+Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau
+
+
+# ---------------
+# --  Landkreis Fürstenfeldbruck
+
+König Ludwig Schlossbrauerei Kaltenberg, Fürstenfeldbruck
+Privatbrauerei J. Sedlmayr, Maisach
+
+
+# ---------------
+# --  Landkreis Garmisch-Partenkirchen
+
+Ammergauer Maxbräu, Oberammergau
+Brauerei Griesbräu zu Murnau, Murnau am Staffelsee
+Brauerei Karg, Murnau
+Brauerei Mittenwald Johann Neuner, Mittenwald
+Ettaler Klosterbrauerei, Ettal
+
+
+# ---------------
+# --  Landkreis Landsberg am Lech
+
+Brauereigasthaus Holzhausen, Holzhausen bei Buchloe
+
+
+# ---------------
+# --  Landkreis Miesbach
+
+Herzoglich Bayerisches Brauhaus Tegernsee, Tegernsee
+Dietl Bräu, Weyarn
+Holzkirchner Oberbräu, Holzkirchen
+Weißbierbrauerei Hopf, Miesbach
+
+
+# ---------------
+# --  Landkreis Mühldorf am Inn
+
+Bayrische Graf zu Toerring-Jettenbach-Brauereien, Jettenbach
+Brauerei Ametsbichler, Aschau
+Brauerei Erharting Jakob Röhrl, Erharting
+Brauerei Stierberg, Obertaufkirchen
+Unertl Weißbier, Haag
+Weißbräu Unertl, Mühldorf am Inn
+Zum Steer, Mühldorf am Inn
+
+
+
+# ---------------
+# --  Landkreis Neuburg-Schrobenhausen
+
+Juliusbräu, Neuburg an der Donau
+
+
+# ---------------
+# --  Landkreis Pfaffenhofen an der Ilm
+
+Müllerbräu, Pfaffenhofen an der Ilm
+Urbanusbräu - Brauhaus Pfaffenhofen, Pfaffenhofen an der Ilm
+
+Bayrische Graf zu Toerring-Jettenbach-Brauereien, Pörnbach
+Bürgerbräu Wolnzach, Wolnzach
+Klosterbrauerei Scheyern, Scheyern
+
+
+# ---------------
+# --  Kreis Starnberg
+
+Klosterbrauerei Andechs, Andechs
+
+
+# ---------------
+# --  Kreis Traunstein
+
+Brauhaus Jacob Wochinger & Sohn, Traunstein
+Hofbräuhaus Traunstein Josef Sailer, Traunstein
+Maximiliansbräu GmbH, Traunstein
+Privatbrauerei Schnitzlbaumer, Traunstein
+
+Camba Bavaria, Truchtlaching
+Baderbräu, Schnaitsee
+Brauerei Schönram Alfred Oberlindober jun., Petting
+Klosterbrauerei Baumburg, Altenmarkt an der Alz
 Schlossbrauerei Stein Wiskott, Stein an der Traun
 Stadler-Bräu, Fridolfing
-Stiftungsbrauerei Fischer, Erding
-Tobiasbräu, Ried bei Markt Indersdorf
-Tölzer Mühlfeldbräu, Bad Tölz
-Unertl Weißbier GmbH, Haag
-Urbanusbräu - Brauhaus Pfaffenhofen, Pfaffenhofen an der Ilm
-Wampenbräu, Bichl
-Weißbierbrauerei Hopf, Miesbach
-Weißbräu Bartholomäus Gmeineder, Oberhaching-Deisenhofen
 Weissbräu Schwendl, Tacherting
-Weißbräu Unertl, Mühldorf am Inn
-Wildbräu Grafing, Grafing bei München
-Zum Steer, Mühldorf am Inn
+
+
+
+# ---------------
+# --  Kreis Weilheim-Schongau
+
+Dachsbräu, Weilheim in Oberbayern
+Maxbrauerei Biermanufaktur, Altenstadt
 
 

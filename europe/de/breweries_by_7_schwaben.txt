@@ -99,4 +99,4 @@ Storchenbräu, Pfaffenhausen
 Ustersbacher, Ustersbach
 Wallersteiner Fürstenbier, Wallerstein
 
-
+Brauerei Gasthof Peterhof, Kühbach   # -> move to Schwaben > Aichach-Friedberg
