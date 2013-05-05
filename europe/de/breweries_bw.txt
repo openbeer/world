@@ -25,10 +25,10 @@
 # -- Regierungsbezirk Freiburg 
 
 rothaus, Badische Staatsbrauerei Rothaus, 1791, www.rothaus.de, Rothaus 1 // 79865 Grafenhausen-Rothaus
-# brands: Rothaus (Pils, Tannenzäpfle, Hefeweizen, Hefeweizen Zäpfle, Märzen Export, Eis-Zäpfle)
+  brands: Rothaus (Pils, Tannenzäpfle, Hefeweizen, Hefeweizen Zäpfle, Märzen Export, Eis-Zäpfle)
 
 waldhaus, Privatbrauerei Waldhaus, 1833, www.waldhaus-bier.de, Waldhaus 1 // 79809 Waldhaus
-# brands: Waldhaus (Diplom Pils, Light Line, Spezial Gold, Jubiläums Dunkel, Ohne Filter, Doppel Bock, Schwarzwald Weisse, Schwarzwald Weisse alkoholfrei, Radler, Colaweizen, Hefeweizen)
+  brands: Waldhaus (Diplom Pils, Light Line, Spezial Gold, Jubiläums Dunkel, Ohne Filter, Doppel Bock, Schwarzwald Weisse, Schwarzwald Weisse alkoholfrei, Radler, Colaweizen, Hefeweizen)
 
 
 
@@ -36,7 +36,7 @@ waldhaus, Privatbrauerei Waldhaus, 1833, www.waldhaus-bier.de, Waldhaus 1 // 798
 # -- Regierungsbezirk Karlsruhe
 
 eichbaum, Privatbrauerei Eichbaum, 1679, www.eichbaum.de, Käfertaler Straße 170 // 68167 Mannheim
-# brands: Eichbaum
+  brands: Eichbaum
 
 
 
@@ -45,7 +45,7 @@ eichbaum, Privatbrauerei Eichbaum, 1679, www.eichbaum.de, Käfertaler Straße 17
 # -- Regierungsbezirk Stuttgart
 
 Brauerei Eugen Häberlen, 1875, www.brauerei-haeberlen.de, Karlstraße 66  // 74405 Gaildorf
-# brands: Gaildorfer (Spezial, Spezial Dunkel, Edelpils, Festbier, Zwickel)
+  brands: Gaildorfer (Spezial, Spezial Dunkel, Edelpils, Festbier, Zwickel)
 
 
 # holding company
@@ -55,15 +55,15 @@ Brauerei Eugen Häberlen, 1875, www.brauerei-haeberlen.de, Karlstraße 66  // 74
 # Zusammenschluss der Stuttgarter Brauereien Dinkelacker und Schwaben Bräu
 
 dinkelacker, Dinkelacker, 1888, www.dinkelacker.de, Tübinger Straße 48 // 70178 Stuttgart   # part of Dinkelacker-Schwaben Bräu
-# brands: Dinkelacker (CD-Pils, Privat, Volksfestbier, Weihnachtsfestbier, Diät-Pilsener, Märzen)
+  brands: Dinkelacker (CD-Pils, Privat, Volksfestbier, Weihnachtsfestbier, Diät-Pilsener, Märzen)
 
 schwabenbräu, Schwabenbräu, 1878, www.schwabenbraeu.de     # part of Dinkelacker-Schwaben Bräu
-# brands: Schwabenbräu  (Das Echte, Märzen, Meister Pils, Pilsner, Das Schwarze, Das Helle, Das Weizen, Original Urtyp Export, Volksfestbier, Weihnachtsbier)
+  brands: Schwabenbräu  (Das Echte, Märzen, Meister Pils, Pilsner, Das Schwarze, Das Helle, Das Weizen, Original Urtyp Export, Volksfestbier, Weihnachtsbier)
 # check: only brand only ??
 
 
 stuttgarterhofbraeu, Stuttgarter Hofbräu, 1872, www.stuttgarter-hofbraeu.de, Böblinger Straße 104 // 70199 Stuttgart
-# brands: Stuttgarter Hofbräu, Malteser Weissbier (Hefe hell, Hefe dunkel, Kristall)
+  brands: Stuttgarter Hofbräu, Malteser Weissbier (Hefe hell, Hefe dunkel, Kristall)
 # part of Radeberger Gruppe
 
 

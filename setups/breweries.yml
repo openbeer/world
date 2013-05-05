@@ -1,6 +1,7 @@
 at:
 - europe/at/breweries
 - europe/at/breweries.2
+- europe/at/breweries.hl
 
 de:
 - europe/de/breweries_bb
@@ -34,10 +35,12 @@ de:
 
 more:
 - europe/cz/breweries
+- europe/cz/breweries.hl
 - europe/en/breweries
 - europe/ie/breweries
 - europe/ro/breweries
 - europe/sk/breweries
+- europe/sk/breweries.hl
 - north-america/us/breweries
 - north-america/mx/breweries
 - south-america/ar/breweries

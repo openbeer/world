@@ -4,7 +4,7 @@
 
 
 berlinerkindl, Berliner-Kindl-Schultheiss-Brauerei, 1870, www.berliner-kindl.de, Indira-Gandhi-Straße 66 // 13053 Berlin
-#  brands: Berliner Bürgerbräu, Berliner, Schultheiss, Berliner Kindl, Märkischer Landmann, Bärenpils, Potsdamer Rex
+  brands: Berliner Bürgerbräu, Berliner, Schultheiss, Berliner Kindl, Märkischer Landmann, Bärenpils, Potsdamer Rex
 # ort: Alt-Hohenschönhausen / Lichtenberg  ## Alt-Hohenschönhausen ist ein Berliner Ortsteil im Bezirk Lichtenberg
 #  
 #  part of Brau & Brunnen  => part of Radeberger
@@ -19,18 +19,18 @@ Berliner Bürgerbräu, 1869
 Bier-Company, www.bier-company.de
 Bolzen Bier, www.bolzen-bier.de
 Brauhaus Bohnsdorf, www.brauhaus-bohnsdorf.com
-# brands: Bohnsdorfer
+  brands: Bohnsdorfer
 
 
 Brauhaus Georgbräu, 1992    #  Nikolaiviertel
-# brands: Georg Pils
+  brands: Georg Pils
 
 Brauhaus in Rixdorf, www.brauhaus-rixdorf.de
 Brauhaus in Spandau, www.brauhaus-spandau.de    # Spandau
-# brands: Spandauer
+  brands: Spandauer
 
 suedstern, Brauhaus Südstern, www.brauhaus-suedstern.de   # Neukölln - Hasenheide
-# brands: Stern
+  brands: Stern
 
 brewbaker, BrewBaker, www.brewbaker.de, Arminiusstr. 2-4 // 10551 Berlin
 
@@ -39,13 +39,13 @@ Fucking Hell, www.fucking-hell.de
 Bären-Bräu (Getränkezukunft), www.berlinerbaerenbraeu.de
 
 Hausbrauerei Eschenbräu, www.eschenbraeu.de   # Wedding
-# brands: Eschenbräu 
+  brands: Eschenbräu 
 
 Microbrauerei Barkowsky, 2000, www.brau-dein-bier.de   # Mitte
-# brands: Marcus-Bräu (Pils, Dunkel)
+  brands: Marcus-Bräu (Pils, Dunkel)
 
 Privatbrauerei Am Rollberg, www.rollberger.de
-# brands: Rollberger (Helles, Rotes, Weizen, Maibock, Winterbock)
+  brands: Rollberger (Helles, Rotes, Weizen, Maibock, Winterbock)
 
 
 coepenick, Schlossplatz Brauerei Cöpenick    # Köpenick
@@ -56,13 +56,13 @@ coepenick, Schlossplatz Brauerei Cöpenick    # Köpenick
 ### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file or section
 
 vagabund, Vagabund Brauerei, 2011, www.vagabundbrauerei.com, Antwerpenerstr. 3 // 13353 Berlin    # Wedding
-# brands: Vagabund (Pale Ale, Imperial India Pale Ale, Stout, Extra Special Bitter, Belgian Brown Ale)
+  brands: Vagabund (Pale Ale, Imperial India Pale Ale, Stout, Extra Special Bitter, Belgian Brown Ale)
 
 schoppebraeu, Schoppe Bräu, 1990, www.schoppebraeu.de,  Hasenheide 69 // 10967 Berlin    #  Kreuzberg
-# brands: Schoppe Bräu (Hell, Dunkel, XXL, Weizen Hell, Premium Pils, Pale Ale)
+  brands: Schoppe Bräu (Hell, Dunkel, XXL, Weizen Hell, Premium Pils, Pale Ale)
 
 hopsandbarley, Hops & Barley Hausbrauerei, 2008, www.hopsandbarley-berlin.de, Wühlischstraße 22-23 // 10245 Berlin   # Friedrichshain
-# brands: Friedrichshainer
+  brands: Friedrichshainer
 
 schalander, Schalander Hausbrauerei, 2009   # Friedrichshain
 

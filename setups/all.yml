@@ -1,9 +1,11 @@
 breweries:
 - europe/cz/breweries
+- europe/cz/breweries.hl
 - europe/en/breweries
 - europe/ie/breweries
 - europe/ro/breweries
 - europe/sk/breweries
+- europe/sk/breweries.hl
 - north-america/us/breweries
 - north-america/mx/breweries
 - south-america/ar/breweries
@@ -14,6 +16,7 @@ breweries:
 breweries_at:
 - europe/at/breweries
 - europe/at/breweries.2
+- europe/at/breweries.hl
 
 breweries_de:
 - europe/de/breweries_bb
@@ -43,6 +46,7 @@ breweries_de:
 - europe/de/breweries_sn
 - europe/de/breweries_st
 - europe/de/breweries_th
+- europe/de/de.wikipedia_by
 
 
 europe:
