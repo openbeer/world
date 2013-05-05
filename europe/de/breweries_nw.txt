@@ -8,16 +8,17 @@
 # ---- 1.1 Dortmund und östliches Ruhrgebiet
  
 dab, Dortmunder Actien-Brauerei (DAB), 1875, www.dab.de, Steigerstraße 20 // 44145 Dortmund (Nordmarkt)
-# brands: DAB, Andreas, Dortmunder Hansa, Dortmunder Kronen, Dortmunder Stifts, Dortmunder Thier, Dortmunder Union, Felskrone, Freigraf, Ritter, Stades, Wicküler
+  brands: DAB, Andreas, Dortmunder Hansa, Dortmunder Kronen, Dortmunder Stifts, Dortmunder Thier, Dortmunder Union, Felskrone, Freigraf, Ritter, Stades, Wicküler
 
 hoevels, Hövels Hausbrauerei, 1854, www.hoevels-hausbrauerei.de, Hoher Wall 5 // 44137 Dortmund (City)
-# brands: Hövels, Clarissen (Alt), Kronen (Urtyp "Wenkers")
+  brands: Hövels, Clarissen (Alt), Kronen (Urtyp "Wenkers")
 
 bergmann, Bergmann Brauerei, 2010, www.bergmann-brauerei.de, Ritterstraße 18 // 44137 Dortmund (Hafen)
-# brands: DBB Bergmann (Pils, Export II, Spezial II, Schwarzbier, Dortmunder Adambier)
+  brands: DBB Bergmann (Pils, Export II, Spezial II, Schwarzbier, Dortmunder Adambier)
 
 vormann, Vormann Brauerei, 1877, www.vormann-brauerei.de, Braugasse 5 // 58091 Hagen (Dahl)
-# brands: Pils, Alt aus Dahl, Malz, Sauerländer Weizenbier, Doppelbock, Vorderbier, Dahler Urbräu
+# fix: brands is Vormann Pils?
+#  brands: Pils, Alt aus Dahl, Malz, Sauerländer Weizenbier, Doppelbock, Vorderbier, Dahler Urbräu
 
 # ---- 1.2 Sauerland
 
@@ -28,15 +29,15 @@ vormann, Vormann Brauerei, 1877, www.vormann-brauerei.de, Braugasse 5 // 58091 H
 
    
 veltins, Brauerei C. & A. Veltins, 1824, www.veltins.de, An der Streue // 59872 Meschede
-# brands: Veltins (Pilsener, Leicht, Malz)
+  brands: Veltins (Pilsener, Leicht, Malz)
 
 warsteiner, Warsteiner Brauerei, 1753, www.warsteiner.de, Im Waldpark // 59581 Warstein
-# brands: Warsteiner, Isenbeck
+  brands: Warsteiner, Isenbeck
    
 # ---- 1.3 Siegerland und Wittgensteiner Land
 
 krombacher, Krombacher Brauerei, 1803, www.krombacher.de, Hagener Straße 261 // 57223 Kreuztal  #  liegt im Stadtteil Krombach
-# brands: Krombacher (Pils, Extra Mild, Weizen)
+  brands: Krombacher (Pils, Extra Mild, Weizen)
 
 
 
@@ -65,10 +66,10 @@ krombacher, Krombacher Brauerei, 1803, www.krombacher.de, Hagener Straße 261 //
 
 
 dombrauerei, Dom-Brauerei, 1894, www.domkoelsch.de, Charlottenstraße 72 // 51149 Köln
-# brands: Dom (Kölsch), Giesler (Kölsch), Rats (Kölsch), Schreckenskammer (Kölsch)
+  brands: Dom (Kölsch), Giesler (Kölsch), Rats (Kölsch), Schreckenskammer (Kölsch)
 
 frueh, Cölner Hofbräu Früh|Früh, 1904, www.frueh.de, Am Hof 12-18 // 50667 Köln
-# brands: Früh (Kölsch)
+  brands: Früh (Kölsch)
 
 
 

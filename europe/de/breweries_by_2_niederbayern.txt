@@ -15,132 +15,132 @@
 # -----------------------
 # -- Landshut
 
-Brauerei C. Wittmann, Landshut
-Landshuter Brauhaus, Landshut
+Brauerei C. Wittmann, Landshut // 
+Landshuter Brauhaus, Landshut // 
 
 
 # -----------------------
 # --  Landkreis Landshut
 
-Anton Pöllinger Brauerei, Pfeffenhausen
-Brauerei Reder, Pfeffenhausen
+Anton Pöllinger Brauerei, Pfeffenhausen // 
+Brauerei Reder, Pfeffenhausen // 
 
-Bodenkirchener, Bodenkirchen
-Brauerei Hans Stammler, Velden
-Brauerei Josef Weinzierl, Weihmichl
-Brauerei Wimmer, Bruckberg
-Further Klosterbier, Furth
-Schlossbrauerei Hohenthann, Hohenthann
+Bodenkirchener, Bodenkirchen // 
+Brauerei Hans Stammler, Velden // 
+Brauerei Josef Weinzierl, Weihmichl // 
+Brauerei Wimmer, Bruckberg // 
+Further Klosterbier, Furth // 
+Schlossbrauerei Hohenthann, Hohenthann // 
 
 
 # -----------------------
 # -- Passau
 
-Bayerische Löwenbrauerei Franz Stockbauer, Passau
-Brauerei Hacklberg, Passau
-Innstadt Brauerei Bierspezialitäten, Passau
+Bayerische Löwenbrauerei Franz Stockbauer, Passau // 
+Brauerei Hacklberg, Passau // 
+Innstadt Brauerei Bierspezialitäten, Passau // 
 
-Weizenbierbrauerei Andorfer, Passau-Ries
+Weizenbierbrauerei Andorfer, Passau-Ries // 
 
 
 # -----------------------
 # -- Landkreis Passau
 
-Bayerische Löwenbrauerei Franz Stockbauer, Zweigniederlassung Schlossbrauerei Haselbach, Schloss Haselbach
-Brauerei Aldersbach Freiherr von Aretin, Aldersbach
-Brauerei Wolferstetter Georg Huber, Vilshofen an der Donau
-Brauhaus Aidenbach Woerlein, Aidenbach
+Bayerische Löwenbrauerei Franz Stockbauer, Zweigniederlassung Schlossbrauerei Haselbach, Schloss Haselbach // 
+Brauerei Aldersbach Freiherr von Aretin, Aldersbach // 
+Brauerei Wolferstetter Georg Huber, Vilshofen an der Donau // 
+Brauhaus Aidenbach Woerlein, Aidenbach // 
 
-Gutsbräu Straßkirchen, Straßkirchen (Salzweg)
-Hutthurmer Bayerwald-Brauerei, Hutthurm
-Weißbräu Sven Grünleitner, Kößlarn
+Gutsbräu Straßkirchen, Straßkirchen (Salzweg) // 
+Hutthurmer Bayerwald-Brauerei, Hutthurm // 
+Weißbräu Sven Grünleitner, Kößlarn // 
 
 
 # -----------------------
 # -- Straubing
 
-Brauerei Gebrüder Röhrl, Straubing
-Karmelitenbrauerei Karl Sturm, Straubing
+Brauerei Gebrüder Röhrl, Straubing // 
+Karmelitenbrauerei Karl Sturm, Straubing // 
 
 # -----------------------
 # --  Landkreis Straubing-Bogen
 
-Brauerei Klett, Konzell
-Brauerei Ludwig Erl, Geiselhöring
-Bräuhaus Schwarzach, Schwarzach
-Frhr. v. Poschinger-Bray'sche Schlossbrauerei Irlbach, Irlbach
-Klosterbrauerei Mallersdorf, Mallersdorf
-Privatbrauerei Stöttner, Pfaffenberg
+Brauerei Klett, Konzell // 
+Brauerei Ludwig Erl, Geiselhöring // 
+Bräuhaus Schwarzach, Schwarzach // 
+Frhr. v. Poschinger-Bray'sche Schlossbrauerei Irlbach, Irlbach // 
+Klosterbrauerei Mallersdorf, Mallersdorf // 
+Privatbrauerei Stöttner, Pfaffenberg // 
 
 
 # -----------------------
 # -- Landkreis Deggendorf
 
-Arcobräu Gräfliches Brauhaus, Moos
-Schaubrauerei Bräu zur Isar, Plattling
+Arcobräu Gräfliches Brauhaus, Moos // 
+Schaubrauerei Bräu zur Isar, Plattling // 
 
 
 # -----------------------
 # --  Landkreis Dingolfing-Landau
 
-Brauerei Xaver Wasserburger, Dingolfing
+Brauerei Xaver Wasserburger, Dingolfing  // 
 
-Kurt Landauer Brauerei, Landau an der Isar
-Brauerei Wilhelm Krieger, Landau an der Isar
+Kurt Landauer Brauerei, Landau an der Isar // 
+Brauerei Wilhelm Krieger, Landau an der Isar // 
 
-Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen, Frontenhausen
+Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen, Frontenhausen  // 
 
-Gräfliche Brauerei Arco-Valley, Eichendorf-Adldorf
+Gräfliche Brauerei Arco-Valley, Eichendorf-Adldorf // 
 
-Postbrauerei Renkl, Frontenhausen
+Postbrauerei Renkl, Frontenhausen // 
 
-Privatbrauerei H. Egerer, Pilsting-Großköllnbach
+Privatbrauerei H. Egerer, Pilsting-Großköllnbach // 
 
 
 # -----------------------
 # --  Landkreis Freyung-Grafenau
 
-Lang-Bräu, Freyung
+Lang-Bräu, Freyung // 
 
-Bucher Bräu Grafenau, Grafenau
+Bucher Bräu Grafenau, Grafenau // 
 
-Gut Riedelsbach Familie Bernhard Sitter, Neureichenau-Riedelsbach
-Klingenbrunner, Spiegelau-Klingenbrunn
+Gut Riedelsbach Familie Bernhard Sitter, Neureichenau-Riedelsbach // 
+Klingenbrunner, Spiegelau-Klingenbrunn // 
 
-Privatbrauerei Josef Lang, Jandelsbrunn
+Privatbrauerei Josef Lang, Jandelsbrunn // 
 
 # -----------------------
 # --  Landkreis Kelheim
 
-riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de, Hammerweg 5 // 93339 Riedenburg
+riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de, 93339 Riedenburg // Hammerweg 5 
 
-schneider, Weisses Bräuhaus G. Schneider & Sohn, www.schneider-weisse.de, Emil-Ott-Straße 5 // 93309 Kelheim
+schneider, Weisses Bräuhaus G. Schneider & Sohn, www.schneider-weisse.de, 93309 Kelheim // Emil-Ott-Straße 5 
 
 
-Brauerei und Gasthof Frischeisen, Kelheim
-Klosterbrauerei Weltenburg, Kelheim-Weltenburg
+Brauerei und Gasthof Frischeisen, Kelheim // 
+Klosterbrauerei Weltenburg, Kelheim-Weltenburg // 
 
-Brauerei Berghammer, Bad Abbach-Oberndorf
+Brauerei Berghammer, Bad Abbach-Oberndorf // 
 
-Brauerei Horneck, Elsendorf-Horneck
+Brauerei Horneck, Elsendorf-Horneck // 
 
-Hofbräu Abensberg, Abensberg
-Brauerei Kuchlbauer, Abensberg
-Ottenbräu, Abensberg
-Weißbierbrauer, Abensberg
+Hofbräu Abensberg, Abensberg // 
+Brauerei Kuchlbauer, Abensberg // 
+Ottenbräu, Abensberg // 
+Weißbierbrauer, Abensberg // 
 
-Gasthausbrauerei Stanglbräu, Hausen-Herrnwahlthann
-Gasthausbrauerei Frühmorgen, Wildenberg
+Gasthausbrauerei Stanglbräu, Hausen-Herrnwahlthann // 
+Gasthausbrauerei Frühmorgen, Wildenberg // 
 
-Josef Schneider's Kleines Brauhaus, Essing
+Josef Schneider's Kleines Brauhaus, Essing // 
 
-Brauerei Friedrich Riemhofer, Riedenburg
+Brauerei Friedrich Riemhofer, Riedenburg // 
 
-Schlossbrauerei Herrngiersdorf, Herrngiersdorf
+Schlossbrauerei Herrngiersdorf, Herrngiersdorf // 
 
-Schmidmayer Bräu, Siegenburg
+Schmidmayer Bräu, Siegenburg // 
 
-Ziegler Bräu, Mainburg
+Ziegler Bräu, Mainburg // 
 
 
 # -----------------------
@@ -148,26 +148,25 @@ Ziegler Bräu, Mainburg
 
 Privatbrauerei J. B. Falter, Regen
 
-zwiesel, 1. Dampfbierbrauerei Zwiesel, www.dampfbier.de, Regener Straße 9 // 94227 Zwiesel
+zwiesel, 1. Dampfbierbrauerei Zwiesel, www.dampfbier.de, 94227 Zwiesel // Regener Straße 9 
 
 
-Janka Bräu, Zwiesel
+Janka Bräu, Zwiesel // 
 
-Brauerei Gasthof Hotel Eck, Böbrach
-Drachselsrieder Schlossbräu, Drachselsried
-Falterbräu, Drachselsried
-Ettl-Bräu, Teisnach
-Gesellschaftsbrauerei Viechtach, Viechtach
+Brauerei Gasthof Hotel Eck, Böbrach // 
+Drachselsrieder Schlossbräu, Drachselsried //
+Falterbräu, Drachselsried // 
+Ettl-Bräu, Teisnach // 
+Gesellschaftsbrauerei Viechtach, Viechtach // 
 
-Adam-Bräu, www.adam-braeu.de, Bahnhofstrasse 49-53 // 94249 Bodenmais
-
+Adam-Bräu, www.adam-braeu.de, 94249 Bodenmais // Bahnhofstrasse 49-53 
 
 # -----------------------
 # --  Landkreis Rottal-Inn
 
-Brauerei Büchner, Malgersdorf-Heilmfurt
-Brunner Bräu, Eggenfelden-Spanberg
-Klosterbräu Seemannshausen, Gangkofen-Seemannshausen
-Schlossbrauerei Arnstorf Josef Graf von Deym, Arnstorf
-Schlossbräu Mariakirchen, Arnstorf-Mariakirchen
+Brauerei Büchner, Malgersdorf-Heilmfurt // 
+Brunner Bräu, Eggenfelden-Spanberg // 
+Klosterbräu Seemannshausen, Gangkofen-Seemannshausen //
+Schlossbrauerei Arnstorf Josef Graf von Deym, Arnstorf // 
+Schlossbräu Mariakirchen, Arnstorf-Mariakirchen // 
 

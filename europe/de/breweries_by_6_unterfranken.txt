@@ -14,107 +14,107 @@
 # --------------
 # -- Würzburg
 
-Goldene Gans, Würzburg
-Würzburger Hofbräu, Würzburg
+Goldene Gans, Würzburg // 
+Würzburger Hofbräu, Würzburg // 
 
 
 # -----------------------
 # -- Landkreis Würzburg
 
-Kauzen-Bräu, Ochsenfurt
-Privatbrauerei Oechsner, Ochsenfurt
+Kauzen-Bräu, Ochsenfurt // 
+Privatbrauerei Oechsner, Ochsenfurt // 
 
 
 # -------------------
 # -- Aschaffenburg
 
-Schwind-Bräu, Aschaffenburg-Schweinheim
+Schwind-Bräu, Aschaffenburg-Schweinheim // 
 
 
 # -------------------
 # -- Landkreis Aschaffenburg
 
-Brauhaus Barbarossa, Schöllkrippen
-Bürgerliches Brauhaus Wiesen, Wiesen
-Eder & Heylands Brauerei, Großostheim
+Brauhaus Barbarossa, Schöllkrippen // 
+Bürgerliches Brauhaus Wiesen, Wiesen // 
+Eder & Heylands Brauerei, Großostheim // 
 
 
 # -----------------
 # -- Schweinfurt
 
-Brauerei Roth, Schweinfurt
-Brauhaus Schweinfurt, Schweinfurt
+Brauerei Roth, Schweinfurt // 
+Brauhaus Schweinfurt, Schweinfurt // 
 
 
 # -------------------------------
 # -- Landkreis Schweinfurt
 
-Privatbrauerei Ulrich Martin Schonungen-Hausen
-Wernecker Brauerei, Werneck
+Privatbrauerei Ulrich Martin Schonungen-Hausen // 
+Wernecker Brauerei, Werneck // 
 
 
 # --------------
 # -- Landkreis Bad Kissingen
 
-Museums Brau Gasthaus Jägersruh, Bad Kissingen-Garitz
-Will Bräu - Hochstiftliches Brauhaus in Bayern, Motten
-Wittelsbacher Turm Bräu, Bad Kissingen-Arnshausen
+Museums Brau Gasthaus Jägersruh, Bad Kissingen-Garitz // 
+Will Bräu - Hochstiftliches Brauhaus in Bayern, Motten // 
+Wittelsbacher Turm Bräu, Bad Kissingen-Arnshausen // 
 
 
 # ---------------------------
 # -- Landkreis Haßberge
 
-Adler-Bräu, Stettfeld
-Brauerei Göller, Zeil am Main
-Brauerei Hartleb, Maroldsweisach
-Brauerei Roppelt, Oberaurach-Trossenfurt
-Kommunbrauhaus Unfinden, Königsberg in Bayern-Unfinden
-Privatbrauerei Michael Raab, Hofheim
-Zum grünen Baum, Rauhenebrach-Theinheim
+Adler-Bräu, Stettfeld // 
+Brauerei Göller, Zeil am Main // 
+Brauerei Hartleb, Maroldsweisach // 
+Brauerei Roppelt, Oberaurach-Trossenfurt // 
+Kommunbrauhaus Unfinden, Königsberg in Bayern-Unfinden // 
+Privatbrauerei Michael Raab, Hofheim // 
+Zum grünen Baum, Rauhenebrach-Theinheim // 
 
-Eschenbacher Privatbrauerei, Eltmann-Eschenbach
-Weiß Rössl Bräu, Eltmann-Roßstadt  # Roßstadt ist ein Stadtteil von Eltmann
+Eschenbacher Privatbrauerei, Eltmann-Eschenbach // 
+Weiß Rössl Bräu, Eltmann-Roßstadt  // # Roßstadt ist ein Stadtteil von Eltmann  
 
 
 # ---------------------------
 # -- Landkreis Kitzingen
 
-Albertshöfer Sternbräu, Albertshofen
-Brauerei Düll, Gnodstadt   # Gnodstadt ist ein Ortsteil von Marktbreit
-Privatbrauerei Friedrich Düll, Volkach-Krautheim
-Brauerei Wolf, Rüdenhausen
-Privatbrauerei Kesselring, Marktsteft
-Privatbrauerei Friedrich Düll, Krautheim  # Krautheim ist ein Ortsteil der Stadt Volkach
-Seinsheimer Kellerbräu, Seinsheim
+Albertshöfer Sternbräu, Albertshofen // 
+Brauerei Düll, Gnodstadt //   # Gnodstadt ist ein Ortsteil von Marktbreit
+Privatbrauerei Friedrich Düll, Volkach-Krautheim // 
+Brauerei Wolf, Rüdenhausen // 
+Privatbrauerei Kesselring, Marktsteft // 
+Privatbrauerei Friedrich Düll, Krautheim  //  # Krautheim ist ein Ortsteil der Stadt Volkach
+Seinsheimer Kellerbräu, Seinsheim // 
 
 
 # ---------------------------
 # -- Landkreis Main-Spessart
 
-Arnsteiner Brauerei Max Bender, Arnstein
-Burgbrauerei Herzog von Franken, Thüngen
-Hausbrauerei Höpfl, Steinfeld-Waldzell
-Homburger Bräuscheuere, Triefenstein-Homburg
-Martinsbräu Georg Mayr, Marktheidenfeld
-Pfarrbräu, Karlstadt-Stadelhofen
-Spessart-Brauerei, Kreuzwertheim
-Waldschloss-Brauerei, Frammersbach
+Arnsteiner Brauerei Max Bender, Arnstein // 
+Burgbrauerei Herzog von Franken, Thüngen // 
+Hausbrauerei Höpfl, Steinfeld-Waldzell // 
+Homburger Bräuscheuere, Triefenstein-Homburg // 
+Martinsbräu Georg Mayr, Marktheidenfeld // 
+Pfarrbräu, Karlstadt-Stadelhofen // 
+Spessart-Brauerei, Kreuzwertheim // 
+Waldschloss-Brauerei, Frammersbach // 
 
 
 # ---------------------------
 # -- Landkreis Miltenberg
 
-Brauhaus Faust, Miltenberg
+Brauhaus Faust, Miltenberg // 
 
 
 # ---------------------------
 # -- Landkreis Rhön-Grabfeld
 
-Karmeliter Bräu, Salz
-Klosterbrauerei Kreuzberg, Bischofsheim an der Rhön
-Pax Bräu, Oberelsbach
-Privatbrauerei Lang, Saal an der Saale-Waltershausen
-Rother Bräu, Roth vor der Rhön
+Karmeliter Bräu, Salz // 
+Klosterbrauerei Kreuzberg, Bischofsheim an der Rhön // 
+Pax Bräu, Oberelsbach // 
+Privatbrauerei Lang, Saal an der Saale-Waltershausen // 
+Rother Bräu, Roth vor der Rhön // 
 
-Privatbrauerei Peter, Ostheim vor der Rhön
-Streck-Bräu, Ostheim vor der Rhön
+Privatbrauerei Peter, Ostheim vor der Rhön // 
+Streck-Bräu, Ostheim vor der Rhön // 

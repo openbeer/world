@@ -63,9 +63,9 @@ Brauerei Gasthof Hartmann, 1550, www.brauerei-hartmann.de, Fränkische-Schweiz-S
 # --------------
 # -- Bayreuth
 
-Brauerei Gebrüder Maisel, 1887, Bayreuth
-Bayreuther Bierbrauerei (Maisel), 1857, Bayreuth
-Bayreuther Bio-Brauer (Maisel), Bayreuth
+Brauerei Gebrüder Maisel, 1887, Bayreuth // 
+Bayreuther Bierbrauerei (Maisel), 1857, Bayreuth // 
+Bayreuther Bio-Brauer (Maisel), Bayreuth // 
 
 becherbraeu, Becher Bräu, 1781, www.becherbraeu.de, St.-Nikolaus-Straße 25 // 95445 Bayreuth
 

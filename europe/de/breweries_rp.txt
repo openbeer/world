@@ -1,44 +1,44 @@
 ######################################
 # Breweries in Rheinland-Pfalz [Rhineland-Palatinate]
 
-bitburger, Bitburger Brauerei, 1817, www.bitburger.de, Bitburg
-# brands: Bitburger
+bitburger, Bitburger Brauerei, 1817, www.bitburger.de, Bitburg // 
+  brands: Bitburger
 
 ## add bitburger holding too?
 
 lahnsteiner, Lahnsteiner Brauerei, 1667, www.lahnsteiner-brauerei.de, Sandgasse 1 // 56112 Lahnstein,
-# brands: Lahnsteiner
+  brands: Lahnsteiner
 
 bischoff, Privatbrauerei Bischoff, 1866, www.bischoff-bier.de, An den Hopfengärten 6 // 67722 Winnweiler
-# brands: Bischoff
+  brands: Bischoff
 
 westerwald, Westerwald Brauerei, 1861, www.hachenburger.de, Gehlerter Weg 12 // 57627 Hachenburg
-# brands: Hachenburger
+  brands: Hachenburger
 
 ## fix: just a holding company ?? - todo/fix: use/add parkbrauerei oder bellheimer ?
 parkbellheimer, Park & Bellheimer, 1888, Zweibrücker Straße 2 // 66953 Pirmasens
-# brands: Park, Bellheimer
+  brands: Park, Bellheimer
 #
 # Zusammenschluss zweier regionaler Brauereien,
 # - der Parkbrauerei mit Sitz in Pirmasens
 # und der Bellheimer Privatbrauerei K. Silbernagel AG mit Sitz in Bellheim
 
 
-steffens, Privat-Brauerei Steffens, 1866, Linz am Rhein
+steffens, Privat-Brauerei Steffens, 1866, Linz am Rhein // 
 
-koenigsbacher, Königsbacher Brauerei, 1689, www.koenigsbacher.de, Koblenz
+koenigsbacher, Königsbacher Brauerei, 1689, www.koenigsbacher.de, Koblenz // 
 
-kirner, Kirner Privatbrauerei, 1798, Kirn
+kirner, Kirner Privatbrauerei, 1798, Kirn // 
 
 
 koblenzer, Koblenzer Brauerei, 1689, www.koblenzer-brauerei.de, An der Königsbach 8 // 56075 Koblenz
-# brands: Koblenzer, Königsbacher, Zischke Kellerbier, Nette
+  brands: Koblenzer, Königsbacher, Zischke Kellerbier, Nette
 
-nette, Brauerei zur Nette, 1849, www.nette.de,  Koblenz
+nette, Brauerei zur Nette, 1849, www.nette.de,  Koblenz // 
 
 
 fohr, Privatbrauerei Fohr, 1676, www.fohr.de, An der Brauerei // 56235 Ransbach-Baumbach
-# brands: Fohr
+  brands: Fohr
 
 
 

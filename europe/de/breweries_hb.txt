@@ -15,10 +15,10 @@ haakebeck, Haake-Beck Brauerei, 1826, www.haake-beck.de, Am Deich 18/19 // 28199
 ##############################
 #  Microbreweries / Brewpubs
 
-schuettinger, Schüttinger Gasthausbrauerei (Erste Bremer Gasthausbrauerei), 1990, www.schuettinger.de
+schuettinger, Schüttinger Gasthausbrauerei (Erste Bremer Gasthausbrauerei), 1990, www.schuettinger.de, Bremen // 
 # brands: Schüttinger (Hell, Dunkel, saisonal: Weihnachtsbier, Maibock)
 
-borgfelder, Borgfelder Landhaus, www.borgfelder-landhaus.de
+borgfelder, Borgfelder Landhaus, www.borgfelder-landhaus.de, Bremen // 
 
 
 ##########

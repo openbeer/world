@@ -15,49 +15,49 @@
 # ----------------------------------
 # -- Regensburg
 
-Brauerei Bischofshof, Regensburg
-Fürstliches Brauhaus Thurn und Taxis, Regensburg
-Kneitinger, Regensburg
-Spitalbrauerei, Regensburg
+Brauerei Bischofshof, Regensburg // 
+Fürstliches Brauhaus Thurn und Taxis, Regensburg // 
+Kneitinger, Regensburg // 
+Spitalbrauerei, Regensburg // 
 
 # ----------------------------------
 # -- Landkreis Regensburg
 
-Brauereigasthof Donhauser, Hemau
-Goss, Deuerling
-Privatbrauerei Plank, Laaber
-Prösslbräu in Adlersberg, Pettendorf
-Spezialbrauerei Schierling, Schierling # 100 %-Tochter von Kuchlbauer, Abensberg
-Schlossbrauerei Eichhofen, Nittendorf
+Brauereigasthof Donhauser, Hemau // 
+Goss, Deuerling // 
+Privatbrauerei Plank, Laaber // 
+Prösslbräu in Adlersberg, Pettendorf // 
+Spezialbrauerei Schierling, Schierling //   # 100 %-Tochter von Kuchlbauer, Abensberg
+Schlossbrauerei Eichhofen, Nittendorf // 
 
 
 # ----------------------------------
 # -- Amberg
 
-Bruckmüller, Amberg
-Kummert, Amberg
-Sudhang Hausbrauerei, Amberg
-Privatbrauerei Winkler, 1617, www.brauerei-winkler.de, Schanzgäßchen 6 // 92224 Amberg
+Bruckmüller, Amberg // 
+Kummert, Amberg // 
+Sudhang Hausbrauerei, Amberg // 
+Privatbrauerei Winkler, 1617, www.brauerei-winkler.de, 92224 Amberg // Schanzgäßchen 6  
 
-Schloderer, Amberg
+Schloderer, Amberg // 
 
-Privatbrauerei Sterk, Raigering  # Raigering ist ein Stadtteil von Amberg
+Privatbrauerei Sterk, Raigering //  # Raigering ist ein Stadtteil von Amberg
 
 # ----------------------------------
 # -- Landkreis Amberg-Sulzbach
 
-Schlichter Winkler Bräu, 1528, www.winklerbier.de, Winklergasse 1 // 92249 Vilseck
+Schlichter Winkler Bräu, 1528, www.winklerbier.de, 92249 Vilseck // Winklergasse 1  
 
-fuchsbeck, Brauerei Fuchsbeck, 1834, www.fuchsbeck.de, Hagtor 1 // 92237 Sulzbach-Rosenberg
+fuchsbeck, Brauerei Fuchsbeck, 1834, www.fuchsbeck.de, 92237 Sulzbach-Rosenberg // Hagtor 1 
 
 
-Sperber, Sulzbach-Rosenberg
+Sperber, Sulzbach-Rosenberg // 
 
-Heldrich, Edelsfeld
-Brauerei Märkl, Freudenberg
-Pürner, Etzelwang
-Schlossbrauerei Hirschau, Hirschau
-Schlossbrauerei Holnstein, Neukirchen bei Sulzbach-Rosenberg
+Heldrich, Edelsfeld // 
+Brauerei Märkl, Freudenberg // 
+Pürner, Etzelwang // 
+Schlossbrauerei Hirschau, Hirschau // 
+Schlossbrauerei Holnstein, Neukirchen bei Sulzbach-Rosenberg // 
 
 
 
@@ -65,76 +65,76 @@ Schlossbrauerei Holnstein, Neukirchen bei Sulzbach-Rosenberg
 # -- Weiden
 
 # NB: exit gambrinus in cz and ro
-gambrinusweiden, Gambrinus, Weiden in der Oberpfalz
+gambrinusweiden, Gambrinus, Weiden in der Oberpfalz // 
 
 
 # ----------------------------------
 # -- Landkreis Cham
 
-Alfons Hintereder, Cham
-Zur Luitpoldhöhe, Cham
-Sauer, Cham-Thierlstein
-Drexler Bräu, Pösing
-Dimpflbräu, Furth im Wald
-Genossenschaftsbrauerei, Rötz
-Hofmark Brauerei, Traitsching-Loifling
-Lindner Bräu, Bad Kötzting
-Mühlbauer Brauerei, Arnschwang
-Rhaner Bräu, Schönthal
-Schlossbrauerei Brandl, Runding
-Schröttinger Bräu, Michelsneukirchen
-Späth Bräu, Lohberg
-Späth Bräu, Furth im Wald
+Alfons Hintereder, Cham // 
+Zur Luitpoldhöhe, Cham // 
+Sauer, Cham-Thierlstein // 
+Drexler Bräu, Pösing // 
+Dimpflbräu, Furth im Wald // 
+Genossenschaftsbrauerei, Rötz // 
+Hofmark Brauerei, Traitsching-Loifling // 
+Lindner Bräu, Bad Kötzting // 
+Mühlbauer Brauerei, Arnschwang // 
+Rhaner Bräu, Schönthal // 
+Schlossbrauerei Brandl, Runding // 
+Schröttinger Bräu, Michelsneukirchen // 
+Späth Bräu, Lohberg // 
+Späth Bräu, Furth im Wald // 
 
 
 # ----------------------------------
 # -- Landkreis Neumarkt in der Oberpfalz
 
-lammsbraeu, Neumarkter Lammsbräu, www.lammsbraeu.de, BY, Amberger Straße 1 // 92318 Neumarkt
+lammsbraeu, Neumarkter Lammsbräu, www.lammsbraeu.de, 92318 Neumarkt // Amberger Straße 1  
 
 
-Oberer Ganskeller, Neumarkt in der Oberpfalz
-Glossner, Neumarkt in der Oberpfalz
+Oberer Ganskeller, Neumarkt in der Oberpfalz // 
+Glossner, Neumarkt in der Oberpfalz // 
 
-Bender, Mühlhausen
-Katzerer, Freystadt
-Schuller, Berching
+Bender, Mühlhausen // 
+Katzerer, Freystadt // 
+Schuller, Berching // 
 
-Brauereigasthof Winkler, www.brauereigasthof-winkler.de, Reichenauplatz 22 // 92334 Berching
-Winkler Bräu, www.winkler-braeu.de, St.-Martin-Straße 6 // 92355 Velburg-Lengenfeld
+Brauereigasthof Winkler, www.brauereigasthof-winkler.de, 92334 Berching // Reichenauplatz 22   
+Winkler Bräu, www.winkler-braeu.de, 92355 Velburg-Lengenfeld // St.-Martin-Straße 6 
 
 
 # ----------------------------------
 # -- Landkreis Neustadt an der Waldnaab
 
 
-Behringer Weissbierbrauerei, Vohenstrauß
-Brauerei Bauriedl, Eslarn
-Heberbräu, Kirchenthumbach
-Moosbacher Brauerei, Moosbach
-Pirker Brauhaus, Pirk
-Püttner, Schlammersdorf
-Würth Brauerei, Windischeschenbach
+Behringer Weissbierbrauerei, Vohenstrauß // 
+Brauerei Bauriedl, Eslarn // 
+Heberbräu, Kirchenthumbach // 
+Moosbacher Brauerei, Moosbach // 
+Pirker Brauhaus, Pirk // 
+Püttner, Schlammersdorf // 
+Würth Brauerei, Windischeschenbach // 
 
 
 # ----------------------------------
 # -- Landkreis Schwandorf
 
-naabeck, Schlossbrauerei Naabeck, 1620, BY, www.naabecker.de, Schwandorf
+naabeck, Schlossbrauerei Naabeck, 1620, www.naabecker.de, Schwandorf // 
 
-Brauhaus Nittenau, Nittenau
-Fuchsberger Schlossbrauerei, Teunz
-Jacob, Bodenwöhr
-Weisses Brauhaus Mehringer, Neunburg vorm Wald
+Brauhaus Nittenau, Nittenau // 
+Fuchsberger Schlossbrauerei, Teunz // 
+Jacob, Bodenwöhr // 
+Weisses Brauhaus Mehringer, Neunburg vorm Wald // 
 
 
 # ----------------------------------
 # -- Landkreis Tirschenreuth
 
-Hösl Brauerei, Mitterteich
-Kommunbrauhaus, Mitterteich
-Klosterbrauerei Kemnath, Kemnath
-Brauerei Hans Riedl, Plößberg
-Schlossbrauerei Friedenfels, Friedenfels
-Schloßbrauerei Reuth, Reuth bei Erbendorf
+Hösl Brauerei, Mitterteich // 
+Kommunbrauhaus, Mitterteich // 
+Klosterbrauerei Kemnath, Kemnath // 
+Brauerei Hans Riedl, Plößberg // 
+Schlossbrauerei Friedenfels, Friedenfels // 
+Schloßbrauerei Reuth, Reuth bei Erbendorf // 
 

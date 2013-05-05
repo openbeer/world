@@ -40,16 +40,16 @@
 # -----------------------
 # -- Landkreis Bamberg
 
-Brauhaus Binkert, Westring 5 // 96149 Breitengüßbach
+Brauhaus Binkert, 96149 Breitengüßbach // Westring 5  
 
-Brauerei Schwanen-Bräu, Marktplatz 11 // 96179 Ebing
+Brauerei Schwanen-Bräu, 96179 Ebing // Marktplatz 11 
 
-Wagner-Bräu, Hauptstraße 15 // 96164 Kemmern
+Wagner-Bräu, 96164 Kemmern // Hauptstraße 15  
 
-Brauerei-Gasthof Zur Sonne, Zaugendorfer Straße 4 // 96179 Mürsbach
+Brauerei-Gasthof Zur Sonne, 96179 Mürsbach // Zaugendorfer Straße 4
 
-Brauerei Zum Goldenen Adler, Höfen 21 // 96179 Rattelsdorf
-Freudenecker Fischer-Bräu, Freudeneck 2 // 96179 Rattelsdorf
+Brauerei Zum Goldenen Adler, 96179 Rattelsdorf // Höfen 21  
+Freudenecker Fischer-Bräu, 96179 Rattelsdorf // Freudeneck 2 
 
 
 # ----------------------
