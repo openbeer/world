@@ -1,0 +1,15 @@
+###################
+# Breweries in Bayern [Bavaria]  (BY)
+
+
+oettinger: Oettinger_Brauerei
+
+# big six in Muenchen
+
+augustiner: Augustiner-Bräu
+paulaner:   Paulaner_(Brauerei)
+hackerpschorr: Hacker-Pschorr
+spatenbraeu:   Spatenbräu
+hofbraeu:      Staatliches_Hofbräuhaus
+loewenbraeu:   Löwenbräu
+

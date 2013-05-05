@@ -1,16 +1,3 @@
 ###################
 # Breweries in Bayern [Bavaria]  (BY)
 
-
-######################
-# de.wikipedia
-#
-# oettinger: Oettinger_Brauerei
-#
-# augustiner: Augustiner-Bräu
-# paulaner:   Paulaner_(Brauerei)
-# hackerpschorr: Hacker-Pschorr
-# spatenbraeu:   Spatenbräu
-# hofbraeu:      Staatliches_Hofbräuhaus
-# loewenbraeu:   Löwenbräu
-
