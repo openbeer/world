@@ -1,0 +1,13 @@
+############################
+# Breweries in Olomouc | Central Moravia
+
+
+# Owned by PMS a.s. Přerov
+#  - Pivovar Holba, Pivovar Zubr, Pivovar Litovel
+
+holba,   Pivovar Holba (PMS a.s. Přerov),  1874, www.holba.cz,  Pivovarská 261 // 788 33 Hanušovice
+
+zubr,    Pivovar Zubr (PMS a.s. Přerov), 1872, www.zubr.cz,  Komenského 35 // 750 51 Přerov
+
+litovel, Pivovar Litovel (PMS a.s. Přerov), 1893, www.litovel.cz, Palackého 934 // 784 05  Litovel
+

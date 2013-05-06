@@ -1,0 +1,25 @@
+############################
+# Breweries in Střední Čechy [Central Bohemia] | Central Bohemia
+
+
+kozel, Pivovar Velké Popovice, 1874, www.beer-kozel.cz, Ringhofferova 1 // 251 69  Velké Popovice, sabmiller
+# Velkopopovický Kozel Brewery
+
+
+krusovice, Královský Pivovar Krušovice, 1581, www.krusovice.cz, 270 53 Krušovice //, heineken
+
+
+kutnahora, Pivovar Kutná Hora, 1573, U Lorce 11 // 284 15 Kutná Hora, heineken
+
+
+nymburk, Pivovar Nymburk, 1895, www.postriziny.cz, Pražská 581 // 288 25  Nymburk
+#  Annual production: 149,000 hl (2002)
+
+
+lobkowiczky, Lobkowiczký Pivovar Vysoký Chlumec, 1466, www.lobkowicz.cz, Vysoký Chlumec // 262 52  Vysoký Chlumec
+# Annual production: 109,616 hl (2005)
+
+
+klaster, Pivovar Klášter (Pivovary Lobkowicz), 1570, www.pivovarklaster.cz, 294 15 Klášter Hradiště nad Jizerou // 
+# Annual production: 76,778 hl (2003), 75,000 hl (2004)
+

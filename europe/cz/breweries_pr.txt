@@ -1,0 +1,16 @@
+############################
+# Breweries in Praha [Prague]
+
+staropramen, Pivovary Staropramen [Staropramen Brewery], 1869, www.staropramen.cz, city:praha, Nádražní 84 // 150 54  Praha 5 - Smíchov, abinbev
+# old name -> Pražské pivovary
+
+branik, Pivovar Braník, 1899, city:praha, Údolní 212/1 // 147 00 Praha 4 - Braník
+# Braník *** closed in 2007 ***; now a brand-only (cheaper alternative to Staropramen)
+## todo: add closed flag to brewery or use 1899-2007 or -2007 for closed
+
+
+
+######
+# Microbreweries / Brewpubs
+
+ufleku, U Fleků, 1499, Křemencova 11 // 110 00 Praha 1

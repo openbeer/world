@@ -1,0 +1,19 @@
+############################
+# Breweries in Karlovy Vary | Northwest
+
+
+broumov, Pivovar Broumov, 1348, www.pivovarbroumov.cz, Tř.Osvobození 55 // 550 11  Broumov-Olivětín
+
+
+nachod, Pivovar Náchod, 1872, www.primator.cz, Dobrošovská 130 // 547 40 Náchod
+# Annual production: 135,000 hl (2002)
+
+
+novapaka,  Městský Pivovar Nová Paka, 1872, www.novopackepivo.cz, Pivovarská 400 // 509 01 Nová Paka
+#  Annual production:  71,537 hl (2002)
+
+
+krakonos, Pivovar Krakonoš Trutnov, 1582, www.pivovar-krakonos.cz, Křižíkova 486 // 541 01  Trutnov
+# Annual production: 108,126 hl (2005)
+
+

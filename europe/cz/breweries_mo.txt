@@ -1,0 +1,11 @@
+############################
+# Breweries in Moravskoslezsko [Moravia-Silesia]
+
+
+radegast, Pivovar Radegast, 1970, www.radegast.cz, Nošovice // 739 51  Nošovice, sabmiller
+
+
+ostravar, Pivovar Ostravar, 1897, www.ostravar.cz, Hornopolní 57 // 728 25  Ostrava 1
+## now part of staropramen (just a brand-only ??)
+
+

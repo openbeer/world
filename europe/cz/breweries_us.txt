@@ -1,0 +1,15 @@
+############################
+# Breweries in Ústí nad Labem | Northwest
+
+
+krasnebrezno, Pivovar Krásné Březno, 1867, www.zlatopramen.cz, Drážďanská 80 // 401 73  Ústí nad Labem, heineken
+
+velkebrezno, Pivovar Velké Březno, 1753, Pivovarská 116 // 403 23  Velké Březno, heineken
+
+louny, Pivovar Louny, 1892, Říční 633 // 440 85 Louny, heineken
+
+
+zatecky, Žatecký Pivovar, 1801, www.zateckypivovar.cz, Žižkovo náměstí 81 // 438 01 Žatec
+# Annual production: 27,416 hl  (2005)
+
+

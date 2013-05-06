@@ -1,0 +1,15 @@
+############################
+# Breweries in Plzeň | Southwest
+
+
+
+
+pilsner, Plzeňský Prazdroj [Pilsner Urquell Brewery], 1839, www.pilsner-urquell.cz, city:plzen, U Prazdroje 7 // 304 97  Plzeň, sabmiller
+#  owned by SABMiller
+
+gambrinus, Pivovar Gambrinus, 1869, www.gambrinus.cz, city:plzen, U Prazdroje 7 // 304 97  Plzeň    # Part of Plzeňský Prazdroj [Pilsner Urquell Brewery]
+#  owned by SABMiller
+
+
+chodovar, Chodovar, 1573, www.chodovar.cz,  Pivovarská 107 // 348 13  Chodová Planá
+

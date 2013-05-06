@@ -1,0 +1,26 @@
+############################
+# Breweries in Jižní Čechy [South Bohemia] | Southwest
+
+budweiser, Budějovický Budvar [Budweiser Budvar Brewery], 1895, www.budvar.cz, city:budejovice, Karoliny Světlé 4 // 370 21  České Budějovice    # indie/state owned
+
+samson, Budějovický Měšťanský Pivovar, 1795, www.samson.cz, Lidická 458/51 // 37054 České Budějovice
+# Annual production: 210,000 hl (2003), 198,000 hl (2004)
+# NB: firt name - Die Budweiser Bräuberechtigten - Bürgerliches Bräuhaus - Gegründet 1795
+
+
+eggenberg, Pivovar Eggenberg, 1560, www.eggenberg.cz, Latrán 27 // 381 01  Český Krumlov
+
+
+platan, Městský Pivovar Platan, 1598, www.pivo-platan.cz, Pivovarská 168 // 389 12  Protivín
+# Annual production: 383,450 hl (2005)
+
+
+regent, Bohemia Regent, 1379, www.pivovar-regent.cz, Trocnovské nám. 124 // 379 14  Třeboň
+# Annual production: 81,439 hl (2005)
+
+strakonice, Měšťanský Pivovar Strakonice, 1649, www.pivovar-strakonice.cz, Podskalského 324 // 386 19  Strakonice
+# Annual production: 72,717 hl (2005)
+
+
+
+

@@ -1,0 +1,14 @@
+############################
+# Breweries in Vysočina | Southeast
+
+
+bernard, Bernard Pivo, 1551, www.bernard.cz, 5. května 1 // 396 01  Humpolec
+
+
+havlickuvbrod, Měšťanský Pivovar Havlíčkův Brod, 1834, www.hbrebel.cz, Dobrovského 2027 // 580 01  Havlíčkův Brod
+
+
+jihlava, Pivovar a sodovkárna Jihlava (Pivovary Lobkowicz), 1860, www.pivovar-jihlava.cz,  Vrchlického 2 // 586 01  Jihlava
+# Annual production: 85,850 hl (2002), 87,426 hl (2003)
+
+

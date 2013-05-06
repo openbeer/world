@@ -1,0 +1,15 @@
+############################
+# Breweries in Jižní Morava [South Moravia] | Southeast
+
+
+starobrno, Pivovar Starobrno [Starobrno Brewery], 1872, www.starobrno.com, city:brno, Hlinky 12 // 661 47  Brno, heineken
+
+hostan, Pivovar Hostan, 1363, www.hostan.cz,  Hradní 2 // 669 28  Znojmo, heineken
+
+
+cernahora, Pivovar Černá Hora, 1530, www.pivovarch.cz, Černá Hora 3/5 // 679 21  Č. Hora
+
+vyskov, Pivovar Vyškov, 1680, www.pivovyskov.cz, Čsl. armády 116/4 // 682 11  Vyškov
+# Annual production: 55,000 hl (2005)
+
+
