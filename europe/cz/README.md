@@ -42,7 +42,23 @@
 
 - Porter / 8-9% (19-20° P) => black lager
 
+## Owners
 
+### SABMiller
+
+owns Pilsner Urquell, Velké Popovice, Radegast.
+
+### Heineken
+
+owns Starobrno, Hostan, Krušovice, Velké Březno, Krásné Březno, Louny and Kutna Hora.
+
+### Interbrew (molson coors ??)
+  later merge with the Brazilian AMBEV to become InBev ??
+   owns Staropramen, Branik, Ostravar
+
+###  owned by Pivovary Lobkowicz 
+
+owns for breweries or more ??
 
 ## Production
 

@@ -1,17 +1,31 @@
 breweries:
-- europe/cz/breweries
-- europe/cz/breweries.hl
 - europe/en/breweries
 - europe/ie/breweries
 - europe/ro/breweries
 - europe/sk/breweries
 - europe/sk/breweries.hl
-- north-america/us/breweries
 - north-america/mx/breweries
 - south-america/ar/breweries
 - south-america/br/breweries
 - asia/jp/breweries
 - pacific/au/breweries
+
+breweries_cz:
+- europe/cz/breweries_jc
+- europe/cz/breweries_jm
+- europe/cz/breweries_ka
+- europe/cz/breweries_kr
+- europe/cz/breweries_li
+- europe/cz/breweries_mo
+- europe/cz/breweries_ol
+- europe/cz/breweries_pa
+- europe/cz/breweries_pl
+- europe/cz/breweries_pr
+- europe/cz/breweries_st
+- europe/cz/breweries_us
+- europe/cz/breweries_vy
+- europe/cz/breweries_zl
+- europe/cz/breweries.hl
 
 breweries_at:
 - europe/at/breweries
@@ -47,6 +61,59 @@ breweries_de:
 - europe/de/breweries_st
 - europe/de/breweries_th
 - europe/de/de.wikipedia_by
+
+breweries_us:
+- north-america/us/breweries_ak
+- north-america/us/breweries_al
+- north-america/us/breweries_ar
+- north-america/us/breweries_az
+- north-america/us/breweries_ca
+- north-america/us/breweries_co
+- north-america/us/breweries_ct
+- north-america/us/breweries_dc
+- north-america/us/breweries_de
+- north-america/us/breweries_fl
+- north-america/us/breweries_ga
+- north-america/us/breweries_hi
+- north-america/us/breweries_ia
+- north-america/us/breweries_id
+- north-america/us/breweries_il
+- north-america/us/breweries_in
+- north-america/us/breweries_ks
+- north-america/us/breweries_ky
+- north-america/us/breweries_la
+- north-america/us/breweries_ma
+- north-america/us/breweries_md
+- north-america/us/breweries_me
+- north-america/us/breweries_mi
+- north-america/us/breweries_mn
+- north-america/us/breweries_mo
+- north-america/us/breweries_ms
+- north-america/us/breweries_mt
+- north-america/us/breweries_mc
+- north-america/us/breweries_nd
+- north-america/us/breweries_ne
+- north-america/us/breweries_nh
+- north-america/us/breweries_nj
+- north-america/us/breweries_nm
+- north-america/us/breweries_nv
+- north-america/us/breweries_ny
+- north-america/us/breweries_oh
+- north-america/us/breweries_ok
+- north-america/us/breweries_or
+- north-america/us/breweries_pa
+- north-america/us/breweries_ri
+- north-america/us/breweries_sc
+- north-america/us/breweries_sd
+- north-america/us/breweries_tn
+- north-america/us/breweries_tx
+- north-america/us/breweries_ut
+- north-america/us/breweries_va
+- north-america/us/breweries_vt
+- north-america/us/breweries_wa
+- north-america/us/breweries_wi
+- north-america/us/breweries_wv
+- north-america/us/breweries_wy
 
 
 europe:
