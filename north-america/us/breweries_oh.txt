@@ -1,0 +1,8 @@
+#########################################################
+# Breweries in Ohio (OH) | Midwest - East North Central
+
+
+greatlakes, Great Lakes Brewing Co.|Great Lakes Brewing Company, OH, Cleveland | OH // 
+fatheads,   Fat Head's Brewery, OH, North Olmsted | OH // 
+hoppinfrog, Hoppin' Frog Brewery, OH, Akron | OH // 
+

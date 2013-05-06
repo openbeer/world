@@ -1,0 +1,29 @@
+############################################
+# Breweries in California (CA) | Pacific - West
+
+
+stonebrewing,    Stone Brewing Co., CA, Escondido | CA //
+lagunitas,       Lagunitas Brewing Co.|Lagunitas Brewing Company, CA, Petaluma | CA //
+sierranevada,    Sierra Nevada Brewing Co., CA, Chico | CA //
+greenflash,      Green Flash Brewing Co., CA, San Diego | CA //
+firestonewalker, Firestone Walker Brewing Co.|Firestone Walker Brewing Company, CA, Paso Robles | CA //
+ballastpoint,    Ballast Point Brewing, CA, San Diego | CA //
+bearrepublic,    Bear Republic Brewing Co., CA, Healdsburg | CA //
+thebruery,       The Bruery, CA, Placentia | CA //
+andersonvalley,  Anderson Valley Brewing Co.|Anderson Valley Brewing Company, CA, Boonville | CA //
+anchorbrewing,   Anchor Brewing Co.|Anchor Brewing Company, CA, San Francisco | CA //
+alesmith,        AleSmith Brewing Co.|AleSmith Brewing Company, CA, San Diego | CA //
+speakeasy,       Speakeasy Ales and Lagers, CA, San Francisco | CA //
+lostcoast,       Lost Coast Brewery, CA, Eureka | CA //
+bjsbrewhouse,    BJ's Brewhouse, CA, Huntington Beach | CA //
+kneedeep,        Knee Deep Brewing Co.|Knee Deep Brewing Company, CA, Lincoln | CA //
+goldenroad,      Golden Road Brewing, CA, Los Angeles | CA //
+shmaltz,         Shmaltz Brewing Co.|Shmaltz Brewing Company, CA, San Francisco | CA //
+hangar24,        Hangar 24 Craft Brewery, CA, Redlands | CA //
+bootleggers,     Bootlegger's Brewery, CA, Fullerton | CA //
+moylans,         Moylan's Brewery, CA,  Novato | CA //
+karlstrauss,     Karl Strauss Brewing Co.|Karl Strauss Brewing Company, CA, San Diego | CA //
+pizzaport,       Pizza Port, CA, Carlsbad | CA //
+drakes,          Drake's Brewing Co.|Drake's Brewing Company, CA, San Leandro | CA //
+societebrewing,  Societe Brewing Co., CA, San Diego | CA //
+

@@ -1,0 +1,12 @@
+#########################################################
+# Breweries in Maryland (MD) | South - South Atlantic
+
+
+flyingdog, Flying Dog Brewery, MD, Frederick | MD //
+
+Heavy Seas Beer, MD, Baltimore | MD // 
+DuClaw Brewing Co.|DuClaw Brewing Company, MD, Bel Air | MD // 
+Stillwater Artisanal Ales, MD, Baltimore | MD // 
+Evolution Craft Brewing Co.|Evolution Craft Brewing Company, MD, Salisbury | MD // 
+
+

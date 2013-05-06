@@ -1,0 +1,7 @@
+##############################################################
+# Breweries in Louisiana (LA) | South - West South Central
+
+
+dixie, Dixie Brewing Co.|Dixie Brewing Company, 1907, LA, city:neworleans, New Orleans | LA 70119 // 2401 Tulane Ave. // 
+abita, Abita Brewing Co.|Abita Brewing Company, LA, Abita Springs | LA // 
+

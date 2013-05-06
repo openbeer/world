@@ -1,0 +1,14 @@
+#########################################################
+# Breweries in Illinois (IL) | Midwest - East North Central
+
+
+pabst, Pabst Brewing Co.|Pabst Brewing Company, IL, Woodridge | IL // 
+
+gooseisland, Goose Island Beer Co.|Goose Island Beer Company, 1988, IL, city:chicago, Chicago | IL 60612 // 1800 West Fulton St. // 
+twobrothers, Two Brothers Brewing Co.|Two Brothers Brewing Company, IL, Warrenville | IL // 
+halfacre,    Half Acre Beer Co.|Half Acre Beer Company, IL, Chicago | IL // 
+pipeworks,   Pipeworks Brewing Co.|Pipeworks Brewing Company, IL, Chicago | IL // 
+finch,       Finch's Beer Co.|Finch's Beer Company, IL, Chicago | IL // 
+
+
+

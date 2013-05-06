@@ -1,0 +1,8 @@
+##########################################################
+# Breweries in Massachusetts (MA) | Northeast - New England
+
+
+boston,       Boston Beer Co. (Samuel Adams)|Boston Beer Company, 1984, MA, city:boston, Boston | MA 02130 // 30 Germania St.
+clownshoes,   Clown Shoes, MA, Ipswich | MA // 
+harpoon,      Harpoon Brewery, MA, Boston | MA //
+prettythings, Pretty Things Beer & Ale Project, MA, Somerville | MA // 

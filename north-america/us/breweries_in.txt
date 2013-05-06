@@ -1,0 +1,8 @@
+#########################################################
+# Breweries in Indiana (IN) | Midwest - East North Central
+
+
+threefloyds,   Three Floyds Brewing Co.|Three Floyds Brewing Company, IN, Munster | IN // 
+sunking,       Sun King Brewing Co, IN, Indianapolis | IN // 
+uplandbrewing, Upland Brewing Co.|Upland Brewing Company, IN, Bloomington | IN //
+

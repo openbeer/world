@@ -1,0 +1,12 @@
+#########################################################
+# Breweries in Michigan (MI) | Midwest - East North Central
+
+
+founders,    Founders Brewing Co.|Founders Brewing Company, MI, Grand Rapids | MI // 
+bells,       Bell's Brewery|Bell's Brewery Inc., MI, Galesburg/Comstock & Kalamazoo | MI // 
+newholland,  New Holland Brewing Co.|New Holland Brewing Company, MI, Holland | MI // 
+greenbush,   Greenbush Brewing Co.|Greenbush Brewing Company, MI, Sawyer | MI // 
+shorts,      Short's Brewing Co.|Short's Brewing Company, MI, Bellaire | MI // 
+arcadia,     Arcadia Brewing Company (Arcadia Ales), MI, Battle Creek | MI // 
+
+

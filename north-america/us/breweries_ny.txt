@@ -1,0 +1,13 @@
+####################################################
+# Breweries in New York (NY) | Northeast - Mid Atlantic
+
+
+brooklyn,        Brooklyn Brewery, 1987, NY, city:newyork, Brooklyn | NY 11249 // #1 Brewers Row // 79 N 11th St.
+sixpoint,        Sixpoint Brewery, NY, Brooklyn | NY // 
+southerntier,    Southern Tier Brewing Co.|Southern Tier Brewing Company, NY, Lakewood | NY // 
+ommegang,        Brewery Ommegang, NY, Cooperstown | NY // 
+bluepoint,       Blue Point Brewing Co.|Blue Point Brewing Company, NY, Patchogue | NY // 
+captainlawrence, Captain Lawrence Brewing Co.|Captain Lawrence Brewing Company, NY, Elmsford | NY // 
+ithaca,          Ithaca Beer Co.|Ithaca Beer Company, NY, Ithaca | NY // 
+
+
