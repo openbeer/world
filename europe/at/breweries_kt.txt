@@ -1,0 +1,19 @@
+###############################################################
+# Breweries in Kärnten [Carinthia] (K/KT) / Southern Austria
+
+
+hirt, Brauerei Hirt, 1270, www.hirterbier.at, KT, 9322 Micheldorf // Hirt 9, city:micheldorf
+
+villacher, Vereinigte Kärntner Brauereien, www.villacher.com,  KT, 9500 Villach // Brauhausgasse 6, city:villach
+
+schleppe, Schleppe Brauerei (Vereinigte Kärntner Brauereien), 1607, www.schleppe.at, KT, 9020 Klagenfurt // Schleppeplatz 1
+
+
+####
+# Microbreweries
+
+loncium, Privatbrauerei Loncium, www.loncium.at, KT, 9640 Kötschach-Mauthen // Mauthen 60
+
+wimitz, Wimitzbräu, www.wimitzbraeu.com, KT, 9311 Kraig // Wimitz 7
+
+

@@ -1,0 +1,12 @@
+#####################################################
+# Breweries in Vorarlberg (V/VB) / Western Austria
+
+
+
+mohren, Mohrenbrauerei, www.mohrenbrauerei.at,  1834, VB, 6850 Dornbirn // Dr.-Waibel-Straße 2, city:dornbirn
+
+fohrenburg, Brauerei Fohrenburg, 1881, www.fohrenburg.at, VB, 6700 Bludenz // Fohrenburgstraße 5, city:bludenz
+
+egg, Brauerei Egg, 1894, www.brauerei-egg.at, VB, 6863 Egg // Gerbe 500
+
+frastanz, Vorarlberger Brauereigenossenschaft Frastanz, 1902, www.frastanzer.at, VB, 6820 Frastanz // 

@@ -1,0 +1,24 @@
+#########################################################
+# Breweries in Tirol [Tyrol] (T/TI) / Western Austria
+
+
+falkenstein, Brauerei Falkenstein (Brau Union), TI, 9900 Lienz // Pußtertaler Straße 40, brauunion
+
+
+####
+# Microbreweries
+
+brangerbraeu, Branger Bräu, 1993, www.brangeralm.at, TI, 6175 Unterperfuß/Innsbruck // Unterperfuß 32
+
+## NB: baumgartner key already in use for at/oo
+baumgartnerinnsbruck, Brauerei Harald Franz Baumgartner, TI, 6020 Innsbruck // Feldstraße 11a
+
+starkenberg, Brauerei Schloß Starkenberg, 1810, www.starkenberg.at, TI, 6464 Tarrenz // Griesegg 1
+
+zillertal, Brauhaus Simon Strasser, 1509, www.zillertal-bier.at, TI, 6280 Zell am Ziller // Bräuweg 1   # Zillertal Bier
+
+huberbraeu, Familienbrauerei Huber, 1727, www.huberbraeu.at, TI, 6380 St. Johann // Brauweg 2
+
+kristall, Kristall Brauerei, TI, 6236 Alpach // Inneralpbach 431
+
+vilser, Vilser Privatbrauerei, www.vilserprivatbrauerei.at, TI, 6682 Vils // Stadtgasse 2
