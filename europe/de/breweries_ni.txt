@@ -8,7 +8,7 @@ jever, Friesisches Brauhaus zu Jever, 1848, NI, city:jever, Elisabethufer 18 // 
 
 
 ## todo: check for , in title for autokey (allow keys starting with underscore!! use _50bier (avoid starting w/ digits? better why? why not??))
-fix50bier, 5,0 Biervertrieb, www.5-0-original.de, Böcklerstrasse 31 // 38102 Braunschweig
+fix50bier, 5\,0 Biervertrieb, www.5-0-original.de, Böcklerstrasse 31 // 38102 Braunschweig
 
 artland, Artland Brauerei, www.artland-brauerei.de, Nortrup // 
 

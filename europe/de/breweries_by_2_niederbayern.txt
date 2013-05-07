@@ -46,7 +46,7 @@ Weizenbierbrauerei Andorfer, Passau-Ries //
 # -----------------------
 # -- Landkreis Passau
 
-Bayerische Löwenbrauerei Franz Stockbauer, Zweigniederlassung Schlossbrauerei Haselbach, Schloss Haselbach // 
+Bayerische Löwenbrauerei Franz Stockbauer (Schlossbrauerei Haselbach), Schloss Haselbach //   #  Zweigniederlassung  
 Brauerei Aldersbach Freiherr von Aretin, Aldersbach // 
 Brauerei Wolferstetter Georg Huber, Vilshofen an der Donau // 
 Brauhaus Aidenbach Woerlein, Aidenbach // 
@@ -146,7 +146,7 @@ Ziegler Bräu, Mainburg //
 # -----------------------
 # --  Landkreis Regen
 
-Privatbrauerei J. B. Falter, Regen
+Privatbrauerei J. B. Falter, Regen // 
 
 zwiesel, 1. Dampfbierbrauerei Zwiesel, www.dampfbier.de, 94227 Zwiesel // Regener Straße 9 
 

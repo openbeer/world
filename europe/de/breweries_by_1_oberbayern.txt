@@ -62,7 +62,7 @@ Westparkbräu/Brauhaus 1516, Ingolstadt //
 
 Auerbräu, Rosenheim //
 Chiemgauer Brauhaus, Rosenheim //
-Flötzinger Bräu, Privatbrauerei Franz Steegmüller, Rosenheim //
+Flötzinger Bräu (Privatbrauerei Franz Steegmüller), Rosenheim //
 
 
 # ---------------
@@ -116,7 +116,7 @@ Tobiasbräu, Ried bei Markt Indersdorf //
 # ---------------
 # --  Landkreis Ebersberg
 
-Herrmannsdorfer Schweinsbräu, Naturtrübbrauerei, Glonn //
+Herrmannsdorfer Schweinsbräu (Naturtrübbrauerei), Glonn //
 Privatbrauerei Schweiger, Markt Schwaben // 
 Wildbräu Grafing, Grafing bei München //
 

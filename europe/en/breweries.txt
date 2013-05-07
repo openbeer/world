@@ -1,3 +1,4 @@
-## todo/fix:   support , in brewery name!! e.g. fuller, smith
 
-fullers, Fuller; Smith & Turner|Fuller; Smith & Turner P.L.C., 1845, city:london, The Griffin Brewery // Chiswick Lane South // London // W4 2QB
+fuller, Fuller\, Smith & Turner, 1845, city:london, The Griffin Brewery // Chiswick Lane South // London | W4 2QB
+  brands: Fuller's
+

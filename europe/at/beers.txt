@@ -39,8 +39,7 @@ Wieselburger Stammbräu, 5.4%, 12.6°,  by:wieselburg
 Kaiser Fasstyp,      5.0%, 11.6°,  www.kaiserbier.at,  by:wieselburg, maerzen
 Kaiser Goldquell,    5.7%, 12.8°,  by:wieselburg
 
-## fix: allow . in title (strip for autokey e.g. becomes kaiser29 ??)
-# Kaiser 2.9 %,        2.9%,  9.2°,  by:wieselburg
+Kaiser 2.9 %,        2.9%,  9.2°,  by:wieselburg
 Kaiser Premium,      5.4%, 12.2°,  by:wieselburg
 Kaiser Doppelmalz,   4.7%, 12.8°,  by:wieselburg
 
@@ -70,7 +69,7 @@ Grieskirchner Weisse Hell,   5.1%, 12.2°, by:grieskirchen
 
 
 Zipfer Urtyp,        5.4%, 12.2°, by:zipf    # main/bestseller brand
-Zipfer Urtyp Medium, 3.0%,  9,5°, by:zipf
+Zipfer Urtyp Medium, 3.0%,  9.5°, by:zipf
 Zipfer Märzen,       5.0%, 11.8°, by:zipf
 Zipfer Pils,         5.2%, 11.8°, by:zipf
 Zipfer Josefi Bock,  7.1%, 16.2°, by:zipf
