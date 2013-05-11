@@ -12,3 +12,15 @@ Die nach Absatz größte Brauerei ist
 - gefolgt von der landeseigenen Rothaus-Brauerei,
 - Dinkelacker-Schwabenbräu
 - und Stuttgarter Hofbräu.
+
+## Brauer Verbaende
+
+- [Baden-Württembergischer Braubund (BWB)](http://www.einfach-besser-bier.de)
+
+
+## Links
+
+### Wikipedia
+
+- [Liste_der_Brauereien_in_Baden-Württemberg](http://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Baden-Württemberg)
+

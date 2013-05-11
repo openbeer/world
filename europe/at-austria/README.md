@@ -1,9 +1,39 @@
+# Beers n Breweries in Austria
+
+## Intro
+
+67 Brauereien bzw. über 100 Gasthausbrauereien produzieren
+an die 700 verschiedene Biere!
+
+Knapp 110 Liter pro Person bedeuten nach Tschechien
+und erstmals vor Deutschland den zweithöchsten Konsum weltweit.
+
 
 ## Language - Hopfen & Malz - Gott erhalt's
 
 - Bier  => Beer
 - Prost! => Cheers
 - Beisl => Pub
+- Gasthausbrauerei|Hausbrauerei|Brauhaus|<X> Bräu => Brewbup 
+- Kleinbrauerei|Brauhaus  => Microbrewery
+  -- z.B Wiener Brauhaus, Wiener Kleinbrauerei  => Viennese Microbrewery
+
+- check - Microbrewery <=> Brewbup ??
+
+A brewpub may also be known as a microbrewery
+if production has a significant distribution beyond the premises.
+
+A brewpub is a pub or restaurant that brews beer on the premises.
+
+-  Braustätte (allg. Begriff)
+   - Großbrauerei|Brauerei
+   - Brauhaus
+   - Gasthausbrauerei
+   - <X> Bräu (zB Salm Bräu)
+
+
+- Kleinbrauerei mit Schenke/mit Ausschank 
+
 
 
 ### Styles
@@ -66,3 +96,29 @@ Export - 713_300 hl
   - [Austrian Breweries Introduction](http://www.europeanbeerguide.net/austintr.htm)
   - [Austrian Breweries Listings (A-N)](http://www.europeanbeerguide.net/austbrew.htm)
   - [Austrian Breweries Listings (O-Z)](http://www.europeanbeerguide.net/austbrw2.htm)
+
+## Books / Bücher
+
+### Bier Guide 2013 (2012, 2011, ...) / Österreichs beste Bierlokale / Conrad Seidl ("Bierpapst")
+
+#### Ausgabe 2013
+
+Taschenbuch: 428 Seiten
+Verlag: medianet; 14. Auflage - April 2013
+Preis: € 14,90
+ISBN-13: 978-3-90284-332-6
+
+#### Ausgabe 2012
+
+Taschenbuch: 388 Seiten
+Verlag: medianet; 13. Auflage - März 2012
+ISBN-13: 978-3-90284-316-6
+
+
+### Das österreichische Bierbuch / Sepp Wejwar ("Biersepp") / 2009
+
+Gebundene Ausgabe: 176 Seiten
+Verlag: Hubert Krenn; 1. Auflage - April 2009
+Preis: € 24,90
+ISBN:978-3-99005-000-2
+
