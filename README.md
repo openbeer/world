@@ -39,7 +39,7 @@ The `beer.db` includes the following tables:
 
 * beers       (belongs to brewery n brand)          e.g. Guiness Extra Stout
 * brands      (has many beers; belongs to brewery)  e.g. Guiness
-* breweries   (has many brands n beers)             e.g. Guiness 
+* breweries   (has many brands n beers)             e.g. St. James's Gate Brewery / Guinness Brewery
 * tags                                              e.g. irish_dry_stout, stout
 * taggings (join table)
 
@@ -92,8 +92,8 @@ Dixie Blackened Voodoo|Dixie Blackened Voodoo Lager,  5.0%, by:dixie,  munich_du
 
 ## Alternatives
 
-- [BreweryDB.com](http://www.brewerydb.com) -  beer and brewery data api by PintLabs Inc - (free demo; $ for use; API use only - no database available for download)
-- [Open Beer Database (`openbeerdatabase.com`)](http://openbeerdatabase.com)  - free, public beer and brewery data API (API use only - no database available for download)
+- [BreweryDB.com](http://www.brewerydb.com) -  beer and brewery data API by PintLabs Inc - (API use only - no database available for download; free demo; $ for use)
+- [Open Beer Database (`openbeerdatabase.com`)](http://openbeerdatabase.com)  - free, public beer and brewery data API by Tristan Dunn (work-in-progress; API use only - no database available for download)
 - [Open Beer Database (`openbeerdb.com`)](http://openbeerdb.com)  - free, public beer and brewery database (archive, no longer active)
 
 ## License
