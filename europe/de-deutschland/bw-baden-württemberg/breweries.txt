@@ -1,24 +1,12 @@
 ######################################
 #  Breweries Baden-Württemberg (BW)
 
-# In Baden-Württemberg gab es Ende 2006 nach Angaben
-# des Statistischen Bundesamtes insgesamt 180 Brauereien
-#  womit das Bundesland nach Bayern an zweiter Stelle in Deutschland steht.
-#
-# Mit einem Bierausstoß von 7,7 Mio. Hektoliter belegt
-# Baden-Württemberg den sechsten Platz.
-# Die nach Absatz größte Brauerei ist
-#  - Eichbaum
-#  - gefolgt von der landeseigenen Rothaus-Brauerei,
-#  - Dinkelacker-Schwabenbräu
-#  - und Stuttgarter Hofbräu.
-#
+
 # Four Sections:
 # - Regierungsbezirk Freiburg
 # - Regierungsbezirk Karlsruhe
 # - Regierungsbezirk Stuttgart
 # - Regierungsbezirk Tübingen
-
 
 
 ###############
@@ -72,13 +60,3 @@ stuttgarterhofbraeu, Stuttgarter Hofbräu, 1872, www.stuttgarter-hofbraeu.de, 70
 # -- Regierungsbezirk Tübingen
 
 
-
-
-################
-# de.wikipedia
-#
-#  rothaus:             Badische_Staatsbrauerei_Rothaus
-#  eichbaum:            Privatbrauerei_Eichbaum
-#  dinkelacker:         Dinkelacker
-#  schwabenbraeu:       Schwabenbräu
-#  stuttgarterhofbraeu: Stuttgarter_Hofbräu
