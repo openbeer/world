@@ -1,0 +1,47 @@
+##############################
+# Oberösterreich
+
+Grieskirchner Pils,          4.8%, 11.2°, by:grieskirchen
+Grieskirchner Märzen,        5.0%, 11.8°, by:grieskirchen
+Grieskirchner Export Dunkel, 5.0%, 12.4°, by:grieskirchen
+Grieskirchner Weisse Hell,   5.1%, 12.2°, by:grieskirchen
+
+
+Zipfer Urtyp,        5.4%, 12.2°, by:zipf    # main/bestseller brand
+Zipfer Urtyp Medium, 3.0%,  9.5°, by:zipf
+Zipfer Märzen,       5.0%, 11.8°, by:zipf
+Zipfer Pils,         5.2%, 11.8°, by:zipf
+Zipfer Josefi Bock,  7.1%, 16.2°, by:zipf
+Zipfer Doppel Gold,  5.7%, 12.8°, by:zipf
+Zipfer Kellerbier,   5.6%, 12.2°, by:zipf       # ungefiltert|naturtrüb
+
+
+Kapsreiter (Landbier) Hell,  5.3%, 12.8°, by:kapsreiter
+
+Schloss Eggenberg (Classic) Märzen,    4.9%, 11.7°,  by:schlosseggenberg, maerzen
+Schloss Eggenberg Gold Spezial,        5.3%, 12.6°,  by:schlosseggenberg, spezial
+Schloss Eggenberg Hopfenkönig,         5.1%, 11.7°,  by:schlosseggenberg, pils
+Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°,  by:schlosseggenberg
+Schloss Eggenberg Naturtrüb,           5.2%, 11.7°,  by:schlosseggenberg, zwickl
+Schloss Eggenberg Urbock 23°,          9.6%, 23°,    by:schlosseggenberg, starkbier
+Samichlaus,               14%, 28°,  by:schlosseggenberg
+
+
+Schnaitl Naturtrüb, 5.1%, 11.8°, by:schnaitl               # Bittereinheiten: 20 IBU
+Schnaitl Bock|Schnaitl Festbock, 7.5%, 16.8°, by:schnaitl  # Bittereinheiten: 28 IBU
+
+Uttendorfer Pils, by:vitzthum
+Uttendorfer Märzen, by:vitzthum   # ist Halb Dunkel??
+
+Freistädter Rattsherrn, 5.2%, 12.2°, by:freistaedter
+
+Schlägl Abtei Pils, 5.2%, 12.5°,  by:schlaegl
+
+
+Baumgartner Märzen,     5.1%, 12.2°,  by:baumgartner
+Baumgartner Doppelmalz, 5.1%, 13.7°,  by:baumgartner
+Baumgartner Pils,       4.8%, 11.8°,  by:baumgartner
+Baumgartner Export,     5.7%, 13.5°,  by:baumgartner
+Baunti 1609 Lager,      5.0%, 12.0°,  by:baumgartner
+Baumgartner Zwickl,     5.1%, 12.2°,  by:baumgartner  # naturtrüb|unfiltriert
+

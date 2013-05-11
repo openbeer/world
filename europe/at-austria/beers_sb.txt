@@ -1,0 +1,21 @@
+#############
+# Salzburg
+
+Stiegl, by:stiegl
+Stiegl Goldbräu, by:stiegl
+Stiegl Weizengold, by:stiegl
+
+
+Trumer Pils,   4.9%, 11.5°,  by:trumer, lager|pils
+Trumer Märzen, 4.8%, 11.8°,  by:trumer, lager|maerzen
+
+
+Augustiner Märzen,  4.6%,  12°,   by:augustinersbg
+Augustiner Bock,    6.5%,  16.5°, by:augustinersbg
+
+# todo: use brauunion brewery froms salzburg - kaltenhausen ??
+Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, by:kaltenhausen, weissbier
+Edelweiss Hofbräu,   4.5%, 11.8°, by:kaltenhausen, weissbier
+Edelweiss Dunkel,    5.3%, 12.3°, by:kaltenhausen, weissbier
+Edelweiss Gamsbock,  7.1%, 16.2°, by:kaltenhausen, weissbier
+

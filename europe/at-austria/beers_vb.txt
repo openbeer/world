@@ -1,0 +1,18 @@
+#####################
+# Vorarlberg
+
+Mohren Pils, by:mohren
+Mohren Ländle, by:mohren
+Mohren Zwickl, by:mohren
+
+Fohrenburger Jubiläum,  5.5%, 12.8°, by:fohrenburg   # Spezialbier
+Fohrenburger Stiftle,   4.8%, 11.8°, by:fohrenburg
+Fohrenburger Märzen,    4.8%, 11.8°, by:fohrenburg
+Fohrenburger Keller Naturtrüb, 5.3%, 12.7°, by:fohrenburg    # Spezialbier
+Fohrenburger Weizen,    5.2%, 12.5°,  by:fohrenburg, weizenbier
+Fohrenburger Dunkles,   5.5%, 12.7°,  by:fohrenburg,  #  Dunkles Spezialbier
+Fohrenburger Bock,      7.2%, 16.2°,  by:fohrenburg
+Fohrenburger Pils,      4.8%, 11.7°,  by:fohrenburg  # Vollbier
+
+Engelburg Bräu, 4.2%, 9.9°, by:fohrenburg     # Schankbier
+

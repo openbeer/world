@@ -1,0 +1,28 @@
+##############################
+# Steiermark
+
+Gösser Märzen,  5.2%, 11.8°, by:goesser     # main/bestseller brand (70%)
+Gösser Gold,    5.3%, 12.2°, by:goesser
+Gösser Spezial, 5.7%, 13.2°, by:goesser
+Gösser Zwickl,  5.2%, 11.8°, by:goesser
+Gösser Dunkles Zwickl,  5.7%, 13.2°, by:goesser
+Gösser Bock,    7.1%, 16.2°, by:goesser   # ausschließlich für die Weihnachtszeit gebraut
+Gösser Stiftsbräu, 4.2%, 11.8°, by:goesser
+
+
+Puntigamer Panther,               5.2%, 12.1°, by:puntigam   # main/bestseller brand 
+Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, by:puntigam,  maerzen
+Puntigamer Winterbier,            6.0%, 13.8°, by:puntigam
+
+Reininghaus Märzen,              5.0%, 11.8°,  by:puntigam # ST, city:graz, by:brauunion
+Reininghaus Pils,                4.8%, 11.4°,  by:puntigam # ST, city:graz, by:brauunion
+Reininghaus Jahrgangs-Pils 2012, 4.9%, 11.3°,  by:puntigam # ST, city:graz, by:brauunion   # origin: Reininghaus Familie/Adel/Graf aus Graz?
+Reininghaus Malz,                4.5%, 11.8°,  by:puntigam # ST, city:graz, by:brauunion
+
+Schladminger Märzen,             5.1%, 11.7°,  by:schladminger
+Schladminger Schnee Weiße,       5.0%, 12.2°,  by:schladminger, weizenbier
+Schladminger BioZwickl,          5.2%, 11.9°,  by:schladminger
+Schladminger Sepp,               5.1%, 11.7°,  by:schladminger
+
+Murauer, by:murau
+Murauer Märzen, by:murau

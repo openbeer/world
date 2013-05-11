@@ -1,0 +1,12 @@
+##############################
+# Wien
+
+Ottakringer Helles,                  5.2 %, 11.8°, by:ottakringer
+Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°, by:ottakringer
+Ottakringer (Gold Fassl) Pils,       4.6 %, 11.2°, by:ottakringer
+Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, by:ottakringer, bio
+Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°, by:ottakringer
+Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°, by:ottakringer
+Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°, by:ottakringer
+Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°, by:ottakringer
+
