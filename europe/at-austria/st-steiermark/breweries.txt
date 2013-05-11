@@ -12,9 +12,9 @@ puntigam, Brauerei Puntigam (Brau Union), www.puntigamer.at, ST, 8055 Graz // Tr
 schladminger, Schladminger Brau (Brau Union), 1909, www.schladmingerbier.at, ST, 8970 Schladming // Hammerfeldweg 163, city:schladming, brauunion
   brands: Schladminger
 
-murau, Obermurtaler Brauerei|Brauerei Murau, www.murauerbier.at, ST, 8850 Murau // Raffaltplatz 19-23, city:murau
+murau, Brauerei Murau|Obermurtaler Brauerei, www.murauerbier.at, ST, 8850 Murau // Raffaltplatz 19-23, city:murau
   brands: Murauer
-
+## todo: check if name Obermurtaler Brauerei is still in use?
 
 ####
 # Microbreweries
