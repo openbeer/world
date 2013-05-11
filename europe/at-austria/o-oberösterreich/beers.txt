@@ -24,7 +24,7 @@ Schloss Eggenberg Hopfenkönig,         5.1%, 11.7°,  by:schlosseggenberg, pils
 Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°,  by:schlosseggenberg
 Schloss Eggenberg Naturtrüb,           5.2%, 11.7°,  by:schlosseggenberg, zwickl
 Schloss Eggenberg Urbock 23°,          9.6%, 23°,    by:schlosseggenberg, starkbier
-Samichlaus,               14%, 28°,  by:schlosseggenberg
+Samichlaus,               14%, 28°, c:40, by:schlosseggenberg,  starkes_lager 
 
 
 Schnaitl Naturtrüb, 5.1%, 11.8°, by:schnaitl               # Bittereinheiten: 20 IBU
@@ -34,9 +34,11 @@ Uttendorfer Pils, by:vitzthum
 Uttendorfer Märzen, by:vitzthum   # ist Halb Dunkel??
 
 Freistädter Rattsherrn, 5.2%, 12.2°, by:freistaedter
+Freistädter Rauchbier, 5.3%, 12.3°, c:14, by:freistaedter, rauchbier
+
 
 Schlägl Abtei Pils, 5.2%, 12.5°,  by:schlaegl
-
+Schlägl Stifter Bier, 5.7%, 12.4°, c:23-25, by:schlaegl # vollbier (obergaerig d.h. nicht lager)
 
 Baumgartner Märzen,     5.1%, 12.2°,  by:baumgartner
 Baumgartner Doppelmalz, 5.1%, 13.7°,  by:baumgartner
@@ -45,3 +47,5 @@ Baumgartner Export,     5.7%, 13.5°,  by:baumgartner
 Baunti 1609 Lager,      5.0%, 12.0°,  by:baumgartner
 Baumgartner Zwickl,     5.1%, 12.2°,  by:baumgartner  # naturtrüb|unfiltriert
 
+
+Rieder Weißbierbock,  6.5%, 16.5°, c:8,  by:ried, weizenbock

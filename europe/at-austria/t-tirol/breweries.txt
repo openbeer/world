@@ -16,6 +16,7 @@ baumgartnerinnsbruck, Brauerei Harald Franz Baumgartner, TI, 6020 Innsbruck // F
 starkenberg, Brauerei Schloß Starkenberg, 1810, www.starkenberg.at, TI, 6464 Tarrenz // Griesegg 1
 
 zillertal, Brauhaus Simon Strasser, 1509, www.zillertal-bier.at, TI, 6280 Zell am Ziller // Bräuweg 1   # Zillertal Bier
+  brands: Zillertal
 
 huberbraeu, Familienbrauerei Huber, 1727, www.huberbraeu.at, TI, 6380 St. Johann // Brauweg 2
 

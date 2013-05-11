@@ -4,7 +4,7 @@
 
 
 grieskirchen, Brauerei Grieskirchen, 1708, www.grieskirchner.at, OO, city:grieskirchen, 4710 Grieskirchen // Stadtplatz 14
-
+  brands: Grieskirchner
 
 zipf, Brauerei Zipf (Brau Union), www.zipfer.at, OO, city:zipf, 4871 Zipf // Zipf 22, brau_union  # Part of Brau Union
   brands: Zipfer
@@ -13,29 +13,35 @@ zipf, Brauerei Zipf (Brau Union), www.zipfer.at, OO, city:zipf, 4871 Zipf // Zip
 ## NB: eggenberg key used by Pivovar Eggenberg in Český Krumlov
 
 schlosseggenberg, Brauerei Schloss Eggenberg, 1681, www.schloss-eggenberg.at, OO, city:vorchdorf, 4655 Vorchdorf // Eggenberg 1
-
+  brands: Schloss Eggenberg, Samichlaus
 
 kapsreiter, Kapsreiter Brauerei, OO, city:schaerding, 4780 Schärding // Linzer Straße 1,  ottakringer   # Part of Ottakringer
+  brands: Kapsreiter
 
+## todo: make into/mark as holding company ??
 brauunion, Brau Union Österreich, www.brauunion.at, OO, city:linz, 4020 Linz // Poschacherstrasse 35
 
 
 schnaitl, Brauerei Schnaitl|Privatbrauerei Schnaitl, 1842, www.schnaitl.at, OO, city:eggelsberg, 5142 Eggelsberg // Gundertshausen 9 (Innviertel)
+  brands: Schnaitl
 
 vitzthum, Brauerei Vitzthum, 1600, www.uttendorf-bier.com, OO, city:uttendorf, 5261 Uttendorf // Uttendorf 25 (Innviertel)
+  brands: Uttendorfer
 
 baumgartner, Brauerei Jos. Baumgartner,  1609, www.brauerei-baumgartner.at, OO, 4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)
 
 ried, Brauerei Ried, 1536, www.rieder-bier.at, OO, 4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)
-
+  brands: Rieder
 
 freistaedter, Freistädter Brauhaus|Braucommune in Freistadt, 1770, www.freistaedter-bier.at, OO, city:freistadt, 4240 Freistadt // Brauhausstraße 2 (Mühlviertel)
-
+  brands: Freistädter
+  
 schlaegl, Stiftsbrauerei Schlägl, 1580, www.schlaegl.co.at, OO, city:schlaegl, 4160 Schlägl // Schlägl 1 (Mühlviertel)
+  brands: Schlägl
 
 
 ####
-# Microbreweries
+# More Microbreweries
 
 argus, Argus-Bräu, 2002, www.argus-braeu.at, OO, 4861 Schörfling (am Attersee) // Oberachmanstraße 21
 

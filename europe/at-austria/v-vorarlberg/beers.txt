@@ -1,9 +1,9 @@
 #####################
 # Vorarlberg
 
-Mohren Pils, by:mohren
+Mohren Pilsner,  4.8%, 11.3°, by:mohren
 Mohren Ländle, by:mohren
-Mohren Zwickl, by:mohren
+Mohren Kellerbier|Mohrenbräu Kellerbier|Mohren Zwickl, 5.7%, 12.8°, c:16, by:mohren  # Spezialbier unfiltriert
 
 Fohrenburger Jubiläum,  5.5%, 12.8°, by:fohrenburg   # Spezialbier
 Fohrenburger Stiftle,   4.8%, 11.8°, by:fohrenburg

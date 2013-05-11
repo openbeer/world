@@ -4,12 +4,16 @@
 
 
 goesser, Gösser Brauerei (Brau Union)|Brauerei Göss, www.goesser.at, ST, 8700 Göss/Leoben // Brauhausgasse 1, city:goess, brauunion
+  brands: Gösser
 
 puntigam, Brauerei Puntigam (Brau Union), www.puntigamer.at, ST, 8055 Graz // Triester Straße 359, brauunion
+  brands: Puntigamer, Reininghaus
 
 schladminger, Schladminger Brau (Brau Union), 1909, www.schladmingerbier.at, ST, 8970 Schladming // Hammerfeldweg 163, city:schladming, brauunion
+  brands: Schladminger
 
-murau, Brauerei Murau, www.murauerbier.at, ST, 8850 Murau // Raffaltplatz 19-23, city:murau
+murau, Obermurtaler Brauerei|Brauerei Murau, www.murauerbier.at, ST, 8850 Murau // Raffaltplatz 19-23, city:murau
+  brands: Murauer
 
 
 ####
