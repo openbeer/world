@@ -8,7 +8,7 @@ Grieskirchner Weisse Hell,   5.1%, 12.2°, by:grieskirchen
 
 
 Zipfer Urtyp,        5.4%, 12.2°, by:zipf    # main/bestseller brand
-Zipfer Urtyp Medium, 3.0%,  9.5°, by:zipf
+Zipfer Urtyp Medium, 3.0%,  9.5°, c:5.5, by:zipf, schankbier|leichtbier   # NB: c:5.5  - color in ebc
 Zipfer Märzen,       5.0%, 11.8°, by:zipf
 Zipfer Pils,         5.2%, 11.8°, by:zipf
 Zipfer Josefi Bock,  7.1%, 16.2°, by:zipf

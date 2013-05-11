@@ -7,6 +7,7 @@ grieskirchen, Brauerei Grieskirchen, 1708, www.grieskirchner.at, OO, city:griesk
 
 
 zipf, Brauerei Zipf (Brau Union), www.zipfer.at, OO, city:zipf, 4871 Zipf // Zipf 22, brau_union  # Part of Brau Union
+  brands: Zipfer
 
 
 ## NB: eggenberg key used by Pivovar Eggenberg in Český Krumlov
