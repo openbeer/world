@@ -47,6 +47,10 @@ wurmhoeringer, Privatbrauerei Wurmhöringer, 1652, www.wurmhoeringer.at, O, 4950
 grieskirchen, Brauerei Grieskirchen, 1708, www.grieskirchner.at, O, city:grieskirchen, 4710 Grieskirchen // Stadtplatz 14
   brands: Grieskirchner
 
+stiftengelszell, Trappistenbrauerei / Stift Engelszell, www.stift-engelszell.at, O, 4090 Engelhartszell // Stiftstraße 6
+
+# brewpub
+bogner, Hausbrauerei Bogner, www.hausbrauerei-bogner.at, O, 5280 Braunau // Haselbach 26 (Innviertel)   # Kleinste Weißbierbrauerei der Welt
 
 
 ##############################
@@ -98,6 +102,4 @@ ritterbraeu, Ritterbräu Neumarkt, 1609, www.ritterbraeu.at, O, 4720 Neumarkt/Ha
 schwertberger, Schwertberger Bräu, O, 4311 Schwertberg // Ing. Schmiedl-Straße 7
 
 steffinger, Steffinger Brauerei, O, 4170 St. Stefan am Walde // Unterriedl 4
-
-stiftengelszell, Trappistenbrauerei / Stift Engelszell, www.stift-engelszell.at, O, 4090 Engelhartszell // Stiftstraße 6
 
