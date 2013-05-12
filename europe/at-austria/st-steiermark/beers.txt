@@ -1,5 +1,5 @@
 ##############################
-# Steiermark
+# Steiermark (ST)
 
 Gösser Märzen,  5.2%, 11.8°, by:goesser     # main/bestseller brand (70%)
 Gösser Gold,    5.3%, 12.2°, c:7, b:25, by:goesser  # premium   # NB:b:25 = 25 IBU = bitterness 

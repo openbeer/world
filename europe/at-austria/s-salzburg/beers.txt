@@ -1,5 +1,5 @@
-#############
-# Salzburg
+##################
+# Salzburg (S)
 
 Stiegl Goldbräu, 4.9%, 12°, c:8, by:stiegl, maerzen
 Stiegl Weizengold, by:stiegl

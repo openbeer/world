@@ -1,5 +1,5 @@
 ###########################
-# Niederösterreich
+# Niederösterreich (N)
 
 Zwettler Original,     5.1 %,  11.9°, by:zwettler
 Zwettler Export Lager, 5.0 %,  11.8°, by:zwettler

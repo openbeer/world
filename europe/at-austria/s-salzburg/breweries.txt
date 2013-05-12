@@ -1,26 +1,26 @@
 ####################################################
-# Breweries in Salzburg (S/SB) / Western Austria
+# Breweries in Salzburg (S) / Western Austria
 
 
-trumer, Trumer Privatbrauerei, www.trumer.at, SB, 5162 Obertrum // Brauhausgasse 2, city:obertrum
+trumer, Trumer Privatbrauerei, www.trumer.at, S, 5162 Obertrum // Brauhausgasse 2, city:obertrum
   brands: Trumer
 
-stiegl, Stieglbrauerei|Stieglbrauerei zu Salzburg, 1492, www.stiegl.at, SB, 5017 Salzburg // Kendlerstraße 1, city:salzburg
+stiegl, Stieglbrauerei|Stieglbrauerei zu Salzburg, 1492, www.stiegl.at, S, 5017 Salzburg // Kendlerstraße 1, city:salzburg
   brands: Stiegl
 
 # NB: augustiner key already in use by Augustiner Bräu in Muenchen / de
 #  use augustinermuelln? instead of augustinersbg?
-augustinersbg, Augustinerbräu Kloster Mülln, 1621, www.augustinerbier.at, SB, 5020 Salzburg // Lindhofstraße 7
+augustinersbg, Augustinerbräu Kloster Mülln, 1621, www.augustinerbier.at, S, 5020 Salzburg // Lindhofstraße 7
 
-kaltenhausen, Hofbräu Kaltenhausen (Brau Union), 1475, www.kaltenhausen.at, SB, 5400 Hallein-Kaltenhausen // Salzburger Straße 67, brauunion
+kaltenhausen, Hofbräu Kaltenhausen (Brau Union), 1475, www.kaltenhausen.at, S, 5400 Hallein-Kaltenhausen // Salzburger Straße 67, brauunion
   brands: Edelweiss
 
 ####
 # Microbreweries
 
 
-gusswerk, Brauerei Gusswerk, www.brauhaus-gusswerk.at, SB, 5020 Salzburg // Söllheimerstraße 16
+gusswerk, Brauerei Gusswerk, www.brauhaus-gusswerk.at, S, 5020 Salzburg // Söllheimerstraße 16
 
-dieweisse, Die Weisse Brauerei, 1901, www.salzburgerweissbier.at, SB, 5020 Salzburg // Bayerhamerstraße 10
+dieweisse, Die Weisse Brauerei, 1901, www.salzburgerweissbier.at, S, 5020 Salzburg // Bayerhamerstraße 10
 
 
