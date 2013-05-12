@@ -1,152 +1,153 @@
-breweries:
-- europe/en/breweries
-- europe/ie/breweries
-- europe/ro/breweries
-- europe/sk/breweries
-- europe/sk/breweries.hl
-- north-america/mx/breweries
-- south-america/ar/breweries
-- south-america/br/breweries
-- asia/jp/breweries
-- pacific/au/breweries
+at:
+- europe/at-austria/b-burgenland/breweries
+- europe/at-austria/k-kärnten/breweries
+- europe/at-austria/n-niederösterreich/breweries
+- europe/at-austria/o-oberösterreich/breweries
+- europe/at-austria/s-salzburg/breweries
+- europe/at-austria/st-steiermark/breweries
+- europe/at-austria/t-tirol/breweries
+- europe/at-austria/v-vorarlberg/breweries
+- europe/at-austria/w-wien/breweries
+- europe/at-austria/breweries.hl
+- europe/at-austria/b-burgenland/beers
+- europe/at-austria/k-kärnten/beers
+- europe/at-austria/n-niederösterreich/beers
+- europe/at-austria/o-oberösterreich/beers
+- europe/at-austria/s-salzburg/beers
+- europe/at-austria/st-steiermark/beers
+- europe/at-austria/t-tirol/beers
+- europe/at-austria/v-vorarlberg/beers
+- europe/at-austria/w-wien/beers
 
-breweries_cz:
-- europe/cz/breweries_jc
-- europe/cz/breweries_jm
-- europe/cz/breweries_ka
-- europe/cz/breweries_kr
-- europe/cz/breweries_li
-- europe/cz/breweries_mo
-- europe/cz/breweries_ol
-- europe/cz/breweries_pa
-- europe/cz/breweries_pl
-- europe/cz/breweries_pr
-- europe/cz/breweries_st
-- europe/cz/breweries_us
-- europe/cz/breweries_vy
-- europe/cz/breweries_zl
-- europe/cz/breweries.hl
+cz:
+- europe/cz-czech-republic/jc-jižní-čechy/breweries
+- europe/cz-czech-republic/jm-jižní-morava/breweries
+- europe/cz-czech-republic/ka-karlovy-vary/breweries
+- europe/cz-czech-republic/kr-hradec-králové/breweries
+- europe/cz-czech-republic/li-liberec/breweries
+- europe/cz-czech-republic/mo-moravskoslezsko/breweries
+- europe/cz-czech-republic/ol-olomouc/breweries
+- europe/cz-czech-republic/pa-pardubice/breweries
+- europe/cz-czech-republic/pl-plzeň/breweries
+- europe/cz-czech-republic/pr-praha/breweries
+- europe/cz-czech-republic/st-střední-čechy/breweries
+- europe/cz-czech-republic/us-ústí-nad-labem/breweries
+- europe/cz-czech-republic/vy-vysočina/breweries
+- europe/cz-czech-republic/zl-zlín/breweries
+- europe/cz-czech-republic/breweries.hl
+- europe/cz-czech-republic/beers
 
-breweries_at:
-- europe/at/breweries_bl
-- europe/at/breweries_kt
-- europe/at/breweries_no
-- europe/at/breweries_oo
-- europe/at/breweries_sb
-- europe/at/breweries_st
-- europe/at/breweries_ti
-- europe/at/breweries_vb
-- europe/at/breweries_wi
-- europe/at/breweries.hl
+de:
+- europe/de-deutschland/bb-brandenburg/breweries
+- europe/de-deutschland/be-berlin/breweries
+- europe/de-deutschland/bw-baden-württemberg/breweries
+- europe/de-deutschland/by-bayern/breweries_1_oberbayern
+- europe/de-deutschland/by-bayern/breweries_2_niederbayern
+- europe/de-deutschland/by-bayern/breweries_3_oberpfalz
+- europe/de-deutschland/by-bayern/breweries_4_oberfranken_coburger_land
+- europe/de-deutschland/by-bayern/breweries_4_oberfranken_fichtelgebirge
+- europe/de-deutschland/by-bayern/breweries_4_oberfranken_fraenkische_schweiz
+- europe/de-deutschland/by-bayern/breweries_4_oberfranken_frankenwald
+- europe/de-deutschland/by-bayern/breweries_4_oberfranken_hassberge
+- europe/de-deutschland/by-bayern/breweries_4_oberfranken_steigerwald
+- europe/de-deutschland/by-bayern/breweries_5_mittelfranken
+- europe/de-deutschland/by-bayern/breweries_6_unterfranken
+- europe/de-deutschland/by-bayern/breweries_7_schwaben
+- europe/de-deutschland/hb-bremen/breweries
+- europe/de-deutschland/he-hessen/breweries
+- europe/de-deutschland/hh-hamburg/breweries
+- europe/de-deutschland/mv-mecklenburg-vorpommern/breweries
+- europe/de-deutschland/ni-niedersachsen/breweries
+- europe/de-deutschland/nw-nordrhein-westfalen/breweries
+- europe/de-deutschland/rp-rheinland-pfalz/breweries
+- europe/de-deutschland/sh-schleswig-holstein/breweries
+- europe/de-deutschland/sl-saarland/breweries
+- europe/de-deutschland/sn-sachsen/breweries
+- europe/de-deutschland/st-sachsen-anhalt/breweries
+- europe/de-deutschland/th-thüringen/breweries
+- europe/de-deutschland/beers
+- europe/de-deutschland/bw-baden-württemberg/de.wikipedia
+- europe/de-deutschland/by-bayern/de.wikipedia
+- europe/de-deutschland/by-bayern/beers
 
-breweries_de:
-- europe/de/breweries_bb
-- europe/de/breweries_be
-- europe/de/breweries_bw
-- europe/de/breweries_by_1_oberbayern
-- europe/de/breweries_by_2_niederbayern
-- europe/de/breweries_by_3_oberpfalz
-- europe/de/breweries_by_4_oberfranken_coburger_land
-- europe/de/breweries_by_4_oberfranken_fichtelgebirge
-- europe/de/breweries_by_4_oberfranken_fraenkische_schweiz
-- europe/de/breweries_by_4_oberfranken_frankenwald
-- europe/de/breweries_by_4_oberfranken_hassberge
-- europe/de/breweries_by_4_oberfranken_steigerwald
-- europe/de/breweries_by_5_mittelfranken
-- europe/de/breweries_by_6_unterfranken
-- europe/de/breweries_by_7_schwaben
-- europe/de/breweries_by
-- europe/de/breweries_hb
-- europe/de/breweries_he
-- europe/de/breweries_hh
-- europe/de/breweries_mv
-- europe/de/breweries_ni
-- europe/de/breweries_nw
-- europe/de/breweries_rp
-- europe/de/breweries_sh
-- europe/de/breweries_sn
-- europe/de/breweries_st
-- europe/de/breweries_th
-- europe/de/de.wikipedia_by
+sk:
+- europe/sk-slovakia/breweries
+- europe/sk-slovakia/breweries.hl
+- europe/sk-slovakia/beers
 
-breweries_us:
-- north-america/us/breweries_ak
-- north-america/us/breweries_al
-- north-america/us/breweries_ar
-- north-america/us/breweries_az
-- north-america/us/breweries_ca
-- north-america/us/breweries_co
-- north-america/us/breweries_ct
-- north-america/us/breweries_dc
-- north-america/us/breweries_de
-- north-america/us/breweries_fl
-- north-america/us/breweries_ga
-- north-america/us/breweries_hi
-- north-america/us/breweries_ia
-- north-america/us/breweries_id
-- north-america/us/breweries_il
-- north-america/us/breweries_in
-- north-america/us/breweries_ks
-- north-america/us/breweries_ky
-- north-america/us/breweries_la
-- north-america/us/breweries_ma
-- north-america/us/breweries_md
-- north-america/us/breweries_me
-- north-america/us/breweries_mi
-- north-america/us/breweries_mn
-- north-america/us/breweries_mo
-- north-america/us/breweries_ms
-- north-america/us/breweries_mt
-- north-america/us/breweries_nc
-- north-america/us/breweries_nd
-- north-america/us/breweries_ne
-- north-america/us/breweries_nh
-- north-america/us/breweries_nj
-- north-america/us/breweries_nm
-- north-america/us/breweries_nv
-- north-america/us/breweries_ny
-- north-america/us/breweries_oh
-- north-america/us/breweries_ok
-- north-america/us/breweries_or
-- north-america/us/breweries_pa
-- north-america/us/breweries_ri
-- north-america/us/breweries_sc
-- north-america/us/breweries_sd
-- north-america/us/breweries_tn
-- north-america/us/breweries_tx
-- north-america/us/breweries_ut
-- north-america/us/breweries_va
-- north-america/us/breweries_vt
-- north-america/us/breweries_wa
-- north-america/us/breweries_wi
-- north-america/us/breweries_wv
-- north-america/us/breweries_wy
+us:
+- north-america/us-united-states/ak-alaska/breweries
+- north-america/us-united-states/al-alabama/breweries
+- north-america/us-united-states/ar-arkansas/breweries
+- north-america/us-united-states/az-arizona/breweries
+- north-america/us-united-states/ca-california/breweries
+- north-america/us-united-states/co-colorado/breweries
+- north-america/us-united-states/ct-connecticut/breweries
+- north-america/us-united-states/dc-district-of-columbia/breweries
+- north-america/us-united-states/de-delaware/breweries
+- north-america/us-united-states/fl-florida/breweries
+- north-america/us-united-states/ga-georgia/breweries
+- north-america/us-united-states/hi-hawaii/breweries
+- north-america/us-united-states/ia-iowa/breweries
+- north-america/us-united-states/id-idaho/breweries
+- north-america/us-united-states/il-illinois/breweries
+- north-america/us-united-states/in-indiana/breweries
+- north-america/us-united-states/ks-kansas/breweries
+- north-america/us-united-states/ky-kentucky/breweries
+- north-america/us-united-states/la-louisiana/breweries
+- north-america/us-united-states/ma-massachusetts/breweries
+- north-america/us-united-states/md-maryland/breweries
+- north-america/us-united-states/me-maine/breweries
+- north-america/us-united-states/mi-michigan/breweries
+- north-america/us-united-states/mn-minnesota/breweries
+- north-america/us-united-states/mo-missouri/breweries
+- north-america/us-united-states/ms-mississippi/breweries
+- north-america/us-united-states/mt-montana/breweries
+- north-america/us-united-states/nc-north-carolina/breweries
+- north-america/us-united-states/nd-north-dakota/breweries
+- north-america/us-united-states/ne-nebraska/breweries
+- north-america/us-united-states/nh-new-hampshire/breweries
+- north-america/us-united-states/nj-new-jersey/breweries
+- north-america/us-united-states/nm-new-mexico/breweries
+- north-america/us-united-states/nv-nevada/breweries
+- north-america/us-united-states/ny-new-york/breweries
+- north-america/us-united-states/oh-ohio/breweries
+- north-america/us-united-states/ok-oklahoma/breweries
+- north-america/us-united-states/or-oregon/breweries
+- north-america/us-united-states/pa-pennsylvania/breweries
+- north-america/us-united-states/ri-rhode-island/breweries
+- north-america/us-united-states/sc-south-carolina/breweries
+- north-america/us-united-states/sd-south-dakota/breweries
+- north-america/us-united-states/tn-tennessee/breweries
+- north-america/us-united-states/tx-texas/breweries
+- north-america/us-united-states/ut-utah/breweries
+- north-america/us-united-states/va-virginia/breweries
+- north-america/us-united-states/vt-vermont/breweries
+- north-america/us-united-states/wa-washington/breweries
+- north-america/us-united-states/wi-wisconsin/breweries
+- north-america/us-united-states/wv-west-virginia/breweries
+- north-america/us-united-states/wy-wyoming/breweries
+- north-america/us-united-states/beers
 
 
-europe:
-- europe/at/beers
-- europe/be/beers
-- europe/cz/beers
-- europe/de/beers
-- europe/de/beers_by
-- europe/en/beers
-- europe/ie/beers
-- europe/nl/beers
-- europe/ro/beers
-- europe/sk/beers
+more-breweries:
+- europe/en-england/breweries
+- europe/ie-ireland/breweries
+- europe/ro-romania/breweries
+- north-america/mx-mexico/breweries
+- south-america/ar-argentina/breweries
+- south-america/br-brasil/breweries
+- asia/jp-japan/breweries
+- pacific/au-australia/breweries
 
-# - europe/at/beers.non            # skip non-alcoholic (n/a) / alcohol-free
-
-north-america:
-- north-america/us/beers
-- north-america/mx/beers
-
-south-america:
-- south-america/ar/beers
-- south-america/br/beers
-
-asia:
-- asia/jp/beers
-
-pacific:
-- pacific/au/beers
+more-beers:
+- europe/be-belgium/beers
+- europe/en-england/beers
+- europe/ie-ireland/beers
+- europe/nl-netherlands/beers
+- europe/ro-romania/beers
+- north-america/mx-mexico/beers
+- south-america/ar-argentina/beers
+- south-america/br-brasil/beers
+- asia/jp-japan/beers
+- pacific/au-australia/beers
