@@ -3,7 +3,7 @@
 
 
 
-gols, Pannonia Brauerei Gols, www.golserbier.at, B, 7122 Gols // Sandgrube 1a
+gols, Pannonia Brauerei Gols *, www.golserbier.at, B, 7122 Gols // Sandgrube 1a
 
 ####
 # Microbreweries

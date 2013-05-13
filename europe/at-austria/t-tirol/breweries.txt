@@ -2,10 +2,10 @@
 # Breweries in Tirol [Tyrol] (T) / Western Austria
 
 
-falkenstein, Brauerei Falkenstein (Brau Union), T, 9900 Lienz // Pußtertaler Straße 40, brauunion
+falkenstein, Brauerei Falkenstein (Brau Union) **, T, 9900 Lienz // Pußtertaler Straße 40, brauunion
 
 
-zillertal, Brauhaus Simon Strasser, 1509, www.zillertal-bier.at, T, 6280 Zell am Ziller // Bräuweg 1   # Zillertal Bier
+zillertal, Brauhaus Simon Strasser *, 1509, www.zillertal-bier.at, T, 6280 Zell am Ziller // Bräuweg 1   # Zillertal Bier
   brands: Zillertal
 
 

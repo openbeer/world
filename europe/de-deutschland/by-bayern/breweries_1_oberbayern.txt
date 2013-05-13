@@ -17,19 +17,19 @@
 
 ## big six - Spatenbräu, Augustiner, Paulaner, Hacker-Pschorr, Hofbräu, Löwenbräu
 
-augustiner, Augustiner Bräu München, 1328, BY, www.augustiner-braeu.de, 80339 München // Landsberger Straße 31‎ 
+augustiner, Augustiner Bräu München ***, 1328, BY, www.augustiner-braeu.de, 80339 München // Landsberger Straße 31‎ 
 
-paulaner, Paulaner Brauerei, 1634, www.paulaner.de, 81541 München // Hochstraße 75‎  
+paulaner, Paulaner Brauerei ***, 1634, www.paulaner.de, 81541 München // Hochstraße 75‎  
 
-hackerpschorr, Hacker-Pschorr Bräu, 1417, www.hacker-pschorr.de, 81541 München // Hochstraße 75‎  
+hackerpschorr, Hacker-Pschorr Bräu ***, 1417, www.hacker-pschorr.de, 81541 München // Hochstraße 75‎  
 # NB: war(!) eine Brauerei in München, und ist heute eine Marke der Paulaner-Brauerei
 
-spatenbraeu, Spaten-Franziskaner-Bräu, 1397, www.spatenbraeu.de   # part of abinbev
+spatenbraeu, Spaten-Franziskaner-Bräu ***, 1397, www.spatenbraeu.de, München //    # part of abinbev
 
-loewenbraeu, Löwenbräu, 1383, www.loewenbraeu.de, 80335 München // Nymphenburger Straße 7‎  
+loewenbraeu, Löwenbräu ***, 1383, www.loewenbraeu.de, 80335 München // Nymphenburger Straße 7‎  
 # NB: Seit 1997 gehört Löwenbräu gemeinsam mit Spatenbräu der Spaten-Löwenbräu-Gruppe an, die wiederum zur Anheuser-Busch InBev-Gruppe gehört
 
-hofbraeu, Hofbräu München|Hofbräuhaus München|Staatliches Hofbräuhaus München, 1589, www.hofbraeu-muenchen.de, 81829 München // Hofbräuallee 1 
+hofbraeu, Hofbräu München|Hofbräuhaus München|Staatliches Hofbräuhaus München ***, 1589, www.hofbraeu-muenchen.de, 81829 München // Hofbräuallee 1 
 
 ## more
 
@@ -133,7 +133,7 @@ Privatbrauerei Hofmühl, Eichstätt //
 # --  Landkreis Erding
 
 
-erdinger, Privatbrauerei Erdinger Weißbräu, 1886, BY, www.erdinger.de, 85435 Erding // Franz-Brombach-Straße 1
+erdinger, Privatbrauerei Erdinger Weißbräu ***, 1886, BY, www.erdinger.de, 85435 Erding // Franz-Brombach-Straße 1
 
 Airbräu - Allresto Flughafen München Hotel und Gaststätten GmbH, Flughafen München // 
 
@@ -151,7 +151,7 @@ Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach //
 # ---------------
 # --  Landkreis Freising
 
-weihenstephan, Bayrische Staatsbrauerei Weihenstephan, 1040, www.brauerei-weihenstephan.de, 285354 Freising // Alte Akademie   
+weihenstephan, Bayrische Staatsbrauerei Weihenstephan ***, 1040, www.brauerei-weihenstephan.de, 285354 Freising // Alte Akademie
 
 Gräfliches Hofbrauhaus Freising GmbH, Freising // 
 Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau // 
@@ -160,7 +160,7 @@ Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Halle
 # ---------------
 # --  Landkreis Fürstenfeldbruck
 
-koenigludwig, König Ludwig Brauerei|König Ludwig Schlossbrauerei Kaltenberg, www.koenig-ludwig-brauerei.com, 82256 Fürstenfeldbruck // Augsburger Straße 41 
+koenigludwig, König Ludwig Brauerei|König Ludwig Schlossbrauerei Kaltenberg **, www.koenig-ludwig-brauerei.com, 82256 Fürstenfeldbruck // Augsburger Straße 41
 
 
 Privatbrauerei J. Sedlmayr, Maisach // 
@@ -228,7 +228,7 @@ Klosterbrauerei Scheyern, Scheyern //
 # ---------------
 # --  Kreis Starnberg
 
-andechs, Klosterbrauerei Andechs, 1455, www.andechs.de, 82346 Andechs // Bergstraße 2  
+andechs, Klosterbrauerei Andechs ***, 1455, www.andechs.de, 82346 Andechs // Bergstraße 2  
 
 
 # ---------------

@@ -2,13 +2,14 @@
 # Breweries in Kärnten [Carinthia] (K) / Southern Austria
 
 
-hirt, Brauerei Hirt, 1270, www.hirterbier.at, K, 9322 Micheldorf // Hirt 9, city:micheldorf
+hirt, Brauerei Hirt **, 1270, www.hirterbier.at, K, 9322 Micheldorf // Hirt 9
   brands: Hirter
 
-villacher, Vereinigte Kärntner Brauereien, www.villacher.com,  K, 9500 Villach // Brauhausgasse 6, city:villach
+# todo: change name to Villacher
+villacher, Vereinigte Kärntner Brauereien **, www.villacher.com,  K, 9500 Villach // Brauhausgasse 6
   brands: Villacher
 
-schleppe, Schleppe Brauerei (Vereinigte Kärntner Brauereien), 1607, www.schleppe.at, K, 9020 Klagenfurt // Schleppeplatz 1
+schleppe, Schleppe Brauerei (Vereinigte Kärntner Brauereien) *, 1607, www.schleppe.at, K, 9020 Klagenfurt // Schleppeplatz 1
   brands: Schleppe
 
 ####

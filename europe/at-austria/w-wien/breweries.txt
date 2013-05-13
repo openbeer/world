@@ -2,6 +2,6 @@
 # Breweries in Wien [Vienna] (W) / Eastern Austria
 
 
-ottakringer, Ottakringer Brauerei, 1838, www.ottakringer.at, W, city:wien, 1160 Wien // Ottakringer Platz 1
+ottakringer, Ottakringer Brauerei **, 1838, www.ottakringer.at, W, 1160 Wien // Ottakringer Platz 1
   brands: Ottakringer
 

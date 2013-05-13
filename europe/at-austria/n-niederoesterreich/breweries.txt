@@ -5,26 +5,26 @@
 ##########
 # Wien Umbgebung
 
-schwechat, Brauerei Schwechat (Brau Union), 1796, www.schwechater.at, N, city:schwechat, 2320 Schwechat // Mautner Markhof-Straße 11,   brau_union  # Part of Brau Union
+schwechat, Brauerei Schwechat (Brau Union) **, 1796, www.schwechater.at, N, 2320 Schwechat // Mautner Markhof-Straße 11,   brau_union  # Part of Brau Union
    brands: Schwechater
 
 #############
 # Waldviertel
 
-zwettler, Zwettler Brauerei|Privatbrauerei Zwettl, 1709, www.zwettler.at, N, city:zwettl, 3910 Zwettl // Syrnauer Straße 22-25
+zwettler, Zwettler Brauerei|Privatbrauerei Zwettl **, 1709, www.zwettler.at, N, 3910 Zwettl // Syrnauer Straße 22-25
    brands: Zwettler
 
-weitra,   Weitra Bräu Bierwerkstatt|Brauerei Weitra, 1321, www.bierwerkstatt.at, N, city:weitra, 3970 Weitra // Sparkasseplatz 160, zwettler  # Part of Zwettler
+weitra,   Weitra Bräu Bierwerkstatt|Brauerei Weitra *, 1321, www.bierwerkstatt.at, N, 3970 Weitra // Sparkasseplatz 160, zwettler  # Part of Zwettler
    brands: Weitra, Hadmar
 
-schrems,  Brauerei Schrems, 1410, www.schremser.at, N, city:schrems, 3943 Schrems // Niederschremser Straße 1
+schrems,  Brauerei Schrems *, 1410, www.schremser.at, N, 3943 Schrems // Niederschremser Straße 1
    brands: Schremser
 
 
 #############
 # Weinviertel
 
-hubertus, Hubertus Bräu, 1454, www.hubertus.at, N, city:laa, 2136 Laa/Thaya // Hubertusgasse 1
+hubertus, Hubertus Bräu *, 1454, www.hubertus.at, N, 2136 Laa/Thaya // Hubertusgasse 1
    brands: Hubertus
 
 
@@ -32,11 +32,11 @@ hubertus, Hubertus Bräu, 1454, www.hubertus.at, N, city:laa, 2136 Laa/Thaya // 
 #############
 #  Uncategorized
 
-wieselburg, Brauerei Wieselburg (Brau Union), 1770, www.wieselburger.at, N, city:wieselburg, 3250 Wieselburg // Dr.-Beuerle-Straße 1, brau_union  # Part of Brau Union
+wieselburg, Brauerei Wieselburg (Brau Union) **, 1770, www.wieselburger.at, N, 3250 Wieselburg // Dr.-Beuerle-Straße 1, brau_union  # Part of Brau Union
    brands: Wieselburger
 
 
-egger, Privatbrauerei Fritz Egger, 1978, www.egger-bier.at, N, city:unterradlberg, 3105 Unterradlberg // Tiroler Straße 18
+egger, Privatbrauerei Fritz Egger **, 1978, www.egger-bier.at, N, 3105 Unterradlberg // Tiroler Straße 18
    brands: Egger
 
 
