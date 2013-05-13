@@ -85,6 +85,11 @@ Dixie|Dixie Lager, 4.6%, by:dixie, american_lager
 Dixie Blackened Voodoo|Dixie Blackened Voodoo Lager,  5.0%, by:dixie,  munich_dunkel|dark_lager
 ```
 
+## Talks - Slide Decks
+
+- [`beer.db` - Using Open Beer & Brewery Data in Ruby](https://github.com/geraldb/beer.db/blob/master/talks/beer_db_intro.md)
+
+
 ## Real World Usage
 
 - [beer.db.admin](https://github.com/geraldb/beer.db.admin) - `beer.db` Web Admin Tool in Ruby on Rails (version 3.2 and up).

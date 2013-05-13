@@ -1,16 +1,3 @@
-title:  beer.db - Using Open Beer & Brewery Data in Ruby
-
-%css
-
-pre {
-  padding: 4px 4px 4px 4px;
-  border-top: #bbb 1px solid;
-  border-bottom: #bbb 1px solid;
-  background: #f3f3f3;
-}
-
-%end
-
 # `beer.db` - Using Open Beer & Brewery Data in Ruby
 
 ### Agenda
@@ -56,21 +43,24 @@ Guinness|Guinness Draught, 4.2%, by:guinness, irish_dry_stout|dry_stout|stout
 ##############################
 # Wien
 
-ottakringer, Ottakringer Brauerei, 1838, W, city:wien, »
+ottakringer, Ottakringer Brauerei, 1838, W,  »
     « 1160 Wien // Ottakringer Straße 91
+```
 
+Source: [`europe/at-austria/w-wien/breweries.txt`](https://github.com/geraldb/beer.db/blob/master/europe/at-austria/w-wien/breweries.txt)
 
+```
 ###########################
 # Niederösterreich
 
-zwettler, Zwettler Brauerei, 1709, NÖ, city:zwettl, »
+zwettler, Zwettler Brauerei, 1709, N,  »
     « 3910 Zwettl // Syrnauer Straße 22-25
 
-weitra,   Weitra Bräu Bierwerkstatt, 1321, NÖ, city:weitra, »
+weitra,   Weitra Bräu Bierwerkstatt, 1321, N,  »
     « 3970 Weitra // Sparkasseplatz 160, zwettler
 ```
 
-Source: [`europe/at/breweries.txt`](https://github.com/geraldb/beer.db/blob/master/europe/at/breweries.txt)
+Source: [`europe/at-austria/n-niederoesterreich/breweries.txt`](https://github.com/geraldb/beer.db/blob/master/europe/at-austria/n-niederoesterreich/breweries.txt)
 
 
 
@@ -82,7 +72,11 @@ Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°, by:ottakringer
 Ottakringer (Gold Fassl) Pur,        5.2 %, 11.8°, by:ottakringer, bio
 Ottakringer (Gold Fassl) Pils,       4.6 %, 11.2°, by:ottakringer
 Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°, by:ottakringer
+```
 
+Source: [`europe/at-austria/w-wien/beers.txt`](https://github.com/geraldb/beer.db/blob/master/europe/at-austria/w-wien/beers.txt)
+
+```
 Zwettler Original,     5.1 %,  11.9°, by:zwettler
 Zwettler Pils,         4.9 %,  11.5°, by:zwettler
 Zwettler Zwickl,       5.5 %,  12.5°, by:zwettler
@@ -92,7 +86,8 @@ Weitra Helles,  5.0 %,   11.8°,  by:weitra
 Hadmar,         5.2 %,   12.5°,  by:weitra, bio
 ```
 
-Source: [`europe/at/beers.txt`](https://github.com/geraldb/beer.db/blob/master/europe/at/beers.txt)
+Source: [`europe/at-austria/n-niederoesterreich/beers.txt`](https://github.com/geraldb/beer.db/blob/master/europe/at-austria/n-niederoesterreich/beers.txt)
+
 
 
 
@@ -222,25 +217,22 @@ Get beer by key `/beer/:key`
 GET /beer/guinness
 
 {
-  "beer":
+  "key":"guinness",
+  "title":"Guinness",
+  "synonyms": "Guinness Draught",
+  "abv":"4.2",
+  "srm":null,
+  "og":null,
+  "tags":["irish_dry_stout","dry_stout","stout"],
+  "brewery":
   {
-    "key":"guinness",
-    "title":"Guinness",
-    "synonyms": "Guinness Draught",
-    "abv":"4.2",
-    "srm":null,
-    "og":null,
-    "tags":["irish_dry_stout","dry_stout","stout"],
-    "brewery":
-    {
-      "key": "guinness",
-      "title": "St. James's Gate Brewery / Guinness Brewery"
-    },
-    "country":
-    {
-      "key":"ie",
-      "title":"Irland"
-    }
+    "key": "guinness",
+    "title": "St. James's Gate Brewery / Guinness Brewery"
+  },
+  "country":
+  {
+    "key":"ie",
+    "title":"Irland"
   }
 }
 ```
@@ -254,26 +246,23 @@ Get brewery by key `/brewery/:key`
 GET /brewery/guinness
 
 {
-  "brewery":
-  {
-    "key": "guinness",
-    "title": "St. James's Gate Brewery / Guinness Brewery",
-    "synonyms": null,
-    "since": 1759,
-    "address": "St. James's Gate // Dublin",
-    "tags": ["diageo"],
-    "beers":
-    [
-      {
-        "key": "guinness",
-        "title": "Guinness"
-      }
-    ],
-    "country":
+  "key": "guinness",
+  "title": "St. James's Gate Brewery / Guinness Brewery",
+  "synonyms": null,
+  "since": 1759,
+  "address": "St. James's Gate // Dublin",
+  "tags": ["diageo"],
+  "beers":
+  [
     {
-      "key": "ie",
-      "title": "Irland"
+      "key": "guinness",
+      "title": "Guinness"
     }
+  ],
+  "country":
+  {
+    "key": "ie",
+    "title": "Irland"
   }
 }
 ```
@@ -319,20 +308,22 @@ Do __NOT__ put everything into a single file e.g. `beers.csv`. Better use folder
 
 ```
 europe/
-      at/
+    at-austria/
+      n-niederoesterreich/
          beers.txt
-         beers.2.txt
          breweries.txt
-         breweries.2.txt
+      o-oberoesterreich/
+         beers.txt
+         breweries.txt
          ...
 north-america/
-              mx/
-                beers.txt
-                breweries.txt
-                ...
+    mx-mexico/
+         beers.txt
+         breweries.txt
+         ...
 pacific/
-       au/
-       ...
+    au-australia/
+         ...
 ...
 ```
 
@@ -382,7 +373,7 @@ And many more text patterns in use.
 
 # That's it. Thank you.
 
-### Links 
+### Links
 
 - [github.com/geraldb/beer.db](https://github.com/geraldb/beer.db)
 - [github.com/geraldb/football.db](https://github.com/geraldb/football.db)
@@ -390,6 +381,7 @@ And many more text patterns in use.
 
 ### Questions? Comments?
 
+Send them along to the [Open Beer & Brewery Database Forum/Mailing List](http://groups.google.com/group/beerdb). Thanks!
 
 
 # Bonus: Using CSV, JSON, YML 'n' friends
