@@ -151,7 +151,7 @@ Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach //
 # ---------------
 # --  Landkreis Freising
 
-weihenstephan, Bayrische Staatsbrauerei Weihenstephan, 1040, www.brauerei-weihenstephan.de, 2‎85354 Freising // Alte Akademie   
+weihenstephan, Bayrische Staatsbrauerei Weihenstephan, 1040, www.brauerei-weihenstephan.de, 285354 Freising // Alte Akademie   
 
 Gräfliches Hofbrauhaus Freising GmbH, Freising // 
 Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau // 
