@@ -45,7 +45,7 @@ Brauerei Eugen Häberlen, 1875, www.brauerei-haeberlen.de, 74405 Gaildorf // Kar
 dinkelacker, Dinkelacker, 1888, www.dinkelacker.de, 70178 Stuttgart // Tübinger Straße 48    # part of Dinkelacker-Schwaben Bräu
   brands: Dinkelacker (CD-Pils, Privat, Volksfestbier, Weihnachtsfestbier, Diät-Pilsener, Märzen)
 
-schwabenbraeu, Schwabenbräu, 1878, www.schwabenbraeu.de     # part of Dinkelacker-Schwaben Bräu
+schwabenbraeu, Schwabenbräu, 1878, www.schwabenbraeu.de, Tübinger Straße 46 // 70178 Stuttgart     # part of Dinkelacker-Schwaben Bräu
   brands: Schwabenbräu  (Das Echte, Märzen, Meister Pils, Pilsner, Das Schwarze, Das Helle, Das Weizen, Original Urtyp Export, Volksfestbier, Weihnachtsbier)
 # check: only brand only ??
 

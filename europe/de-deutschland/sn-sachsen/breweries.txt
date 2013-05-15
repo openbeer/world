@@ -4,8 +4,8 @@
 ### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
 
 
+reudnitz, Leipziger Brauhaus zu Reudnitz, 1862, www.reudnitzer.de, Mühlstraße 13 // 04317 Leipzig   # part of Radeberger Gruppe
 
-Leipziger Brauhaus zu Reudnitz, 1862, www.reudnitzer.de, wiki:Leipziger_Brauhaus_zu_Reudnitz, Mühlstraße 13 // 04317 Leipzig   # part of Radeberger Gruppe
 Bayerischer Bahnhof, www.bayerischer-bahnhof.de, Leipzig // 
 Brauerei an der Thomaskirche, www.brauhaus-thomaskirche.de, Leipzig // 
 

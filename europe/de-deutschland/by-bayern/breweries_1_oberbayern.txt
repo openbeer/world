@@ -80,7 +80,7 @@ Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen, Maxlrain //
 
 Bräu im Moos, Tüßling //
 Brauerei Berger, Reischach //
-Brauerei Leidmann Unterneukirchen //
+Brauerei Leidmann, Unterneukirchen //
 Graminger Weißbräu, Altötting //
 Müllerbräu, Neuötting // 
 
@@ -185,7 +185,7 @@ Brauereigasthaus Holzhausen, Holzhausen bei Buchloe //
 # ---------------
 # --  Landkreis Miesbach
 
-hopf, Weißbierbrauerei Hopf, 1892, www.hopfweisse.de, BY, city:miesbach, 83714 Miesbach // Schützenstraße 8+10
+hopf, Weißbierbrauerei Hopf, 1892, www.hopfweisse.de, BY, 83714 Miesbach // Schützenstraße 8+10
 
 tegernsee, Herzoglich Bayerisches Brauhaus Tegernsee|Herzogliches Bräustüberl Tegernsee, www.braustuberl.de, 83684 Tegernsee // Schloßplatz 1
 
