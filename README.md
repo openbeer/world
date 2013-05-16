@@ -28,10 +28,39 @@ That's it.
 Try the `beer.db` Web Admin demo running
 on Heroku [`prost.herokuapp.com`](http://prost.herokuapp.com).
 
+![](https://raw.github.com/geraldb/beer.db/master/i/beer_db_admin_screenshoot.png)
+
+
 ## Web Service / HTTP JSON API - `GET /beer/guinness`
 
 Try the `beer.db` HTTP JSON API demo running
 on Heroku [`prost.herokuapp.com/api`](http://prost.herokuapp.com/api).
+
+Example:
+
+```
+GET /beer/guinness
+
+{
+  "key":"guinness",
+  "title":"Guinness",
+  "synonyms": "Guinness Draught",
+  "abv":"4.2",
+  "srm":null,
+  "og":null,
+  "tags":["irish_dry_stout","dry_stout","stout"],
+  "brewery":
+  {
+    "key": "guinness",
+    "title": "St. James's Gate Brewery / Guinness Brewery"
+  },
+  "country":
+  {
+    "key":"ie",
+    "title":"Irland"
+  }
+}
+```
 
 ## Tables, Schema
 
@@ -43,6 +72,7 @@ The `beer.db` includes the following tables:
 * tags                                              e.g. irish_dry_stout, stout
 * taggings (join table)
 
+For more see the [`beer.sql`](https://github.com/geraldb/beer.db/blob/master/beer.sql) script.
 
 ## Command Line Tool
 
@@ -60,9 +90,9 @@ lets you import beer and brewery data in plain text. Example:
 ### Breweries
 
 ```
-alaskan, Alaskan Brewing Co., 1986, AK, city:juneau, Juneau | AK 99801-9540 // 5429 Shaune Dr.
-brooklyn, Brooklyn Brewery, 1987, NY, city:newyork, Brooklyn | NY 11249 // #1 Brewers Row // 79 N 11th St.
-dixie, Dixie Brewing Co., 1907, LA, city:neworleans, New Orleans | LA 70119 // 2401 Tulane Ave.
+alaskan, Alaskan Brewing Co., 1986, AK, Juneau | AK 99801-9540 // 5429 Shaune Dr.
+brooklyn, Brooklyn Brewery, 1987, NY, Brooklyn | NY 11249 // #1 Brewers Row // 79 N 11th St.
+dixie, Dixie Brewing Co., 1907, LA, New Orleans | LA 70119 // 2401 Tulane Ave.
 ```
 
 ### Beers
