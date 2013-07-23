@@ -58,3 +58,9 @@ kaltenecker, Pivovar Kaltenecker, 1996, city:roznava, Edelényska 2 // 048 01  R
 prievaly, Prievalský Pivovar Sandorf, 2011,  www.sandorf.sk, Prievaly 79 // 906 34  Prievaly
 # Brewbup ? microbrewery 
 # Kapazität der Brauerei beträgt 1000 hl jährlich
+
+
+########################
+# Microbreweries
+
+richtarjakub, Richtar Jakub - Tribi s.r.o., , http://richtarjakub.sk/, city:bratislava, Moskovská 16 // 81108 Bratislava 1
