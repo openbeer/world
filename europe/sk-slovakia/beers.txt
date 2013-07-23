@@ -26,9 +26,9 @@ Martiner 10%, 10°, by:heinekensk, city:martin
 #  first Topvar beer wes brewed in Topoľčany  - add for origin city??
 #  see en.wikipedia.org/wiki/Topoľčany
 
-Topvar 12% Svetlý Ležiak, 12°, by:topvar    # add translation for Svetlý Ležiak
+Topvar 12% Svetlý Ležiak, 12°, by:topvar, pale_lager
 Topvar 10% Svetlé Výčapné, 10°,  by:topvar   # add translation for Svetlé Výčapné
-Topvar 11% Tmavý Výčapný Ležiak [Dark Lager], 11°, by:topvar # add translation for Tmavý Výčapný Ležiak
+Topvar 11% Tmavý Výčapný Ležiak [Dark Lager], 11°, by:topvar, dark_lager # add translation for Tmavý Výčapný Ležiak
 
 
 # Šariš Brewery located in Veľký Šariš near Prešov. - add for origin city?
@@ -50,3 +50,9 @@ Sandorf, by:prievaly
 
 Stein, by:stein
 
+#microbrewery Richtar Jakub
+#TODO ingredients translation
+Anna 10° (Svetlé), 4%, 10°, by:richtarjakub, pale_lager, http://richtarjakub.sk/piva/anna-10/, ingredients voda, jačmenný slad, chmeľ, kvasnice
+Jakub 12° (Svetlé), 5.1%, 12°, by:richtarjakub, pale_lager, http://richtarjakub.sk/piva/jakub-12/, ingredients voda, jačmenný slad, chmeľ, kvasnice
+Gejza 12° (Polotmavý ležiak spodne kvasený), 5.1%, 12°, by:richtarjakub, semidark_lager, http://richtarjakub.sk/piva/gejza-12/, ingredients voda, jačmenný slad, plzenský slad, mníchovský slad, chmeľ, kvasnice
+Katarína 13° (Tmavý ležiak), 4.6%, 13°, by:richtarjakub, dark_lager, http://richtarjakub.sk/piva/katarina-13/, ingredients voda, jačmenný slad, farebný slad, bavorský slad, chmeľ, kvasnice
