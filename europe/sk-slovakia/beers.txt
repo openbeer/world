@@ -1,5 +1,4 @@
 
-
 ## add origin city: en.wikipedia.org/wiki/Hurbanovo
 
 Zlatý Bažant 12% (Svetlé),   5%,   12°, 1860kj/l, by:zlatybazant, pale_lager  # Golden Pheasant
@@ -50,9 +49,11 @@ Sandorf, by:prievaly
 
 Stein, by:stein
 
-#microbrewery Richtar Jakub
-#TODO ingredients translation
-Anna 10° (Svetlé), 4%, 10°, by:richtarjakub, pale_lager, http://richtarjakub.sk/piva/anna-10/, ingredients voda, jačmenný slad, chmeľ, kvasnice
-Jakub 12° (Svetlé), 5.1%, 12°, by:richtarjakub, pale_lager, http://richtarjakub.sk/piva/jakub-12/, ingredients voda, jačmenný slad, chmeľ, kvasnice
-Gejza 12° (Polotmavý ležiak spodne kvasený), 5.1%, 12°, by:richtarjakub, semidark_lager, http://richtarjakub.sk/piva/gejza-12/, ingredients voda, jačmenný slad, plzenský slad, mníchovský slad, chmeľ, kvasnice
-Katarína 13° (Tmavý ležiak), 4.6%, 13°, by:richtarjakub, dark_lager, http://richtarjakub.sk/piva/katarina-13/, ingredients voda, jačmenný slad, farebný slad, bavorský slad, chmeľ, kvasnice
+########################
+# microbrewery Richtar Jakub
+#  TODO ingredients translation
+
+Anna 10° (Svetlé), 4%, 10°,    by:richtarjakub, pale_lager       ##  richtarjakub.sk/piva/anna-10/, ingredients voda, jačmenný slad, chmeľ, kvasnice
+Jakub 12° (Svetlé), 5.1%, 12°, by:richtarjakub, pale_lager       ##  richtarjakub.sk/piva/jakub-12/, ingredients voda, jačmenný slad, chmeľ, kvasnice
+Gejza 12° (Polotmavý ležiak spodne kvasený), 5.1%, 12°, by:richtarjakub, semidark_lager  ## richtarjakub.sk/piva/gejza-12/, ingredients voda, jačmenný slad, plzenský slad, mníchovský slad, chmeľ, kvasnice
+Katarína 13° (Tmavý ležiak), 4.6%, 13°, by:richtarjakub, dark_lager                      ## richtarjakub.sk/piva/katarina-13/, ingredients voda, jačmenný slad, farebný slad, bavorský slad, chmeľ, kvasnice
