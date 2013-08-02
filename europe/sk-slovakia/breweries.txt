@@ -63,4 +63,4 @@ prievaly, Prievalský Pivovar Sandorf, 2011,  www.sandorf.sk, Prievaly 79 // 906
 ########################
 # Microbreweries
 
-richtarjakub, Richtar Jakub - Tribi s.r.o., , http://richtarjakub.sk/, city:bratislava, Moskovská 16 // 81108 Bratislava 1
+richtarjakub, Minipivovar Richtár Jakub, www.richtarjakub.sk, city:bratislava, Moskovská 16 // 81108 Bratislava 1
