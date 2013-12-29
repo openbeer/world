@@ -1,6 +1,0 @@
-
-cuamoc, Cervecería Cuauhtémoc Moctezuma, 1890, NL, city:monterrey, Av. Alfonso Reyes 2202 Nte. // Monterrey | N.L. | C.P. 64442, heineken
-
-gmodelo,  Cervecería Modelo / Grupo Modelo, 1922, DF, city:mexico, Lago Alberto 156 | Col. Anáhuac // México | D.F. | C.P. 11320
-pacifico, Cervecería del Pacífico / Grupo Modelo, SI, city:mazatlan, Calz. Gabriel Leyva y Melchor O. // Mazatlán | Sin. | C.P. 82000
-tropico, Compañía Cervecera del Trópico / Grupo Modelo, OA, city:tuxtepec, Blvd. Antonino Fernández Rodríguez No. 1 // Col. Ex Hacienda El Yucal // Tuxtepec | Oax. | C.P. 68365

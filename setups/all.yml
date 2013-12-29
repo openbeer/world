@@ -9,7 +9,6 @@ more-breweries:
 - world!/europe/en-england/breweries
 - world!/europe/ie-ireland/breweries
 - world!/europe/ro-romania/breweries
-- world!/north-america/mx-mexico/breweries
 - world!/south-america/ar-argentina/breweries
 - world!/south-america/br-brasil/breweries
 - world!/asia/jp-japan/breweries
@@ -21,7 +20,6 @@ more-beers:
 - world!/europe/ie-ireland/beers
 - world!/europe/nl-netherlands/beers
 - world!/europe/ro-romania/beers
-- world!/north-america/mx-mexico/beers
 - world!/south-america/ar-argentina/beers
 - world!/south-america/br-brasil/beers
 - world!/asia/jp-japan/beers
