@@ -1,0 +1,5 @@
+##########################
+# Beers in Cuba (cu)
+
+Palma Cristal, 4.9%
+Bucanero Fuerte, 5.4%
