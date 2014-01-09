@@ -1,6 +1,36 @@
 # World
 
-Free open public domain beer n brewery data
+Free open public domain beer n brewery data. Countries include:
+
+### Europe
+
+- England (en)
+- Ireland (ie)
+- Portugal (pt)
+- Romania (ro)
+- Slovakia (sk)
+
+
+### South America
+
+- Argentina (ar)
+- Brazil (br)
+
+
+### Caribbean Islands
+
+- Cuba (cu)
+
+
+### Asia
+
+- Japan (jp)
+
+
+### Pacific / Oceania
+
+- Australia (au)
+
 
 
 ## Questions? Comments?
