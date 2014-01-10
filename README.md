@@ -6,6 +6,7 @@ Free open public domain beer n brewery data. Countries include:
 
 - England (en)
 - Ireland (ie)
+- Italy (it)
 - Portugal (pt)
 - Romania (ro)
 - Slovakia (sk)

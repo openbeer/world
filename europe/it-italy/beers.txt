@@ -1,0 +1,46 @@
+
+
+########
+# Heineken Italia
+
+Dreher (Italia)
+Von Wunster
+Prinz
+
+
+## - Udine
+Birra Moretti, 4.6%  pale_lager
+Baffo d'Oro   # -- Moretti
+La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|strong_dark_lager|doppelbock
+
+
+##########
+# SABMiller
+
+# -- Wührer (Peroni de Roma)
+
+Peroni|Birra Peroni, 4.7%, lager
+Nastro Azzurro|Peroni Nastro Azzurro,  5.1%,  premium_pilsner
+Peroni Gran Riserva
+
+###############
+# Carlsberg
+
+## -  Splügen
+## -  Birra Poretti
+
+Poretti Premium
+La Blond Bock
+Red Bock 1877
+
+
+########
+# Indie
+
+## - Forst
+
+VIP Pils
+Sixtus, doppelbock
+
+
+150° Anniversario|Menabrea 150° Anniversario, 4.8%, premium_lager
