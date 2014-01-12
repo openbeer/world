@@ -1,17 +1,17 @@
-#### Fuller's
-
-Fuller's London Pride|London Pride, 4.7%, by:fuller, english_pale_ale|pale_ale
-Fuller's London Porter|London Porter, 5.4%, by:fuller, english_porter|porter
-Fuller's Honey Dew, 5.0%, by:fuller, english_pale_ale|pale_ale|organic
-Fuller's ESB, 5.9%, by:fuller,  extra_special|strong_bitter|esb
-Fuller's Discovery, 3.9%, by:fuller,  english_pale_ale|pale_ale
-Fuller's Chiswick|Fuller's Chiswick Bitter, 3.5%,  by:fuller, english_bitter
-Fuller's 1845, 6.3%, by:fuller, english_strong_ale|strong_ale
-
-
-Newcastle Brown Ale|Newkie Brown|Newcastle,  city:newcastle, brown_ale
 
 John Smith Bitter
 
 
+Newcastle Brown Ale|Newkie Brown|Newcastle,  city:newcastle, brown_ale
+
+________________________________________________
+-  Fuller, Smith & Turner|Fuller's, London
+
+Fuller's London Pride|London Pride, 4.7%,  english_pale_ale|pale_ale
+Fuller's London Porter|London Porter, 5.4%,  english_porter|porter
+Fuller's Honey Dew, 5.0%, english_pale_ale|pale_ale|organic
+Fuller's ESB, 5.9%,  extra_special|strong_bitter|esb
+Fuller's Discovery, 3.9%,  english_pale_ale|pale_ale
+Fuller's Chiswick|Fuller's Chiswick Bitter, 3.5%,  english_bitter
+Fuller's 1845, 6.3%, english_strong_ale|strong_ale
 

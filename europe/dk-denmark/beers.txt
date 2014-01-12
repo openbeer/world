@@ -1,0 +1,61 @@
+##########################################
+# Beers in Denmark (dk) / Europe
+
+
+____________________________________
+- Albani Bryggerierne
+
+Odense Pilsner, 4.6%,  pils
+
+____________________________________
+- Amager Bryghus
+
+Amager IPA, 7%, ipa
+
+_____________________________________
+- Brouwerij Carlsberg
+
+Carlsberg, 5%,  pils
+Elephant Beer, 7.2%,  pils
+
+________________________________________
+- Brouwerij Tuborg (Carlsberg)
+
+Tuborg, 4.5%,  pils
+
+______________________________________________
+- Husbryggeriet Jacobsen (Carlsberg)
+
+Jacobson Saaz Blonde, 7.1%,  blond
+Jacobson Sommer Wit, 5.1%,  witbier
+
+_________________________________________
+- Midtfyns Bryghus
+
+Midtfyns Imperial Stout, 9.5%,  stout
+
+_________________________________________
+- Mikkeller
+
+Mikkeller Beer Geek Breakfast, 7.5%,  stout
+Mikkeller Black, 17.5%,  stout     # check if only 7.5% typo?? 
+Mikkeler From To, 8%,  porter
+
+_________________________________________
+- Nørrebro Bryghus
+
+Bombay Pale Ale, 6.5%,  ale
+Little Korkny Ale, 12.25%,   ale
+
+_________________________________________
+- Søgaards Bryghus
+
+Julebuk, 6.3%,  kerstbier
+
+__________________________________________
+- Thysted Bryghus
+
+Limfjords Porter, 7.9%,  porter
+
+
+

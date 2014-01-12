@@ -1,4 +1,8 @@
 
-fuller, Fuller\, Smith & Turner, 1845, city:london, The Griffin Brewery // Chiswick Lane South // London | W4 2QB
+[fuller]
+  Fuller\, Smith & Turner, 1845
+  city:london
+  The Griffin Brewery // Chiswick Lane South // London | W4 2QB
   brands: Fuller's
+
 

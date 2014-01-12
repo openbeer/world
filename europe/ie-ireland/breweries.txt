@@ -1,27 +1,44 @@
 
-#####
+#####################
 # Diageo owns
-#
 
-kilkenny, St. Francis Abbey Brewery|E. Smithwick and Sons Ltd., 1710, KK, city:kilkenny, Parliament St // Kilkenny, diageo|guinness     # Part of  Guinness (Diageo)
+[kilkenny]
+  St. Francis Abbey Brewery|E. Smithwick and Sons Ltd., 1710
+  KK, city:kilkenny
+  Parliament St // Kilkenny
+  diageo|guinness     # Part of  Guinness (Diageo)
 
 
+[guinness]
+  St. James's Gate Brewery / Guinness Brewery|Arthur Guinness Son & Co., 1759
+  www.guinness.com
+  DB, city:dublin
+  Saint James's Gate // Dublin 8
+  diageo     # Part of Diageo
 
-guinness, St. James's Gate Brewery / Guinness Brewery|Arthur Guinness Son & Co., 1759, www.guinness.com, DB, city:dublin, Saint James's Gate // Dublin 8, diageo     # Part of Diageo
 
-
-####
+####################
 # Heineken owns
 
-murphy, Murphy Brewery, 1856, www.murphys.com, CO, city:cork, Lady's Well // Leitrim St. // Cork, heineken
+[murphy]
+  Murphy Brewery, 1856
+  www.murphys.com
+  CO, city:cork
+  Lady's Well // Leitrim St. // Cork
+  heineken
 
 
-#######
+######################
 # More breweries
 
 
 
-porterhouse, The Porterhouse Brewing Co., 1996, www.porterhousebrewco.com, Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown
-# Annual production: 2_500 hl 
+[porterhouse]
+  The Porterhouse Brewing Co., 1996
+  www.porterhousebrewco.com
+  Unit 6D // Rosemount Park Road // Ballycoolin // Blanchardstown
+  2_500 hl   # Annual production
+
+
 
 
