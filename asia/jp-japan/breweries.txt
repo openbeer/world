@@ -1,8 +1,0 @@
-
-asahi, Asahi Breweries, 1889, city:tokyo
-
-sapporo, Sapporo Brewery, 1876, city:tokyo
-
-kirin, Kirin Brewery Co.|Kirin Brewery Company, 1885, city:tokyo
-
-
