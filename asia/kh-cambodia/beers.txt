@@ -1,0 +1,31 @@
+######################################################################
+# Beers in Cambodia (kh) / Asia
+
+_______________________________________
+- Cambodia Brewery
+
+Anchor Beer, lager
+Gold Crown, lager
+
+________________________________________
+- Cambrew
+
+Angkor,           5.2%,   lager
+Angkor Extra Stout, 8%, stout
+Bayon,            4.6%,  lager
+Black Panther,      8%,  stout
+Klang Beer,         6%,  lager
+
+__________________________________________
+- Kingdom Breweries
+
+Kingdom Dark Lager,  lager
+Kingdom Pilsener,  pils
+
+
+____________________________________________
+- Phnom Penh Brewery
+
+Cambodia Lager,  lager
+
+

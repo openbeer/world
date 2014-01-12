@@ -1,5 +1,12 @@
-##########################
-# Beers in Cuba (cu)
+############################################
+# Beers in Cuba (cu) / Caribbean
 
-Palma Cristal, 4.9%
-Bucanero Fuerte, 5.4%
+
+_____________________________________
+- Bucanero Cerveceria
+
+Bucanero Fuerte, 5.4%, lager
+Bucanero Max, 6.5%,   premium_lager
+Cristal|Palma Cristal, 4.9%
+Mayabe Calidad Extra, 5%,  lager
+
