@@ -2,30 +2,153 @@
 Foster's, 5.2%, pale_lager
 
 
-Victoria Bitter, 4.9%, by:carlton, lager
-Crown Lager,     4.9%, by:carlton, lager
-Carlton Draught, 4.6%, by:carlton, pale_lager
-Pure Blonde,     4.6%, by:carlton, low_carbohydrate|lager
+___________________________________________________
+- Carlton and United Breweries,  Melbourne | VI
+
+Victoria Bitter, 4.9%,  lager
+Crown Lager,     4.9%,  lager
+Carlton Draught, 4.6%,  pale_lager|pils
+Pure Blonde,     4.6%,  low_carbohydrate|lager|lite
 
 
-# Cascade
 
-Cascade Premium Lager, by:cascade, lager
-Cascade Pale Ale,      by:cascade, lager
-Cascade Blonde,        by:cascade, lager
-Cascade Amber,         by:cascade, ale
-Cascade Draught,       by:cascade, lager
-Cascade Pure,          by:cascade, lager
+_________________________________________________
+- Cascade Brewery, Hobart | TS
 
-# Coopers
+Cascade Premium Lager, lager
+Cascade Pale Ale,      lager
+Cascade Blonde,        lager
+Cascade Amber,          ale
+Cascade Draught,       lager
+Cascade Pure,          lager
 
-Coopers Sparkling Ale,    5.8%, by:coopers, golden_ale
-Coopers Pale Ale,         4.5%, by:coopers, pale_ale
-Coopers Best Extra Stout, 6.3%, by:coopers, stout
-Coopers Dark Ale,         4.5%, by:coopers, brown_ale
-Coopers Mild Ale,         3.5%, by:coopers, ale
-Coopers Premium Lager,    5.0%, by:coopers, lager
-Coopers 62 Pilsner,       5.0%, by:coopers, pilsner
-Coopers Premium Light,    2.9%, by:coopers
-Coopers Clear,            4.5%, by:coopers
-Coopers Extra Strong Vintage Ale, 7.5%, by:coopers, strong_ale
+Cascade Stout,      5.6%,  stout
+First Harvest Ale,  5.5%,  ale
+
+
+___________________________________________
+- Coopers Brewery, Adelaide | SA
+
+Coopers Sparkling Ale,    5.8%, golden_ale
+Coopers Pale Ale,         4.5%, pale_ale
+Coopers Best Extra Stout, 6.3%, stout
+Coopers Dark Ale,         4.5%, brown_ale
+Coopers Mild Ale,         3.5%, ale
+Coopers Premium Lager,    5.0%, lager
+Coopers 62 Pilsner,       5.0%, pilsner
+Coopers Premium Light,    2.9%
+Coopers Clear,            4.5%
+Coopers Extra Strong Vintage Ale, 7.5%, strong_ale
+
+Coopers Sparkling Ale,    5.8%, ale
+
+
+___________________________________________
+- 3 Ravens Brewery
+
+3 Ravens White, 5.2%, witbier
+
+___________________________________________
+- Barons Brewing Company
+
+Black Wattle Original Ale, 5.8%,  ale
+
+___________________________________________
+- Bluetongue Brewery
+
+Bluetongue Traditional Pilsner, 5.8%,  pils
+
+_________________________________________
+- Burleigh Brewing
+
+Hef, 5%,  hefeweizen
+
+___________________________________________
+- Castlemaine Perkins
+
+XXXX, 2.3%-4.8%,  lager
+
+
+________________________________
+- Grand Ridge Brewery
+
+Moonshine, 8.5%, barley_wine 
+
+____________________________
+- James Boag and Son
+
+James Boag's Premium Lager, 5%,  lager
+
+_____________________________
+- Knapstein Enterprise Brewery
+
+Knappstein Reserve Lager, 5.6%,  lager
+
+____________________________________
+- Little Creatures Brewery
+
+Little Creatures Pale Ale, 5.2%, pale ale
+Rogers' Beer, 3.8%,   ale
+
+___________________________________
+- Malt Shovel Brewery
+
+James Squire Golden Ale, 4.5%,  ale
+James Squire Original Amber Ale, 5%,  ale
+James Squire Pilsener,  5%,  pils
+
+________________________________________
+- Matilda Bay Brewing
+
+Alpha Pale Ale, 5.2%,  ale
+Dogbolter Dark Lager,  5.2%, dark_lager
+
+______________________________________
+- Moo Brew
+
+Moo Brew Pilsner, 5%, pils
+
+__________________________________________
+- Mountain Goat Brewery
+
+Hightal Ale, 4.5%,   ale
+
+_______________________________________
+-  Murray's Craft Brewing
+Murray's Best Extra Porter, 8%,  porter
+
+_________________________________________
+- Red Duck
+
+Red Duck Porter, 6.4%, porter
+
+____________________________________________
+- Red Hill Brewery
+
+Red Hill Christmas Ale, 7.5%,  kerstbier
+Scotch Ale, 5.8%,  ale
+
+_______________________________________
+- Redoak Brewery
+
+Redoak Baltic Porter,  9%,  porter
+Redoak Framboise Froment, 5%,  fruitbier
+Redoak Special Reserve,  12%, barley_wine
+
+___________________________________________
+- South Australian Brewing
+
+Southwark Old Stout, 7.4%, stout
+
+___________________________________________
+- Stone & Wood
+
+Stone & Wood Pale Lager,  4.7%, lager
+
+_______________________________
+- Two Metre Tail
+
+Forester Pale Ale, 5.5%,  pale ale
+Huon Dark Ale, 5.5%,   ale
+
+

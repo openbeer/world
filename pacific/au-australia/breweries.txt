@@ -5,21 +5,63 @@
 ##############################
 # Major Breweries
 
-carlton, Carlton and United Breweries, 1907, VI, city:melbourne, Abbotsford // 
-cascade, Cascade Brewery, 1824, TS, city:hobart
-castlemaine, Castlemaine Perkins, 1878, QL, city:brisbane
-coopers, Coopers Brewery, 1862, SA, city:adelaide, Regency Park // 
-hahn, Hahn Brewery, 1986, NS, city:sydney, Camperdown // 
-boags, J. Boag & Sons, 1883, TS, city:launceston
-sa, South Australian Brewing Co.|South Australian Brewing Company, 1859, SA, city:adelaide, Thebarton // 
-swan, Swan Brewery, 1837, WA, city:canningvale
-tooheys, Tooheys, 1869, NS, city:lidcombe
+[carlton]
+  Carlton and United Breweries, 1907
+  VI, city:melbourne
+  Abbotsford // 
+
+[cascade]
+  Cascade Brewery, 1824
+  TS, city:hobart
+
+[castlemaine]
+  Castlemaine Perkins, 1878
+  QL, city:brisbane
+
+[coopers]
+  Coopers Brewery, 1862
+  SA, city:adelaide
+  Regency Park // 
+
+[hahn]
+  Hahn Brewery, 1986
+  NS, city:sydney
+  Camperdown // 
+
+[boags]
+  J. Boag & Sons, 1883
+  TS, city:launceston
+
+[sa]
+  South Australian Brewing Co.|South Australian Brewing Company, 1859
+  SA, city:adelaide
+  Thebarton // 
+
+[swan]
+  Swan Brewery, 1837
+  WA, city:canningvale
+
+[tooheys]
+  Tooheys, 1869
+  NS, city:lidcombe
 
 
 ########################
 # Micro breweries
 
-bluetongue, Bluetongue Brewery, 2003, WA, city:wanervale
-bootleg, Bootleg Brewery, 1994, WA, city:margaretriver
-burleigh, Burleigh Brewing Company, 2006, QL, city:burleighheads
-creatures, Little Creatures Brewery, 2000, WA, city:fremantle
+[bluetongue]
+  Bluetongue Brewery, 2003
+  WA, city:wanervale
+
+[bootleg]
+  Bootleg Brewery, 1994
+  WA, city:margaretriver
+
+[burleigh]
+  Burleigh Brewing Company, 2006
+  QL, city:burleighheads
+
+[creatures]
+  Little Creatures Brewery, 2000
+  WA, city:fremantle
+
