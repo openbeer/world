@@ -1,0 +1,28 @@
+################################
+# Beers in South Africa (za)
+
+
+_______________________________
+- Mitchell's Knysna Brewery
+
+Mitchell's 90/-,    5%
+Raven Stout,        5%,  stout
+
+
+________________________________
+- SAB (SABMiller)
+
+Castle Lager,  5%,  lager
+Castle Milk Stout, 6%,  stout
+
+____________________________
+- Shongweni Brewery
+
+Durban Pale Ale, 5.7%,  pale_ale
+
+
+___________________________________
+- United National Breweries
+
+iJuba Special, 3-4%,  sorghumbier
+

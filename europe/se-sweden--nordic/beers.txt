@@ -1,0 +1,29 @@
+#####################################################
+# Beers in Sweden (se) / Northern Europe
+
+
+_________________________________________
+- Carlsberg Sverige
+
+D. Carnegie & Co. Porter, 5.5%,  porter
+
+
+_________________________________
+- Jämtlands Bryggeri
+
+Jämtlands Heaven, 5%,  donkere lager
+
+
+__________________________________
+- Nils Oscar Bryggeri
+
+Nils Oscar Imperial Stout, 7%,  stout
+Nils Oscar Kalasöl, 5.2%,  oktoberfestbier
+Nils Oscar Rökporter, 6%,  rookporter
+Nils Oscar God Lager, 5.3%,  lager
+
+________________________________________
+- Nynäshamns Ångbryggeri
+
+Pickla Pils, 4.8%,  pils
+

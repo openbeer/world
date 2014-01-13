@@ -1,36 +1,125 @@
 # World
 
-Free open public domain beer n brewery data. Countries include:
+
+Free open public domain beer n brewery data. Example:
+
+~~~
+_______________________________________
+- Birra Moretti (Heineken), Udine
+
+Birra Moretti,  4.6%  pale_lager
+Baffo D'Oro,    4.8%
+La Rossa|Moretti La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|strong_dark_lager|doppelbock
+
+_________________________________
+- Peroni (SABMiller), Roma
+
+Peroni|Birra Peroni,                  4.7%, lager
+Nastro Azzurro|Peroni Nastro Azzurro,  5.1%,  premium_pilsner
+Peroni Gran Riserva
+...
+~~~
+
+Covered countries include:
 
 ### Europe
 
+#### Western
+
 - England (en)
-- Ireland (ie)
-- Italy (it)
-- Portugal (pt)
-- Romania (ro)
+- Northern Ireland (nir)
+- France (fr)
+- Luxembourg (lu)
+
+#### Central
+
+- Slovenia (si)
 - Slovakia (sk)
+- Hungary (hu)
+- Lichtenstein (li)
+- Poland (pl)
+
+
+#### Southern
+
+- Portugal (pt)
+- Spain (es)
+- Italy (it)
+- Greece (gr)
+- Turkey (tr)
+
+
+#### Northern
+
+- Denmark (dk)
+- Norway (no)
+- Finland (fi)
+- Sweden (se)
+- Estonia (ee)
+- Lithuania (lt)
+- Latvia (lv)
+- Iceland (is)
+
+#### Balkans
+
+- Albania (al)
+- Bosnia n Herzegovina (ba)
+- Croatia (hr)
+- Montenegro (me)
+- Serbia (rs)
+
+#### Eastern
+
+- Romania (ro)
+- Bulgaria (bg)
+- Belarus (by)
+- Ukraine (ua)
+- Russia (ru)
+
+
+### North America
+
+
+### Caribbean Islands
+
+- Cuba (cu)
+- Jamaica (ja)
+- Puerto Rico (pr)
+- Trinidad n Tobago (tt)
 
 
 ### South America
 
 - Argentina (ar)
 - Brazil (br)
+- Peru (pe)
+- Venezuela (ve)
 
 
-### Caribbean Islands
+### Africa
 
-- Cuba (cu)
-
+- Egypt (eg)
+- Ethiopia (et)
+- Kenya (ke)
+- Mozambique (mz)
+- Namibia (na)
+- South Africa (za)
 
 ### Asia
 
-- Japan (jp)
-
+- Cambodia (kh)
+- South Korea (kr)
+- Laos (la)
+- Sri Lanka (lk)
+- Philippines (ph)
+- Singapore (sg)
+- Thailand (th)
+- Vietnam (vn)
 
 ### Pacific / Oceania
 
 - Australia (au)
+- New Zealand (nz)
 
 
 
