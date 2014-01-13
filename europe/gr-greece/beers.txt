@@ -1,0 +1,19 @@
+#########################################
+# Beers in Greece (gr) / Europe
+
+_____________________________________
+- Athenian Brewery
+
+Alpha Beer, 5%,  lager
+
+__________________________________
+- Henninger Hellas (Carlsberg)
+
+Mythos Red, 5.5%,  lager
+
+_________________________________
+- Olympic Brewery
+
+Fix Hellas, 5%,  lager
+
+
