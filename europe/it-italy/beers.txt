@@ -8,10 +8,12 @@ Von Wunster
 Prinz
 
 
-## - Udine
+_______________________________________
+- Birra Moretti (Heineken), Udine
+
 Birra Moretti, 4.6%  pale_lager
-Baffo d'Oro   # -- Moretti
-La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|strong_dark_lager|doppelbock
+Baffo D'Oro,    4.8%
+La Rossa|Moretti La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|strong_dark_lager|doppelbock
 
 
 ##########
@@ -19,9 +21,13 @@ La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|strong_dark_lager|dopp
 
 # -- Wührer (Peroni de Roma)
 
+______________________
+- Peroni (SABMiller)
+
 Peroni|Birra Peroni, 4.7%, lager
 Nastro Azzurro|Peroni Nastro Azzurro,  5.1%,  premium_pilsner
 Peroni Gran Riserva
+
 
 ###############
 # Carlsberg
@@ -37,10 +43,177 @@ Red Bock 1877
 ########
 # Indie
 
-## - Forst
+_______________________________
+- Forst
+
 
 VIP Pils
-Sixtus, doppelbock
-
+Forst Sixtus|Sixtus, 6.5%, doppelbock
 
 150° Anniversario|Menabrea 150° Anniversario, 4.8%, premium_lager
+
+
+
+____________________________________________
+- 32 Via dei Birrai
+
+Oppale,   5,5%
+
+______________________________________
+- Almond '22
+
+Farrotta,    5.7%, speltbier
+Irie,    5%
+
+
+____________________________________
+- Birra Baladin
+
+Elixir,    10%  
+Erika,  9%, honingbier
+Xyauyù, 13.5%, barley_wine
+
+_________________________________
+- Birra del Borgo
+
+Genziana,    6.2%  
+Ke To Re Porter, 4.6%,  porter
+Re Ale, 6.4%,  ale
+
+
+_________________________________
+- Birra Ichnusa
+
+Jennas,    4.9%
+
+
+______________________________________
+- Birreria Pedavena
+
+Birra Dolomiti Doppio Malto,    6.7%
+
+______________________________
+- Birrificio Amiata
+
+Bastarda Doppia,  8.5%,   kastanjebier  
+
+___________________________________
+- Birrificio Baladin
+
+Nora,    6.8%
+
+________________________________________
+- Birrificio Barchessa di Villa Pola
+
+Villa Pola Soci's Schwartz,    4%
+
+_______________________________
+- Birrificio Barley
+
+BB10,    10%
+Sella del Diavolo,  6.5%
+
+________________________________
+- Birrificio Beba
+
+Motor Oil, 6.8%,  donkere lager
+
+___________________________________________
+- Birrificio Bi-Du
+
+Artigian Ale, 6.2%,  ale
+Ley Line,    5%
+
+_______________________________________
+- Birrificio Brùton
+
+Stoner,    7.5%
+
+________________________________________
+- Birrificio Cittavecchia
+
+Formidable,    8%
+
+_______________________________________
+- Birrificio del Ducato
+
+Verdi Imperial Stout, 8.2%,  stout  
+Via Emilia, 5%,  pils
+
+________________________________________
+- Birrificio Grado Plato
+
+Chocarubbica,    7%
+
+_______________________________________
+- Birrificio Italiano
+
+Amber Shock, 7%,  bockbier   
+Bibock, 6.2%,  bockbier
+Tipopils, 5.2%,  pils
+
+______________________________________
+- Birrificio L'Orso Verde
+
+Back Door Bitter, 4.8%, bitter
+
+________________________________________
+- Birrificio La Petrognola
+
+La Petrognola, 5.5%,  speltbier  
+
+________________________________________
+- Birrificio Lambrate
+
+Ghisa, 7%,  stout
+Ligera, 5%,  pale_ale
+Montestella,    4.9%
+
+
+___________________________________________
+-  Birrificio Montegioco
+
+Demon Hunter, 8.5%,  ale
+Draco, 11%,  fruitbier
+La Mummia,     5%
+Quarta Runa, 7%,  fruitbier
+
+______________________________________
+- Birrificio Panil
+
+Panil Barriquée Sour, 8%,  sour_ale
+Panil Enhanced,       9%
+
+______________________________________
+- Birrificio Scarampola
+
+Nivura, 6.5%, pale_ale
+
+_____________________________________
+- Birrificio Troll
+
+Daü, 3.9%,  saison
+Shangrila, 8.5%
+
+___________________________________
+- (Heineken Italia)
+
+Birra Ichnusa, 4.7%-5.6%,  lager
+
+______________________________________
+- Pausa Café
+
+P.I.L.S., 4.2%,  pilsener
+Tosta, 14%, barley_wine
+
+_____________________________________
+- Stazione Birra
+
+Rajah, 5.2%, ipa
+
+
+____________________________________
+- Theresianer
+
+Theresianer Strong Ale, 8.5%,  ale
+

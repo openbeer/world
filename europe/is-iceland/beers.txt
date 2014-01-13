@@ -1,0 +1,15 @@
+#####################################
+# Beers in Iceland (is) / Europe
+
+_____________________________________
+- Egil
+
+Egils Pilsner, 2.2%, pils
+Egils Maltbjør, 5.6%
+
+___________________________
+- Viking Brewery
+
+Viking Lager, 4.6%,   lager
+Viking Thule, 5%,     lager
+
