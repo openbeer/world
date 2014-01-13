@@ -1,0 +1,14 @@
+#####################################################
+# Beers in Luxembourg (lu) / Europe
+
+_____________________________________
+- Brasserie Bofferding
+
+Bofferding, 4.8%, pils
+
+
+________________________________________________
+- Brasserie de Luxembourg Mousel-Diekirch
+
+Diekirch, 4.8%, pils
+

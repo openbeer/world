@@ -1,0 +1,9 @@
+####################################
+# Beers in Kenya (ke) / Africa
+
+________________________________
+- East African Breweries
+
+Tusker Lager,      4.2%, lager
+Tusker Malt Lager,   5%, lager
+

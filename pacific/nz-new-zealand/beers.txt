@@ -1,0 +1,86 @@
+############################################
+# Beers in New Zealand (nz) / Pacific
+
+__________________________________
+- Aotearoa Breweries
+
+Mata Artesian, 5%,  blond
+
+______________________________
+- Epic Brewing
+
+Epic Mayhem, 6.2%, ipa
+
+
+_______________________________
+- Founders Organic Brewery
+
+Fair Maiden Ale, 5.2%, ale
+
+
+_____________________________
+- Green Man
+
+Green Man Stout, 7%,  stout
+
+______________________________________
+- Harrington's Breweries
+
+Big John Special Reserve, 6.5%, donkere_lager
+
+__________________________________
+- Invercargill Brewery
+
+Smokin' Bishop, 7%,  stout
+
+__________________________________
+- Leigh Sawmill Brewing
+
+12 Gauge, 6.5%,  pilsener
+
+__________________________________
+- Mac's Brewery
+
+Hop Rocker, 5%,  pilsener
+
+___________________________________
+- Moa Brewing
+
+Moa Original, 5.5%,  pilsener
+
+______________________________
+- Pink Elephant
+
+Mammoth, 7%,  strong ale
+
+_____________________________
+- Renaissance Brewing
+
+Stonecutter, 7%,  scotch_ale
+
+____________________________
+- The Dux Brewing Co.
+
+Nor'wester, 6.5%,  pale_ale
+
+________________________________
+- The Emerson Brewing Co.
+
+Emerson's Old 95, 7%,   old_ale
+Emerson's Pilsner, 5%,  pils
+
+_________________________________
+- The Twisted Hop
+
+Enigma, 10.5%, barley_wine
+
+__________________________________
+- Three Boys Brewery
+
+Three Boys Wheat, 5%,  witbier
+
+________________________________
+- Tuatara Brewing
+
+Tuatara Indian Pale Ale, 5%, ipa
+

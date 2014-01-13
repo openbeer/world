@@ -1,0 +1,10 @@
+########################################
+# Beers in Laos (la) / Asia
+
+_________________________________
+- Lao Brewery
+
+Beerlao, 5%,  lager
+Beerlao Dark Lager, 6.5%, lager
+
+

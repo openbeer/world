@@ -1,0 +1,20 @@
+##############################################
+# Beers in Lithuania (lt) / Europe
+
+____________________________________
+- AB Gubernija
+
+Gubernijos Ekstra, 5.5%, blond
+
+____________________________________
+- Švyturio Alaus Darykla
+
+Švyturys Baltas, 5%,  witbier
+Švyturys Ekstra, 5.2%, dortmunder
+
+____________________________________
+- Švyturys-Utenos Alus
+
+Utenos Alus,    5%
+Utenos Porteris, 6.8%,  porter
+
