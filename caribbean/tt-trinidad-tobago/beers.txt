@@ -1,0 +1,10 @@
+########################################################
+# Beers in Trinidad n Tobago (tt) / Caribbean
+
+_____________________________________
+- Carib Brewery Trinidad
+
+Carib,              5.2%, lager
+Royal Extra Stout,  6.6%, stout
+
+
