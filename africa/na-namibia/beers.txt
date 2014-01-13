@@ -1,0 +1,11 @@
+###############################################################
+# Beers in Namibia (na) / Africa
+
+________________________________________________
+- Namibia Breweries (Heineken)
+
+Tafel,          4%,  lager
+Windhoek Lager, 4%,  lager
+Hansa,          4.5%,  pils
+
+

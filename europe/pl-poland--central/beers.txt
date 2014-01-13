@@ -1,0 +1,62 @@
+#############################################
+# Beers in Poland (pl) / Central Europe
+
+
+__________________________________________
+-  Bracki Browar Zamkowy (Grupa Żywiec)
+
+Brackie, 5.5%,  pils
+
+___________________________________________
+- Browar Dojdily (Kompania Piwowarska)
+
+Żubr,    6-6.5%, lager  
+
+___________________________________________
+- Browar Jędrzejów
+
+Strzelec Jasne Pelne, 5.2%,  pils 
+Strzelec Mocne, 7%,   sterk
+
+____________________________________________
+- Browar Lomża
+
+Lomża Export, 5.7%,  lager
+
+____________________________________________
+- Browar Okocim
+
+Okocim Mocne, 7%,  sterk
+
+
+___________________________________
+- Browar w Zywcu (Heineken)
+
+Żywiec, 5.6%,  lager
+
+_______________________________
+- Elbrewery
+
+EB, 5%,  pils
+
+_________________________________
+- Grupa Żywiec
+
+Żiewic Porter, 9.5%,  porter
+
+___________________________________________________
+- Lech Browary Wielkopolski (Kompania Piwowarska)
+
+Lech,    0.5-5.5%, lager  
+
+_____________________________________
+- Perla Browary Lubelskie
+
+Perla Chmielowa, 6%,   pils
+
+________________________________________
+- Tyskie Browary Ksiazece
+
+Tyskie Grodnie, 5.6%,  pils 
+Tyskie Ksiazece, 5.7%,  ale
+

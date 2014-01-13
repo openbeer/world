@@ -1,0 +1,15 @@
+###############################################
+# Beers in Portugal (pt) / Southern Europe
+
+________________________________________
+- Sagres (Heineken)
+
+Sagres Bohemia,    6.2%
+Sagres Preta,      4.3%
+
+________________________________________
+- Unicer
+
+Super Bock|Superbock|Superbock Original, 5.6%, pale_lager     # pils ?
+Super Bock Stout|Superbock Stout,         5%,  stout
+

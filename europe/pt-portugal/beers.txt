@@ -1,6 +1,0 @@
-################################
-# Beers in Portugal (pt)
-
-Superbock Original, 5.6%, pale_lager
-Superbock Stout, 5%
-
