@@ -1,0 +1,15 @@
+#########################################################
+# Beers in Slovenia (si) / Central Europe
+
+__________________________________
+- Laško
+
+Laško,  pils
+Zlatorog, 4.9%, pils
+
+__________________________________
+- Pivovarna Union
+
+Union Temno Pivo, 5.2%,  lager
+
+

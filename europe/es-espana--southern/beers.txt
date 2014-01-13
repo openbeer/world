@@ -1,0 +1,46 @@
+####################################################
+# Beers in Spain / España (es) - Southern Europe
+
+
+______________________________________________
+- Cervezas Alhambra
+
+Alhambra Negra,        5.4%,  donkere_lager
+Alhambra Reserva 1925, 6.4%,   lager
+Reserva 1925,          6.4%,   lager
+
+______________________________________________
+- Companyia Cervesera del Montseny
+
++Lupulus,   5.4%
++Malta,  5.1%,  pale_ale
++Negra,  5.2%,   stout
+
+
+______________________________________________
+- Cruzcampo (Heineken España)
+
+Cruzcampo
+Legado de Yuste, 6.5%,   belgium_special
+
+________________________________________________
+- Grupo Mahou-San Miguel
+
+Mahou Negra, 5.5% 
+San Miguel,  5%,   pils
+
+_______________________________________________
+- Llúpols i Lievats
+
+Glops Torrada, 4.8%,  lager
+
+_______________________________________________
+- Damm
+
+Bock Damm,             5.4%,  dunkel_lager
+Estrella Damm,         5.4%,  pils
+Estrella Damm Inedit,  4.8%,  tarwebier
+Voll-Damm,             7.2%, maerzen
+
+
+

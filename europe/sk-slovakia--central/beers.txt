@@ -1,59 +1,96 @@
+######################################################################
+# Beers in Slovakia (sk)  /  Central Europe
+
+
+_____________________________________________________
+- Zlatý Bažant (Heineken Slovensko), Hurbanovo
 
 ## add origin city: en.wikipedia.org/wiki/Hurbanovo
 
-Zlatý Bažant 12% (Svetlé),   5%,   12°, 1860kj/l, by:zlatybazant, pale_lager  # Golden Pheasant
-Zlatý Bažant 10% (Svetlé),   4.3%, 10°, 1600kj/l, by:zlatybazant
-Zlatý Bažant Tmavé [Dark],   3.8%, 10°,           by:zlatybazant, dark
-
-Gemer Standard, by:gemer
+Zlatý Bažant 12% (Svetlé),   5%,   12°, 1860kj/l, pale_lager  # Golden Pheasant
+Zlatý Bažant 10% (Svetlé),   4.3%, 10°, 1600kj/l
+Zlatý Bažant Tmavé [Dark],   3.8%, 10°,           dark
 
 
-Corgoň 12%, 12°, by:heinekensk, city:nitra
-Corgoň 10%, 10°, by:heinekensk, city:nitra
+_______________________________________________________________________
+- Gemer Pivovar Rimavská Sobota (Heineken Slovensko), Rimavská Sobota
+
+Gemer Standard
+
+_______________________
+- Heineken Slovensko
+
+Corgoň 12%, 12°, city:nitra
+Corgoň 10%, 10°,  city:nitra
 
 ## todo: check if martiner is still available/brewed
 
+Martiner 12%, 12°, city:martin
+Martiner 10%, 10°, city:martin
 
-Martiner 12%, 12°, by:heinekensk, city:martin
-Martiner 10%, 10°, by:heinekensk, city:martin
+
+
+
 
 
 ### check - ?? add Kelt 10%, 12%  - is it same as Kelt from prag and brewed in Prague, cz ??
 
 
+____________________________________________
+- Pivovary Topvar, Topoľčany
 
 #  first Topvar beer wes brewed in Topoľčany  - add for origin city??
 #  see en.wikipedia.org/wiki/Topoľčany
 
-Topvar 12% Svetlý Ležiak, 12°, by:topvar, pale_lager
-Topvar 10% Svetlé Výčapné, 10°,  by:topvar   # add translation for Svetlé Výčapné
-Topvar 11% Tmavý Výčapný Ležiak [Dark Lager], 11°, by:topvar, dark_lager # add translation for Tmavý Výčapný Ležiak
+Topvar 12% Svetlý Ležiak, 12°,  pale_lager
+Topvar 10% Svetlé Výčapné, 10°    # add translation for Svetlé Výčapné
+Topvar 11% Tmavý Výčapný Ležiak [Dark Lager], 11°, dark_lager # add translation for Tmavý Výčapný Ležiak
 
+
+_________________________________________
+- Pivovar Šariš, Veľký Šariš  # largest brewery in Slovakia
 
 # Šariš Brewery located in Veľký Šariš near Prešov. - add for origin city?
 #  see en.wikipedia.org/wiki/Veľký_Šariš
 
-Šariš 12%, 12°, by:saris
-Šariš 10%, 10°, by:saris
-Šariš 11% Tmavý [Dark], 11°, by:saris
+Šariš 12%, 12°
+Šariš 10%, 10°
+Šariš 11% Tmavý [Dark], 11°
 
 
+_________________________________________________
+- Banskobystrický Pivovar, Banská Bystrica
 
-Urpiner, by:banskobystricky, pale_lager
+Urpiner, pale_lager
 
 
-Kaltenecker Märzen, by:kaltenecker
+_____________________________________
+- Pivovar Kaltenecker, Rožňava
+
+Kaltenecker Märzen
+Brokát Dark, 5%, dunkel_lager
 
 
-Sandorf, by:prievaly
+_________________________________________
+- Prievalský Pivovar Sandorf, Prievaly
 
-Stein, by:stein
+Sandorf
 
-########################
-# microbrewery Richtar Jakub
-#  TODO ingredients translation
 
-Anna 10° (Svetlé), 4%, 10°,    by:richtarjakub, pale_lager       ##  richtarjakub.sk/piva/anna-10/, ingredients voda, jačmenný slad, chmeľ, kvasnice
-Jakub 12° (Svetlé), 5.1%, 12°, by:richtarjakub, pale_lager       ##  richtarjakub.sk/piva/jakub-12/, ingredients voda, jačmenný slad, chmeľ, kvasnice
-Gejza 12° (Polotmavý ležiak spodne kvasený), 5.1%, 12°, by:richtarjakub, semidark_lager  ## richtarjakub.sk/piva/gejza-12/, ingredients voda, jačmenný slad, plzenský slad, mníchovský slad, chmeľ, kvasnice
-Katarína 13° (Tmavý ležiak), 4.6%, 13°, by:richtarjakub, dark_lager                      ## richtarjakub.sk/piva/katarina-13/, ingredients voda, jačmenný slad, farebný slad, bavorský slad, chmeľ, kvasnice
+___________________________________________________________
+- Pivovar Stein, Bratislava
+
+# NB: located in Bratislava; *** closed in 2007 ***; now brewed by steiger; brand-only
+
+Stein
+
+
+_______________________________________________
+- Minipivovar Richtár Jakub, Bratislava
+
+# microbrewery;  TODO ingredients translation ??
+
+Anna 10° (Svetlé), 4%, 10°,    pale_lager       ##  richtarjakub.sk/piva/anna-10/, ingredients voda, jačmenný slad, chmeľ, kvasnice
+Jakub 12° (Svetlé), 5.1%, 12°,  pale_lager       ##  richtarjakub.sk/piva/jakub-12/, ingredients voda, jačmenný slad, chmeľ, kvasnice
+Gejza 12° (Polotmavý ležiak spodne kvasený), 5.1%, 12°,  semidark_lager  ## richtarjakub.sk/piva/gejza-12/, ingredients voda, jačmenný slad, plzenský slad, mníchovský slad, chmeľ, kvasnice
+Katarína 13° (Tmavý ležiak), 4.6%, 13°, dark_lager                      ## richtarjakub.sk/piva/katarina-13/, ingredients voda, jačmenný slad, farebný slad, bavorský slad, chmeľ, kvasnice
