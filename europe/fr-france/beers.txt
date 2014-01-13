@@ -1,0 +1,119 @@
+#####################################
+# Beers in France (fr) / Europe
+
+_______________________________________
+- Brasserie Baillieux
+
+Cuvée des Jonquilles, 7%,  blond
+
+________________________________________
+- Brasserie Castelain
+
+Ch'ti Ambrée, 5.9%,  biere_de_garde
+Ch'ti Blonde, 6.4%
+
+_________________________________________
+- Brasserie d'Annœullin
+
+L'Angelus, 7%,  blond
+
+
+__________________________________________
+- Brasserie de Bercloux
+
+Bercloux Bière Stout, 5%,  stout
+Bière Cognac,    7%
+
+__________________________________________
+- Brasserie de Licorne
+
+Kasteel Cru, 5.2%, champagnebier
+
+___________________________________________
+- Brasserie des Cimes
+
+Yeti,  8%
+
+___________________________________________
+- Brasserie des Deux Rivières
+
+Coreff Ambrée, 5%,  amber
+
+_______________________________________
+- Brasserie des Naufrageurs
+
+Bière des Naufrageurs Miel, 7.5%,  honingbier
+
+________________________________________
+- Brasserie du Pays Flamand
+
+Anosteké Blonde, 8%, tripel
+Anosteké Brune, 8.5%, bruin
+
+_______________________________________
+- Brasserie Duyck
+
+Jenlain Ambrée, 7.5%,  amber   
+Jenlain Blonde, 7.5%,  biere_de_garde
+Jenlain Noel,   6.8%,  kerstbier
+
+_____________________________________
+- Brasserie Ferme-Beck
+
+Hommelpap, 7%,  blond
+
+_____________________________________________________
+- Brasserie Fischer-Adelshoffen (Heineken France)
+
+Adelscott,    6%  
+Desperados,  5,9%
+
+_________________________________________________
+- Brasserie La Choulette
+
+La Choulette des Sans Culottes, 7%,  blond
+La Choulette Framboise, 6%,  fruitbier
+
+____________________________________
+- Brasserie Meteor
+
+Meteor Pils, 5%,  pils
+
+_______________________________________
+- Brasserie Pietra
+
+Pietra, 6%, amber
+
+__________________________________
+- Brasserie Theillier
+
+La Bavaisienne, 7%,  biere_de_garde
+
+____________________________________
+- Brasserie Thiriez
+
+Etoile du Nord, 4.5%,  blond
+
+_______________________________________
+- Brasseries Kronenbourg
+
+1664,  5.5%, pils
+Kronenbourg, 4.2%,   pils
+Premier Cru, 6%,   lager
+
+________________________________________
+- Ferne-Brasserie de Gaillon
+
+Bière de Brie Ambrée, 7.5%,  amber
+
+____________________________________________
+- La Brasserie de St.-Sylvestre
+
+3 Monts, 8.5%,  blond
+Gavroche, 8.5%,  amber
+
+___________________________________________
+- Les Brasseurs des Gayant
+
+La Goudale, 7.2%,  blond
+

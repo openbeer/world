@@ -1,0 +1,25 @@
+##############################################################
+# Beers in Finland (fi) / Europe
+
+________________________________________
+- Finlandia Sahti
+
+Finlandia Sahti Strong,  10%,  sahti
+
+_______________________________________
+- Lapin Kulta
+
+Lapin Kulta, 2.7-5.2%,  pils|lager
+
+____________________________________
+- Plevna
+
+Plevna Imperial Stout Siperia, 8%,  stout
+
+_____________________________________
+- Sinebrychoff (Heineken)
+
+Koff, 2.5%-7.5%,  lager
+Karhu, 2.8%-8%,   lager
+Sinebrychoff Porter, 7.2%,  porter
+

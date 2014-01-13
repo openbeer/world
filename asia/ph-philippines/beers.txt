@@ -1,0 +1,10 @@
+############################################
+# Beers in the Philippines (ph) / Asia
+
+____________________________________
+- San Miguel
+
+San Miguel Dark, 5%,  muenchener
+San Miguel Pale Pilsen, 5%, pils
+
+
