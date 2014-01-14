@@ -26,9 +26,9 @@ Covered countries include:
 
 #### Western
 
-- [Belgium (be)](/openbeer/be-belgium) (*)
-- [Netherlands (ne)](/openbeer/ne-netherlands) (*)
-- [Ireland (ie)](/openbeer/ie-ireland) (*)
+- [Belgium (be)](../../../be-belgium) (*)
+- [Netherlands (ne)](../../../ne-netherlands) (*)
+- [Ireland (ie)](../../../ie-ireland) (*)
 - England (en)
 - Northern Ireland (nir)
 - France (fr)
@@ -36,10 +36,10 @@ Covered countries include:
 
 #### Central
 
-- [Deutschland (de)](/openbeer/de-deutschland) (*)
-- [Czech Republic (cz)](/openbeer/czech-republic) (*)
-- [Austria (at)](/openbeer/at-austria) (*)
-- [Switzerland (ch)](/openbeer/ch-confoederatio-helvetica--switzerland) (*)
+- [Deutschland (de)](../../../de-deutschland) (*)
+- [Czech Republic (cz)](../../../czech-republic) (*)
+- [Austria (at)](../../../at-austria) (*)
+- [Switzerland (ch)](../../../ch-confoederatio-helvetica--switzerland) (*)
 - Slovenia (si)
 - Slovakia (sk)
 - Hungary (hu)
@@ -86,9 +86,9 @@ Covered countries include:
 
 ### North America
 
-- [United States (us)](../us-united-states) (*)
-- [Canada (ca)](../ca-canada) (*)
-- [Mexico (mx)](../mx-mexico) (*)
+- [United States (us)](../../../us-united-states) (*)
+- [Canada (ca)](../../../ca-canada) (*)
+- [Mexico (mx)](../../../mx-mexico) (*)
 
 
 ### Caribbean Islands
@@ -118,7 +118,7 @@ Covered countries include:
 
 ### Asia
 
-- [Japan (jp)](../jp-japan) (*)
+- [Japan (jp)](../../../jp-japan) (*)
 - Cambodia (kh)
 - South Korea (kr)
 - Laos (la)
