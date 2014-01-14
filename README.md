@@ -30,19 +30,19 @@ Covered countries include:
 
 - [Belgium (be)](../../../be-belgium)†
 - [Netherlands (ne)](../../../nl-netherlands)†
-- [Luxembourg (lu)](europe/lu-luxembourg--western)
+- [Luxembourg (lu)](europe/2--lu-luxembourg--western)
 
 ##### British Isles
 
-- [England (en)](europe/en-england--british-isles)
+- [England (en)](europe/1--en-england--british-isles)
 - Scotland
 - Wales
 - [Ireland (ie)](../../../ie-ireland)†
-- [Northern Ireland (nir)](europe/nir-northern-ireland--british-isles)
+- [Northern Ireland (nir)](europe/1--nir-northern-ireland--british-isles)
 
 <!-- more -->
 
-- [France (fr)](europe/fr-france--western)
+- [France (fr)](europe/2--fr-france--western)
 
 
 #### Northern
