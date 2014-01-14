@@ -9,7 +9,7 @@ _______________________________________
 
 Birra Moretti,  4.6%  pale_lager
 Baffo D'Oro,    4.8%
-La Rossa|Moretti La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|strong_dark_lager|doppelbock
+La Rossa|Moretti La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|doppelbock
 
 _________________________________
 - Peroni (SABMiller), Roma
@@ -26,6 +26,9 @@ Covered countries include:
 
 #### Western
 
+- [Belgium (be)](../be-belgium) (*)
+- [Netherlands (ne)](../ne-netherlands) (*)
+- [Ireland (ie)](../ie-ireland) (*)
 - England (en)
 - Northern Ireland (nir)
 - France (fr)
@@ -33,6 +36,10 @@ Covered countries include:
 
 #### Central
 
+- [Deutschland (de)](../de-deutschland) (*)
+- [Czech Republic (cz)](../czech-republic) (*)
+- [Austria (at)](../at-austria) (*)
+- [Switzerland (ch)](../ch-confoederatio-helvetica--switzerland) (*)
 - Slovenia (si)
 - Slovakia (sk)
 - Hungary (hu)
@@ -79,6 +86,10 @@ Covered countries include:
 
 ### North America
 
+- [United States (us)](../us-united-states) (*)
+- [Canada (ca)](../ca-canada) (*)
+- [Mexico (mx)](../mx-mexico) (*)
+
 
 ### Caribbean Islands
 
@@ -107,6 +118,7 @@ Covered countries include:
 
 ### Asia
 
+- [Japan (jp)](../jp-japan) (*)
 - Cambodia (kh)
 - South Korea (kr)
 - Laos (la)
