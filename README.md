@@ -26,9 +26,9 @@ Covered countries include:
 
 #### Western
 
-- [Belgium (be)](../be-belgium) (*)
-- [Netherlands (ne)](../ne-netherlands) (*)
-- [Ireland (ie)](../ie-ireland) (*)
+- [Belgium (be)](/openbeer/be-belgium) (*)
+- [Netherlands (ne)](/openbeer/ne-netherlands) (*)
+- [Ireland (ie)](/openbeer/ie-ireland) (*)
 - England (en)
 - Northern Ireland (nir)
 - France (fr)
@@ -36,10 +36,10 @@ Covered countries include:
 
 #### Central
 
-- [Deutschland (de)](../de-deutschland) (*)
-- [Czech Republic (cz)](../czech-republic) (*)
-- [Austria (at)](../at-austria) (*)
-- [Switzerland (ch)](../ch-confoederatio-helvetica--switzerland) (*)
+- [Deutschland (de)](/openbeer/de-deutschland) (*)
+- [Czech Republic (cz)](/openbeer/czech-republic) (*)
+- [Austria (at)](/openbeer/at-austria) (*)
+- [Switzerland (ch)](/openbeer/ch-confoederatio-helvetica--switzerland) (*)
 - Slovenia (si)
 - Slovakia (sk)
 - Hungary (hu)
