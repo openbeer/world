@@ -26,7 +26,7 @@ Covered countries include:
 
 #### Western
 
-##### The Low Countries
+##### Low Countries
 
 - [Belgium (be)](../../../be-belgium)†
 - [Netherlands (ne)](../../../nl-netherlands)†
