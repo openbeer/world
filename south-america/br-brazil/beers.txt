@@ -4,19 +4,19 @@
 ___________________________________
 - Cervejaria Brahma
 
-Brahma|Brahma Chopp, 5%,  pale_lager
+‹Brahma›|‹Brahma› Chopp, 5%,  pale_lager
 
 
 ____________________________________
 - Cervejaria Baden Baden
 
 1999, 5.2%,  bitter
-Baden Baden Stout, 7.5%,  stout
+‹Baden Baden› Stout, 7.5%,  stout
 
 ______________________________________
 - Cervejaria Bamberg
 
-Bamberg Rauchbier, 5%, rauchbier
+‹Bamberg› Rauchbier, 5%, rauchbier
 
 ___________________________________
 - Cervejaria Colorado
@@ -31,13 +31,13 @@ Xingu Black Beer, 4.6%,  lager
 ________________________________
 - DaDo Bier
 
-DaDo Belgian Ale, 8.5%,  ale
+‹DaDo› Belgian Ale, 8.5%,  ale
 
 ___________________________________
 - Sudbrack Brewery
 
-Eisenbahn Dunkel, 4.8%,    dunkel
-Eisenbahn Kölsch, 4.8%,    kölsch
-Eisenbahn Pale Ale, 4.8%,  pale_ale
+‹Eisenbahn› Dunkel, 4.8%,    dunkel
+‹Eisenbahn› Kölsch, 4.8%,    kölsch
+‹Eisenbahn› Pale Ale, 4.8%,  pale_ale
 
 

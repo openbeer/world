@@ -5,16 +5,16 @@
 ___________________________________________________________
 - Cervecería y Maltería Quilmes, Quilmes (Buenos Aires)
 
-Quilmes Cristal,    4.9%,  lager
-Quilmes Bock,       6.3%,  bock
-Quilmes Stout,      4.8%,  stout
-Quilmes Red Lager,  4.7%,  red_lager   # american amber - check? is the same?
-Quilmes 1890,       5.4%,  pilsner
+‹Quilmes› Cristal,    4.9%,  lager
+‹Quilmes› Bock,       6.3%,  bock
+‹Quilmes› Stout,      4.8%,  stout
+‹Quilmes› Red Lager,  4.7%,  red_lager   # american amber - check? is the same?
+‹Quilmes› 1890,       5.4%,  pilsner
 
 
-Patagonia Amber Lager, 4.5%, amber_lager   # vienna lager or pale lager- check?
-Patagonia Bohemia Pilsener, 5.2%,  pilsner
-Patagonia Weisse,  5%,   weisse
+‹Patagonia› Amber Lager, 4.5%, amber_lager   # vienna lager or pale lager- check?
+‹Patagonia› Bohemia Pilsener, 5.2%,  pilsner
+‹Patagonia› Weisse,  5%,   weisse
 
 Igúazu, 4.9%,  lager
 
@@ -22,5 +22,6 @@ Igúazu, 4.9%,  lager
 ____________________________________________
 - Cerveza Artisanal Antares
 
-Antares Stout Imperial, 8.5%, stout
+‹Antares› Stout Imperial, 8.5%, stout
+
 

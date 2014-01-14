@@ -7,26 +7,26 @@ _____________________________________________________
 
 ## add origin city: en.wikipedia.org/wiki/Hurbanovo
 
-Zlatý Bažant 12% (Svetlé),   5%,   12°, 1860kj/l, pale_lager  # Golden Pheasant
-Zlatý Bažant 10% (Svetlé),   4.3%, 10°, 1600kj/l
-Zlatý Bažant Tmavé [Dark],   3.8%, 10°,           dark
+‹Zlatý Bažant› 12% (Svetlé),   5%,   12°, 1860kj/l, pale_lager  # Golden Pheasant
+‹Zlatý Bažant› 10% (Svetlé),   4.3%, 10°, 1600kj/l
+‹Zlatý Bažant› Tmavé [Dark],   3.8%, 10°,           dark
 
 
 _______________________________________________________________________
 - Gemer Pivovar Rimavská Sobota (Heineken Slovensko), Rimavská Sobota
 
-Gemer Standard
+‹Gemer› Standard
 
 _______________________
 - Heineken Slovensko
 
-Corgoň 12%, 12°, city:nitra
-Corgoň 10%, 10°,  city:nitra
+‹Corgoň› 12%, 12°, city:nitra
+‹Corgoň› 10%, 10°,  city:nitra
 
 ## todo: check if martiner is still available/brewed
 
-Martiner 12%, 12°, city:martin
-Martiner 10%, 10°, city:martin
+‹Martiner› 12%, 12°, city:martin
+‹Martiner› 10%, 10°, city:martin
 
 
 
@@ -42,9 +42,9 @@ ____________________________________________
 #  first Topvar beer wes brewed in Topoľčany  - add for origin city??
 #  see en.wikipedia.org/wiki/Topoľčany
 
-Topvar 12% Svetlý Ležiak, 12°,  pale_lager
-Topvar 10% Svetlé Výčapné, 10°    # add translation for Svetlé Výčapné
-Topvar 11% Tmavý Výčapný Ležiak [Dark Lager], 11°, dark_lager # add translation for Tmavý Výčapný Ležiak
+‹Topvar› 12% Svetlý Ležiak, 12°,  pale_lager
+‹Topvar› 10% Svetlé Výčapné, 10°    # add translation for Svetlé Výčapné
+‹Topvar› 11% Tmavý Výčapný Ležiak [Dark Lager], 11°, dark_lager # add translation for Tmavý Výčapný Ležiak
 
 
 _________________________________________
@@ -53,21 +53,21 @@ _________________________________________
 # Šariš Brewery located in Veľký Šariš near Prešov. - add for origin city?
 #  see en.wikipedia.org/wiki/Veľký_Šariš
 
-Šariš 12%, 12°
-Šariš 10%, 10°
-Šariš 11% Tmavý [Dark], 11°
+‹Šariš› 12%, 12°
+‹Šariš› 10%, 10°
+‹Šariš› 11% Tmavý [Dark], 11°
 
 
 _________________________________________________
 - Banskobystrický Pivovar, Banská Bystrica
 
-Urpiner, pale_lager
+‹Urpiner›, pale_lager
 
 
 _____________________________________
 - Pivovar Kaltenecker, Rožňava
 
-Kaltenecker Märzen
+‹Kaltenecker› Märzen
 Brokát Dark, 5%, dunkel_lager
 
 

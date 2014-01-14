@@ -1,10 +1,10 @@
 ###########
 # Heineken brands, national
 
-Silva (Original Pils), 5.1%,  11.2°, by:heinekenro,  1974, pilsener|pale_lager
-Silva Dark,              7%,    16°, by:heinekenro,  1996, dunkler_bock|dark_lager
+‹Silva› (Original Pils), 5.1%,  11.2°, by:heinekenro,  1974, pilsener|pale_lager
+‹Silva› Dark,              7%,    16°, by:heinekenro,  1996, dunkler_bock|dark_lager
 
-Ciuc Premium (Pils Original), 4.8%,   11.5°, by:heinekenro, 1974,  www.ciucpremium.ro,  czech_pilsener|pilsener|pale_lager
+‹Ciuc› Premium (Pils Original), 4.8%,   11.5°, by:heinekenro, 1974,  www.ciucpremium.ro,  czech_pilsener|pilsener|pale_lager
 
 Golden Brau,              5%,   11.2°, by:heinekenro, www.goldenbrau.ro, 1998, pale_lager  # bere blondă
 Neumarkt (Original Pils), 5.2%,  11°,  by:heinekenro,  1998, pale_lager  # bere blondă
@@ -22,14 +22,14 @@ Hategana,  4.5%,            by:heinekenro,  1984, pale_lager
 ###########
 # Ursus brands
 
-Ursus Premium, 5%, 11.4°,  by:ursus,  1878, www.ursus.ro, city:cluj, blonde|pale_lager|pilsener  # bere blondă
-Ursus Pils,                by:ursus, city:cluj, pilsener
-Ursus Nefiltrată [Unfiltered], 5%, by:ursus, city:cluj    # only available in cluj in brewery and around
+‹Ursus› Premium, 5%, 11.4°,  by:ursus,  1878, www.ursus.ro, city:cluj, blonde|pale_lager|pilsener  # bere blondă
+‹Ursus› Pils,                by:ursus, city:cluj, pilsener
+‹Ursus› Nefiltrată [Unfiltered], 5%, by:ursus, city:cluj    # only available in cluj in brewery and around
 
-Ursus Black, 6%, 15°, by:ursus, city:cluj, porter|schwarz      # 23 bitterness units - is it a "true" porter or only schwartzbier - any difference? 
+‹Ursus› Black, 6%, 15°, by:ursus, city:cluj, porter|schwarz      # 23 bitterness units - is it a "true" porter or only schwartzbier - any difference? 
 
 
-Timișoreana, 5%, 11.1°, by:ursus, 1718, www.beretimisoreana.ro, city:timisoreana, pale_lager|pilsener # most popular Romanian beer
+‹Timișoreana›, 5%, 11.1°, by:ursus, 1718, www.beretimisoreana.ro, city:timisoreana, pale_lager|pilsener # most popular Romanian beer
 
 Stejar Strong, 7%, 14.5°, by:ursus, www.bereastejar.ro, strong_pale_lager|imperial_pils   # bere blondă
 Azuga,                    by:ursus,  1870,  city:azuga,  pale_lager
@@ -39,8 +39,8 @@ Ciucaș,     4.6%, 10.6°,   by:ursus, 1892, city:brasov
 ############
 # More beers
 
-Bergenbier,                         5%, 11°,      by:bergenbier, 1994, www.bergenbier.ro, city:ploiesti, pale_lager
-Bergenbier Nefiltrată [Unfiltered], 5.0%,         by:bergenbier, 2011, city:ploiesti, white|weizen
+‹Bergenbier›,                         5%, 11°,      by:bergenbier, 1994, www.bergenbier.ro, city:ploiesti, pale_lager
+‹Bergenbier› Nefiltrată [Unfiltered], 5.0%,         by:bergenbier, 2011, city:ploiesti, white|weizen
 Noroc (Blondă),                     4.5%,  10.2°, by:bergenbier, 2000, city:ploiesti, blonde|pale_lager
 
 

@@ -5,9 +5,9 @@
 ______________________________________________
 - Cervezas Alhambra
 
-Alhambra Negra,        5.4%,  donkere_lager
-Alhambra Reserva 1925, 6.4%,   lager
-Reserva 1925,          6.4%,   lager
+‹Alhambra› Negra,                5.4%,  donkere_lager
+‹Alhambra› Reserva 1925|Reserva 1925,  6.4%,   lager
+
 
 ______________________________________________
 - Companyia Cervesera del Montseny
@@ -20,14 +20,14 @@ ______________________________________________
 ______________________________________________
 - Cruzcampo (Heineken España)
 
-Cruzcampo
+‹Cruzcampo›
 Legado de Yuste, 6.5%,   belgium_special
 
 ________________________________________________
 - Grupo Mahou-San Miguel
 
-Mahou Negra, 5.5% 
-San Miguel,  5%,   pils
+‹Mahou› Negra, 5.5% 
+‹San Miguel›,  5%,   pils
 
 _______________________________________________
 - Llúpols i Lievats
@@ -37,10 +37,10 @@ Glops Torrada, 4.8%,  lager
 _______________________________________________
 - Damm
 
-Bock Damm,             5.4%,  dunkel_lager
-Estrella Damm,         5.4%,  pils
-Estrella Damm Inedit,  4.8%,  tarwebier
-Voll-Damm,             7.2%, maerzen
+Bock ‹Damm›,             5.4%,  dunkel_lager
+‹Estrella› ‹Damm›,         5.4%,  pils
+‹Estrella› ‹Damm› Inedit,  4.8%,  tarwebier
+Voll-‹Damm›,             7.2%, maerzen
 
 
 
