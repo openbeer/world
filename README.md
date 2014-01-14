@@ -4,18 +4,18 @@
 Free open public domain beer n brewery data. Example:
 
 ~~~
-_______________________________________
+____________________________________
 - Birra Moretti (Heineken), Udine
 
 Birra Moretti,  4.6%  pale_lager
 Baffo D'Oro,    4.8%
 La Rossa|Moretti La Rossa|Birra Moretti La Rossa, 7.2%, strong_amber_lager|doppelbock
 
-_________________________________
-- Peroni (SABMiller), Roma
+______________________________
+- Peroni (SAB Miller), Roma
 
-Peroni|Birra Peroni,                  4.7%, lager
-Nastro Azzurro|Peroni Nastro Azzurro,  5.1%,  premium_pilsner
+Peroni|Birra Peroni,                   4.7%, lager
+Nastro Azzurro|Peroni Nastro Azzurro,  5.1%, premium_pilsner
 Peroni Gran Riserva
 ...
 ~~~
@@ -29,10 +29,10 @@ Covered countries include:
 - [Belgium (be)](../../../be-belgium) (*)
 - [Netherlands (ne)](../../../ne-netherlands) (*)
 - [Ireland (ie)](../../../ie-ireland) (*)
-- England (en)
-- Northern Ireland (nir)
-- France (fr)
-- Luxembourg (lu)
+- [England (en)](europe/en-england--western)
+- [Northern Ireland (nir)](europe/nir-northern-ireland--western)
+- [France (fr)](europe/fr-france--western)
+- [Luxembourg (lu)](europe/lu-luxembourg--western)
 
 #### Central
 
