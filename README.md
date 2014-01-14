@@ -26,20 +26,48 @@ Covered countries include:
 
 #### Western
 
-- [Belgium (be)](../../../be-belgium) (*)
-- [Netherlands (ne)](../../../ne-netherlands) (*)
-- [Ireland (ie)](../../../ie-ireland) (*)
-- [England (en)](europe/en-england--western)
-- [Northern Ireland (nir)](europe/nir-northern-ireland--western)
-- [France (fr)](europe/fr-france--western)
+##### The Low Countries
+
+- [Belgium (be)](../../../be-belgium)†
+- [Netherlands (ne)](../../../nl-netherlands)†
 - [Luxembourg (lu)](europe/lu-luxembourg--western)
+
+##### British Isles
+
+- [England (en)](europe/en-england--british-isles)
+- Scotland
+- Wales
+- [Ireland (ie)](../../../ie-ireland)†
+- [Northern Ireland (nir)](europe/nir-northern-ireland--british-isles)
+
+<!-- more -->
+
+- [France (fr)](europe/fr-france--western)
+
+
+#### Northern
+
+##### Scandinavia
+
+- Denmark (dk)
+- Norway (no)
+- Finland (fi)
+- Sweden (se)
+- Iceland (is)
+
+##### Baltics
+
+- Estonia (ee)
+- Lithuania (lt)
+- Latvia (lv)
+
 
 #### Central
 
-- [Deutschland (de)](../../../de-deutschland) (*)
-- [Czech Republic (cz)](../../../czech-republic) (*)
-- [Austria (at)](../../../at-austria) (*)
-- [Switzerland (ch)](../../../ch-confoederatio-helvetica--switzerland) (*)
+- [Deutschland (de)](../../../de-deutschland)†
+- [Czech Republic (cz)](../../../cz-czech-republic)†
+- [Austria (at)](../../../at-austria)†
+- [Switzerland (ch)](../../../ch-confoederatio-helvetica--switzerland)†
 - Slovenia (si)
 - Slovakia (sk)
 - Hungary (hu)
@@ -49,23 +77,17 @@ Covered countries include:
 
 #### Southern
 
+##### Iberia
+
 - Portugal (pt)
 - Spain (es)
+
+<!--  more  --->
+
 - Italy (it)
 - Greece (gr)
 - Turkey (tr)
 
-
-#### Northern
-
-- Denmark (dk)
-- Norway (no)
-- Finland (fi)
-- Sweden (se)
-- Estonia (ee)
-- Lithuania (lt)
-- Latvia (lv)
-- Iceland (is)
 
 #### Balkans
 
@@ -83,12 +105,14 @@ Covered countries include:
 - Ukraine (ua)
 - Russia (ru)
 
+##### Caucasus
+
 
 ### North America
 
-- [United States (us)](../../../us-united-states) (*)
-- [Canada (ca)](../../../ca-canada) (*)
-- [Mexico (mx)](../../../mx-mexico) (*)
+- [United States (us)](../../../us-united-states)†
+- [Canada (ca)](../../../ca-canada)†
+- [Mexico (mx)](../../../mx-mexico)†
 
 
 ### Caribbean Islands
@@ -109,6 +133,8 @@ Covered countries include:
 
 ### Africa
 
+<!-- todo: use regions; see world db -->
+
 - Egypt (eg)
 - Ethiopia (et)
 - Kenya (ke)
@@ -116,9 +142,14 @@ Covered countries include:
 - Namibia (na)
 - South Africa (za)
 
+### Middle East
+
+
 ### Asia
 
-- [Japan (jp)](../../../jp-japan) (*)
+<!-- todo: use regions; see world db -->
+
+- [Japan (jp)](../../../jp-japan)†
 - Cambodia (kh)
 - South Korea (kr)
 - Laos (la)
