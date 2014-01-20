@@ -1,26 +1,80 @@
 
-sk:
-- world!/europe/sk-slovakia/breweries
-- world!/europe/sk-slovakia/breweries.hl
-- world!/europe/sk-slovakia/beers
+africa:
+- world!/africa/eg-egypt/beers
+- world!/africa/et-ethiopia/beers
+- world!/africa/ke-kenya/beers
+- world!/africa//mz-mozambique/beers
+- world!/africa/na-namibia/beers
+- world!/africa/za-south-africa/beers
 
+asia:
+- world!/asia/kh-cambodia/beers
+- world!/asia/kr-south-korea/beers
+- world!/asia/la-laos/beers
+- world!/asia/lk-sri-lanka/beers
+- world!/asia/ph-philippines/beers
+- world!/asia/sg-singapore/beers
+- world!/asia/th-thailand/beers
+- world!/asia/vn-vietnam/beers
 
-more-breweries:
-- world!/europe/en-england/breweries
-- world!/europe/ie-ireland/breweries
-- world!/europe/ro-romania/breweries
-- world!/south-america/ar-argentina/breweries
-- world!/south-america/br-brasil/breweries
-- world!/asia/jp-japan/breweries
+caribbean:
+- world!/carribbean/cu-cuba/beers
+- world!/carribbean/ja-jamaica/beers
+- world!/carribbean/pr-puerto-rico/beers
+- world!/carribbean/tt-trinidad-tobago/beers
+
+europe:
+- world!/europe/1--en-england--british-isles/breweries
+- world!/europe/1--en-england--british-isles/beers
+- world!/europe/1--nir-northern-ireland--british-isles/beers
+- world!/europe/2--fr-france--western/beers
+- world!/europe/2--lu-luxembourg--western/beers
+- world!/europe/3--hu-hungary--central/beers
+- world!/europe/3--li-liechtenstein--central/beers
+- world!/europe/3--pl-poland--central/beers
+- world!/europe/3--si-slovenia--central/beers
+- world!/europe/3--sk-slovakia--central/breweries
+- world!/europe/3--sk-slovakia--central/breweries.hl
+- world!/europe/3--sk-slovakia--central/beers
+- world!/europe/4--al-albania--balkans/beers
+- world!/europe/4--ba-bosnia-herzegovina--balkans/beers
+- world!/europe/4--hr-croatia--balkans/beers
+- world!/europe/4--me-montenegro--balkans/beers
+- world!/europe/4--rs-serbia--balkans/beers
+- world!/europe/5--es-espana--southern/beers
+- world!/europe/5--gr-greece--southern/beers
+- world!/europe/5--it-italy--southern/beers
+- world!/europe/5--pt-portugal--southern/beers
+- world!/europe/5--tr-turkey--southern/beers
+- world!/europe/6--ee-estonia--baltics/beers
+- world!/europe/6--lt-lithuania--baltics/beers
+- world!/europe/6--lv-latvia--baltics/beers
+- world!/europe/7--dk-denmark--scandinavia/1--hovedstaden--capital/breweries
+- world!/europe/7--dk-denmark--scandinavia/2--sjaelland--zealand/breweries
+- world!/europe/7--dk-denmark--scandinavia/3--syddanmark--southern/breweries
+- world!/europe/7--dk-denmark--scandinavia/4--midtjylland--central/breweries
+- world!/europe/7--dk-denmark--scandinavia/5--nordjylland--northern/breweries
+- world!/europe/7--dk-denmark--scandinavia/beers
+- world!/europe/7--fi-finland--scandinavia/beers
+- world!/europe/7--is-iceland--scandinavia/beers
+- world!/europe/7--no-norway--scandinavia/beers
+- world!/europe/7--se-sweden--scandinavia/beers
+- world!/europe/8--bg-bulgaria--eastern/beers
+- world!/europe/8--by-belarus--eastern/beers
+- world!/europe/8--ro-romania--eastern/breweries
+- world!/europe/8--ro-romania--eastern/beers
+- world!/europe/8--ru-russia--eastern/beers
+- world!/europe/8--ua-ukraine--eastern/beers
+
+pacific:
 - world!/pacific/au-australia/breweries
-
-more-beers:
-- world!/europe/be-belgium/beers
-- world!/europe/en-england/beers
-- world!/europe/ie-ireland/beers
-- world!/europe/nl-netherlands/beers
-- world!/europe/ro-romania/beers
-- world!/south-america/ar-argentina/beers
-- world!/south-america/br-brasil/beers
-- world!/asia/jp-japan/beers
 - world!/pacific/au-australia/beers
+- world!/pacific/nz-new-zealand/beers
+
+southamerica:
+- world!/south-america/ar-argentian/breweries
+- world!/south-america/ar-argentian/beers
+- world!/south-america/br-brazil/breweries
+- world!/south-america/br-brazil/beers
+- world!/south-america/pe-peru/beers
+- world!/south-america/ve-venezuela/beers
