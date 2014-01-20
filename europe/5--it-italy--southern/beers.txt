@@ -50,7 +50,7 @@ _______________________________
 VIP Pils
 Forst Sixtus|Sixtus, 6.5%, doppelbock
 
-150° Anniversario|Menabrea 150° Anniversario, 4.8%, premium_lager
+onehundredfifyanniversario, 150° Anniversario|Menabrea 150° Anniversario, 4.8%, premium_lager  # fix use 150 in italian for key!!
 
 
 
@@ -71,7 +71,7 @@ ____________________________________
 
 Elixir,    10%  
 Erika,  9%, honingbier
-Xyauyù, 13.5%, barley_wine
+xyauyu, Xyauyù, 13.5%, barley_wine    # fix: add ù to title_to_key!!!
 
 _________________________________
 - Birra del Borgo

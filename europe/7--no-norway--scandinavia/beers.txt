@@ -17,5 +17,6 @@ _________________________________
 - Nogne Ø
 
 Dark Horizon, 16%,  stout
-Nogne Ø Imperial Stout, 9%,  stout
+nogneoimperialstout, Nogne Ø Imperial Stout, 9%,  stout   # fix: add Ø to title_to_key, fix!!!
+
 

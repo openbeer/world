@@ -97,7 +97,7 @@ Etoile du Nord, 4.5%,  blond
 _______________________________________
 - Brasseries Kronenbourg
 
-1664,  5.5%, pils
+sixteensixtyfour, 1664,  5.5%, pils      # fix: use year in fr for key
 Kronenbourg, 4.2%,   pils
 Premier Cru, 6%,   lager
 
@@ -109,7 +109,7 @@ Bière de Brie Ambrée, 7.5%,  amber
 ____________________________________________
 - La Brasserie de St.-Sylvestre
 
-3 Monts, 8.5%,  blond
+threemonts, 3 Monts, 8.5%,  blond    # fix: use year in fr for key
 Gavroche, 8.5%,  amber
 
 ___________________________________________

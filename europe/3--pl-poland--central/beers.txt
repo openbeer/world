@@ -10,7 +10,7 @@ Brackie, 5.5%,  pils
 ___________________________________________
 - Browar Dojdily (Kompania Piwowarska)
 
-Żubr,    6-6.5%, lager  
+zubr, Żubr,    6-6.5%, lager    # fix: add   Ż to title_to_key!!!
 
 ___________________________________________
 - Browar Jędrzejów
@@ -21,7 +21,7 @@ Strzelec Mocne, 7%,   sterk
 ____________________________________________
 - Browar Lomża
 
-Lomża Export, 5.7%,  lager
+lomzaexport, Lomża Export, 5.7%,  lager     # fix: add   ż to title_to_key!!!
 
 ____________________________________________
 - Browar Okocim
@@ -32,7 +32,7 @@ Okocim Mocne, 7%,  sterk
 ___________________________________
 - Browar w Zywcu (Heineken)
 
-Żywiec, 5.6%,  lager
+zywiec, Żywiec, 5.6%,  lager        # fix: add   Ż to title_to_key!!!
 
 _______________________________
 - Elbrewery
@@ -42,7 +42,7 @@ EB, 5%,  pils
 _________________________________
 - Grupa Żywiec
 
-Żiewic Porter, 9.5%,  porter
+ziewic, Żiewic Porter, 9.5%,  porter     # fix: add   Ż to title_to_key!!!
 
 ___________________________________________________
 - Lech Browary Wielkopolski (Kompania Piwowarska)
@@ -57,6 +57,6 @@ Perla Chmielowa, 6%,   pils
 ________________________________________
 - Tyskie Browary Ksiazece
 
-Tyskie Grodnie, 5.6%,  pils 
+Tyskie Grodnie, 5.6%,  pils
 Tyskie Ksiazece, 5.7%,  ale
 
