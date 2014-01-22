@@ -12,9 +12,9 @@ ______________________________________________
 ______________________________________________
 - Companyia Cervesera del Montseny
 
-maslupulus, +Lupulus,   5.4%             # fix: add + to title_to_key
-masmalta, +Malta,  5.1%,  pale_ale       # fix: add + to title_to_key
-masnegra, +Negra,  5.2%,   stout         # fix: add + to title_to_key
+maslupulus, +Lupulus, 5.4%
+masmalta,   +Malta,   5.1%,  pale_ale
+masnegra,   +Negra,   5.2%,  stout
 
 
 ______________________________________________

@@ -10,7 +10,7 @@ Brackie, 5.5%,  pils
 ___________________________________________
 - Browar Dojdily (Kompania Piwowarska)
 
-zubr, Żubr,    6-6.5%, lager    # fix: add   Ż to title_to_key!!!
+Żubr,    6-6.5%, lager
 
 ___________________________________________
 - Browar Jędrzejów
@@ -21,7 +21,7 @@ Strzelec Mocne, 7%,   sterk
 ____________________________________________
 - Browar Lomża
 
-lomzaexport, Lomża Export, 5.7%,  lager     # fix: add   ż to title_to_key!!!
+Lomża Export, 5.7%,  lager
 
 ____________________________________________
 - Browar Okocim
@@ -32,7 +32,7 @@ Okocim Mocne, 7%,  sterk
 ___________________________________
 - Browar w Zywcu (Heineken)
 
-zywiec, Żywiec, 5.6%,  lager        # fix: add   Ż to title_to_key!!!
+Żywiec, 5.6%,  lager
 
 _______________________________
 - Elbrewery
@@ -42,12 +42,12 @@ EB, 5%,  pils
 _________________________________
 - Grupa Żywiec
 
-ziewic, Żiewic Porter, 9.5%,  porter     # fix: add   Ż to title_to_key!!!
+Żiewic Porter, 9.5%,  porter
 
 ___________________________________________________
 - Lech Browary Wielkopolski (Kompania Piwowarska)
 
-Lech,    0.5-5.5%, lager  
+Lech,    0.5-5.5%, lager
 
 _____________________________________
 - Perla Browary Lubelskie
