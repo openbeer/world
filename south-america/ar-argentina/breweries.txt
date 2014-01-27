@@ -3,8 +3,8 @@
 
 
 [quilmes]
-  Cervecería y Maltería Quilmes, 1888,
-  BB, city:quilmes
+  Cervecería y Maltería Quilmes, 1888
+  B, city:quilmes
   Av. 12 de Octubre y Gran Canaria // (B1878AAB) Quilmes - Buenos Aires
-  ab_inbev   # Part of Anheuser-Busch InBev
+  abinbev   # Part of Anheuser-Busch InBev
 
