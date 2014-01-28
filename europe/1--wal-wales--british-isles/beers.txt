@@ -1,0 +1,20 @@
+########################################
+# Beers in Wales (WAL), British Isles
+
+_________________________________
+- S A Brain, Cardiff
+
+Dark
+SA
+SA Gold
+
+# also markets Brains Craft Brewery beers
+
+_________________________________
+- Tiny Rebel Brewery, Newport
+
+Cwtch, red_ale
+Dirty Stop Out, stout
+Full Nelson, pale_ale
+Urban IPA
+

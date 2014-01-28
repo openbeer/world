@@ -26,7 +26,12 @@ caribbean:
 europe:
 - world!/europe/1--en-england--british-isles/breweries
 - world!/europe/1--en-england--british-isles/beers
+## - world!/europe/1--nir-northern-ireland--british-isles/breweries  - fix: change to three later code in world.db!!!
 ## - world!/europe/1--nir-northern-ireland--british-isles/beers  - fix: change to three later code in world.db!!!
+- world!/europe/1--sc-scotland--british-isles/breweries
+- world!/europe/1--sc-scotland--british-isles/beer
+## - world!/europe/1--wal-wales--british-isles/breweries   - fix: change to three later code in world.db!!!
+## - world!/europe/1--wal-wales--british-isles/beers       - fix: change to three later code in world.db!!!
 - world!/europe/2--fr-france--western/beers
 - world!/europe/2--lu-luxembourg--western/beers
 - world!/europe/3--hu-hungary--central/beers

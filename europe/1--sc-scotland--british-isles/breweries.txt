@@ -1,0 +1,28 @@
+###############################################
+# Breweries in Scotland (SCO), British Isles
+
+
+## todo/fix - use sco for country code -- change!!!
+
+
+[brewdog]
+  Brewdog
+  // Ellon (Aberdeenshire)
+
+[caledonian]
+  Caledonian Brewing (Heineken)
+  // Slateford (Edinburgh)
+
+[belhaven]
+  Belhaven Brewing (Greene King), 1719
+  // Dunbar (East Lothian)
+  # part of Greene King since 2005
+
+[highland]
+  Highland Brewing
+  // Swannay (Orkney)
+
+[orkney]
+  Orkney Brewery
+  // Quoyloo (Orkney)
+

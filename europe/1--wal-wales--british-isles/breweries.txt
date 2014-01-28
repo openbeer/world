@@ -1,0 +1,11 @@
+#############################################
+# Breweries in Wales (WAL), British Isles
+
+[sabrain]
+  S A Brain|S A Brain & Co
+  // Cardiff
+
+[tinyrebel]
+  Tiny Rebel Brewery, 2012
+  // Newport
+

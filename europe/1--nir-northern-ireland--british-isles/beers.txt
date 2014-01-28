@@ -1,9 +1,23 @@
 ##############################################
 # Beers in Northern Ireland (NIR) / Europe
 
-_____________________________________
-- Whitewater Brewery
+______________________________________________
+- Whitewater Brewery, Kilkeel (County Down)
 
-Clotworthy Dobbin, 5%, ale
+Belfast Ale
+Belfast Lager
+Clotworthy Dobbin, 5%, dry_porter
+
+# northern Ireland's largest brewery
+
+____________________________________________
+- Hilden Brewing, Lisburn (County Antrim)
+
+Scullion's Irish Ale
+Twisted Hop
+
+# brews College Green beers for Belfast
+
+Molly's Chocolate Stout
 
 

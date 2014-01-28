@@ -1,8 +1,35 @@
+##################################################
+# Breweries in England (ENG), British Isles
 
-[fuller]
+
+# fix: change country code to eng (three letter code)
+
+
+
+_____________________
+- Greater London
+
+[fullers]
   Fuller\, Smith & Turner, 1845
-  city:london
-  The Griffin Brewery // Chiswick Lane South // London | W4 2QB
+  The Griffin Brewery // Chiswick Lane South // London, W4 2QB
   brands: Fuller's
 
+[brodies]
+  Brodie's|Brodie's Brewery
+  // Leyton (East London)
 
+[camdentown]
+  Camden Town Brewery
+  // Kentish Town
+
+[kernel]
+  Kernel Brewery
+  // Bermondsey
+
+[meantime]
+  Meantime Brewing, 1999
+  // Greenwich
+
+[redemption]
+  Redemption Brewing, 2006
+  // Tottenham

@@ -7,8 +7,9 @@ John Smith Bitter
 
 Newcastle Brown Ale|Newkie Brown|Newcastle,  city:newcastle, brown_ale
 
-________________________________________________
--  Fuller, Smith & Turner|Fuller's, London
+
+___________________________________________________________
+-  Fuller, Smith & Turner|Fuller's, Chiswick (West London)
 
 ‹Fuller's› London Pride|London Pride, 4.7%,  english_pale_ale|pale_ale
 ‹Fuller's› London Porter|London Porter, 5.4%,  english_porter|porter
@@ -16,5 +17,46 @@ ________________________________________________
 ‹Fuller's› ESB, 5.9%,  extra_special|strong_bitter|esb
 ‹Fuller's› Discovery, 3.9%,  english_pale_ale|pale_ale
 ‹Fuller's› Chiswick|‹Fuller's› Chiswick Bitter, 3.5%,  english_bitter
-‹Fuller's› 1845, 6.3%, english_strong_ale|strong_ale
+‹Fuller's› 1845, 6.3%, english_strong_ale|strong_ale|amber_ale
+‹Fuller's› Vintage Ale, barley_wine
+Gale's Prize Old Ale, barley_wine
+
+_______________________________________________
+- Brodie's Brewery, Leyton (East London)
+
+Citra, golden_ale
+Dalston Black IPA
+Hackney Red IPA
+Olde Ardour, old_ale
+
+_______________________________________________
+- Camden Town Brewery, Kentish Town (London)
+
+‹Camden› Town Hells
+‹Camden› Town Ink, dry_nitro_stout
+
+__________________________________________
+- Kernel Brewery, Bermondsey (London)
+
+Export Stout London 1890
+Imperial Brown Stout London 1856
+
+_______________________________________________
+- Meantime Brewing, Greenwich (Greater London)
+
+Union, vienna_lager
+London Pale Ale
+India Pale Ale
+London Porter
+
+__________________________________________________
+- Redemption Brewing, Tottenham (Greater London)
+
+Trinity, 3%, golden_ale
+Urban Dusk
+Fellowship Porter
+
+
+
+
 

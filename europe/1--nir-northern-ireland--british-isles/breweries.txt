@@ -1,0 +1,11 @@
+#######################################################
+# Breweries in Northern Ireland (NIR) / British Isles
+
+
+[whitewater]
+  Whitewater Brewery
+  // Kilkeel (County Down)
+
+[hilden]
+  Hilden Brewing, 1981
+  // Lisburn (County Antrim)

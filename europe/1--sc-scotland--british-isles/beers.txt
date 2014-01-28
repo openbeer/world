@@ -1,0 +1,46 @@
+##############################################
+# Beers in Scotland (SCO)
+
+
+__________________________________
+- Brewdog, Ellon (Aberdeenshire)
+
+Punk IPA
+5am Saint, amber_ale
+Hardcore IPA
+Tokyo, 18.2%, stout
+Paradox,   imperial    # whisky-barrel-aged
+
+
+________________________________________________________
+- Caledonian Brewing (Heineken), Slateford (Edinburgh)
+
+Deuchars IPA, golden_ale
+80/-
+Merman
+
+_________________________________________________________
+- Belhaven Brewing (Greene King), Dunbar (East Lothian)
+
+80/-
+St Andrews Ale
+Black, nitro_stout
+60/-
+
+__________________________________________________
+- Highland Brewing, Swannay (Orkney)
+
+Orkney Blast, strong_pale_ale
+Orkney IPA
+Porter
+
+____________________________________________
+- Orkney Brewery, Quoyloo (Orkney)
+
+Dark Island, dark_brown_ale
+Dark Island Reserve
+Skull Splitter, barley_wine
+
+Latitude
+## brews Atlas brand check ??
+
